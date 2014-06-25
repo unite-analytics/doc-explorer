@@ -1,0 +1,292 @@
+
+United Nations A/56/684
+
+ 
+
+General Assembly Distr.: General
+6 December 2001
+
+Original: English
+
+01-68180 (E)    071201
+*0168180*
+
+Fifty-sixth session
+Agenda item 122
+Programme budget for the biennium 2000-2001
+
+Programme budget for the biennium 2000-2001
+
+Integrated Management Information System project
+
+Report of the Advisory Committee on Administrative and
+Budgetary Questions
+
+1. The Advisory Committee on Administrative and Budgetary Questions has
+considered the thirteenth progress report of the Secretary-General on the Integrated
+Management Information System (IMIS) (A/56/602). During its consideration of the
+report, the Advisory Committee met with representatives of the Secretary-General.
+
+2. The report of the Secretary-General describes the activities relating to the
+IMIS operations of the past 12 months, analyses its present technological conditions
+and discusses the future developments with the system in place. In order to ensure
+the ongoing viability of IMIS and to ensure that it would continue to meet the
+requirements of the Organization, the Secretary-General proposes five specific areas
+of activity for the modernization of the technical architecture of IMIS. It is proposed
+to commence this work in January 2002 and to complete it by May 2003. Additional
+resources required for the ongoing costs associated with the maintenance and
+technological enhancement of the system would amount to $4,659,000 (see
+A/56/602, paras. 59-64). Upon request, the Committee was provided with a detailed
+work programme for the proposed technological updates of the system (see the
+annex to the present report). The Committee has no objection to the proposal.
+
+3. In addition, as indicated in paragraph 54 and table 1 of document A/56/602,
+the amount of $975,000 is requested over the provision of $77.6 million approved
+by the General Assembly in its resolution 53/219 of 7 April 1999 for the
+development of IMIS. The additional requirements of $975,000 relate to a need for
+extensive data clean-up work and verification for implementation of the Payroll
+module in offices away from Headquarters, which was not fully anticipated. Thus,
+the revised and final total costs for the development and implementation of the IMIS
+project would amount to $78,554,600 from its inception in 1989. The main areas
+covered by the system include personnel management, post management,
+accounting, procurement, travel, payroll and budget execution, in line with the
+
+
+
+2
+A/56/684
+
+purpose of the system, as approved by the General Assembly in its resolution 43/217
+of 21 December 1988, which is to process and report on administrative actions at all
+major duty stations (see A/56/602, para. 1).
+
+4. The Advisory Committee notes that the total additional requirements requested
+by the Secretary-General, as indicated in paragraphs 2 and 3 above, amount to
+$5,634,700. It is proposed to finance these requirements from the current available
+investment income reported under the special account for IMIS, which amounts to
+$5,956,000 as at 30 June 2001 (see A/56/602, paras. 64-66).
+
+5. The main IMIS activities since the last progress report are discussed in detail
+in chapter II, sections B to F, and summarized in paragraphs 37-40 of document
+A/56/602. These include activities to assist offices away from Headquarters in
+implementation of the system locally and related issues of training and support. The
+system is currently installed either totally or partially at Headquarters and major
+duty stations (namely Addis Ababa, Bangkok, Beirut, Geneva, Nairobi, Santiago and
+Vienna). It is also being used by the United Nations Development Programme
+(UNDP), the United Nations Population Fund (UNFPA) and the United Nations
+Office for Project Services (UNOPS), and the human resources module is used by
+the secretariat of the United Nations Framework Convention on Climate Change, the
+International Labour Organization (ILO), the International Trade Centre
+UNCTAD/WTO (ITC) and the United Nations Children’s Fund (UNICEF) (see
+A/56/602, para. 2).
+
+6. The Advisory Committee notes from the summary of the report that,
+“following the completion of the development phase of IMIS as initially planned
+and the implementation of the payroll module at Headquarters in September 2000,
+the payroll system has been successfully implemented in the Economic and Social
+Commission for Western Asia (ESCWA) and in the United Nations Office at Vienna.
+Preparations for its implementation are well advanced in the other offices away from
+Headquarters. UNDP and UNICEF are also currently preparing to implement the
+payroll functionality. With the implementation of the finance functionality now
+complete in all major duty stations, usage of the system has continued to increase”
+(see also A/56/602, paras. 22-28). The Committee was informed that, at present,
+there are over 4,500 registered users (see also A/56/602, annex II).
+
+7. The Advisory Committee recalls that the Secretary-General intended to report
+on lessons learned in the context of the thirteenth progress report on IMIS (see
+A/55/7/Add.8, para. 7). In this connection, the Committee was informed that a final
+and comprehensive report on IMIS was to be issued shortly, as an addendum to
+document A/56/602, which would include a discussion on lessons learned from the
+development and implementation of the system. The Advisory Committee requests
+that, after that final report, information on maintenance and future
+enhancements to the system be provided in the context of the proposed
+programme budget, under the corresponding section of the budget, including
+information on further progress made with regard to integration of IMIS with
+other programme budgeting and reporting systems being developed by the
+Secretariat.
+
+8. The Advisory Committee notes from paragraph 36 of document A/56/602 that,
+during the reporting period, within the framework of the Task Force on Common
+Services, discussions continued on the establishment of IMIS as a common service
+for the United Nations funds and programmes. Maintenance services for IMIS
+
+
+
+3
+A/56/684
+
+applications installed or to be installed in the future as well as technical help desks
+and consulting services for United Nations funds and programmes will continue to
+be provided on a cost-recovery basis. The Advisory Committee is aware, from the
+exchange of information with representatives of funds and programmes during its
+review of their administrative support budgets, of shortcomings and technological
+obsolescence in IMIS that have rendered the system unattractive for programme
+applications by funds and programmes. As indicated in paragraph 12 below, the
+Committee requests that this issue be addressed as a matter of priority.
+
+9. The Advisory Committee notes the information provided in paragraphs 41 to
+47 of document A/56/602 on the implementation of IMIS in peacekeeping
+operations and the International Tribunals. With regard to peacekeeping operations,
+the first phase of the analysis has been focused on the technical platform and remote
+accessibility. A series of tests of remote access have been carried out. It is apparent
+from this phase of analysis that the telecommunications infrastructure would require
+enhancing in most locations in order to provide satisfactory performance of the
+remote access to IMIS by the peacekeeping missions (see A/56/602, para. 44).
+
+10. On the basis of the results of tests of remote access, the Advisory Committee
+notes that the Secretariat proposes to proceed with the implementation of IMIS in
+peacekeeping operations on a phased approach basis. The first phase of the
+implementation is targeted for completion in early 2002 and will consist of a link
+between IMIS at Headquarters and three peacekeeping field locations (namely the
+United Nations Truce Supervision Organization (UNTSO), the United Nations
+Peacekeeping Force in Cyprus (UNFICYP) and the United Nations Logistics Base at
+Brindisi). For these missions, the communications infrastructure required is already
+in place and is considered sufficiently reliable to support remote access (see
+A/56/602, para. 45).
+
+11. With regard to the International Tribunals, the Advisory Committee notes that,
+with the full implementation of the payroll module, the payroll for the international
+staff of the International Criminal Tribunal for Rwanda is now operated through
+IMIS and that installation of a local IMIS system at that Tribunal is not possible
+owing to technical difficulties. As regards the International Tribunal for the
+Former Yugoslavia, the Committee notes with concern that there has been no
+identifiable progress on the issue during 2001.
+
+12. The Advisory Committee regrets the limited progress achieved so far in
+the implementation of IMIS in peacekeeping operations and the International
+Tribunals. The Committee recommends that the Secretary-General submit a
+report on the strategy for deployment of IMIS to peacekeeping operations and
+the Tribunals to the General Assembly at its fifty-seventh session. The report
+should also address the issue of required enhancements to the system to make it
+viable for possible programme applications by United Nations funds and
+programmes.
+
+13. Furthermore, the Advisory Committee recommends that the General
+Assembly approve an additional provision of $5,634,700 under the Integrated
+Management Information System Fund to meet the requirements of IMIS
+associated with activities detailed in chapter V of the report of the Secretary-
+General, to be financed from the investment income reported under the Fund
+at 30 June 2001.
+
+
+
+4
+A/56/684
+
+Annex
+Detailed information on the breakdown of resource
+requirements and the work programme for projects
+A to E, under A/56/602, table 2
+
+A. Re-engineering of the user interface with the ability to deploy the
+system on the Web:
+
+(i) General temporary assistance: three staff at the P-4 level, three staff at the P-3
+level (84 work-months in total);
+
+(ii) Contractual services: based on a proposal from the software vendor, the project
+will require a team of up to 10 contractor staff. Initially, preparatory work will
+involve a reduced team of three contractor staff, building up to the full
+complement over a period of two to three months. The vendor’s proposal is
+based on a detailed review of the IMIS user sessions and of the experience
+gained during the Web migration of two user sessions earlier in 2001. Out of
+the total 1,086 screens in the system, grouped in 251 categories and user
+sessions, it is proposed to re-engineer approximately 60 per cent of the
+screens. The remaining 40 per cent of the screens comprising reference table
+maintenance, administration, batch function and certain other categories of
+screens will be migrated to the Web without re-engineering;
+
+(iii) Work programme: the short-term staff will comprise three IMIS development
+teams supplemented by resource persons from the user departments. That staff
+will work with the contractors, assisting them with IMIS-specific features of
+the software and learning specific Web features of the development. The
+resource persons will be focal points to provide requirements for re-
+engineering the screens and testing them after migration and re-engineering in
+Web format.
+
+B. Re-writing of entitlements/posting applications in modern
+programming language:
+
+(i) General temporary assistance: two staff at the P-3 level (28 work-months);
+
+(ii) Contractual services: the services of a contractor are required with respect to
+expertise in the area of large administrative systems reprogramming in the
+modern languages;
+
+(iii) Work programme: given the specialized nature of the work, a team will be
+organized comprising two short-term United Nations staff members with
+knowledge of the system and one representative of a contractor who would be
+an expert in the chosen programming language and would have knowledge of
+the existing language. The current underlying business logic of the
+entitlements and posting application will not be changed. Upon completion of
+the re-writing, users will carry out regression testing to ensure the correct
+functioning of the application in the new language.
+
+
+
+5
+A/56/684
+
+C. Study of functional and technical needs for consolidation of
+the system:
+
+(i) General temporary assistance: one staff at the P-4 level, two staff at the P-3
+level (42 work-months in total);
+
+(ii) Contractual services: specialized knowledge of a database consolidation
+technology and of available solutions will be required, which the United
+Nations does not have at present;
+
+(iii) Work programme: the work programme will include technical and functional
+aspects. One United Nations staff member will work primarily with the
+contractor on the technical issues to identify and recommend the technical
+architecture best adapted to IMIS. The other two short-term staff members will
+focus on functional issues, business processes and information flows between
+duty stations, procedures and policy matters, and reporting requirements. The
+team will also identify changes to the database structure that may be needed to
+support modified business processes, information flows, reporting and other
+requirements. While the precise extent of those changes cannot be determined
+prior to the study, it is expected that those changes could be met within
+existing maintenance resources, although the need for further resources cannot
+be entirely excluded.
+
+D. Re-engineering of the system for 24 hours a day, 7 days a
+week operations:
+
+(i) General temporary assistance: three staff at the P-3 level (42 work-months in
+total);
+
+(ii) Work programme: the work in this area concerns those processes that run off-
+line in a batch mode. Currently, the database cannot be made available to
+online users while those processes are running because of contention when the
+actions update the same records or the same database tables which are in use.
+These processes must be modified in order to allow concurrent updates by
+online actions. The processes concerned are grouped into several categories:
+human resources, finance, payroll, time and attendance and interfaces. Each
+category must be reviewed and applicable changes made to remove contention
+with the online processes. The basic logic of the processes will remain the
+same, but with the changes described above and regression testing will need to
+be conducted by users.
+
+E. Study on the reporting application update in the context of
+deploying the system on the Web:
+
+(i) General temporary assistance: two staff at the P-3 level (28 work-months);
+
+(ii) Work programme: the short-term staff, having experience with reporting
+applications for large database systems, will work alongside an IMIS staff
+member knowledgeable in the reporting applications. They will research and
+identify a front-end reporting tool to replace the existing one that is not
+suitable for deployment of the application on the Web. It is expected that work
+
+
+
+6
+A/56/684
+
+on the re-engineering of the reports adapted to the selected replacement tool
+can also be initiated from within these resources. However, the scope of the
+total requirements for deploying IMIS on the Web in the context of this project
+will be determined upon completion of the study.
+
+

@@ -1,0 +1,2164 @@
+
+United Nations A/56/887
+
+ 
+
+General Assembly Distr.: General
+5 April 2002
+
+Original: English
+
+02-31925 (E)    260402
+
+*0231925*
+
+Fifty-sixth session
+Agenda item 133
+Administrative and budgetary aspects of the financing
+of the United Nations peacekeeping operations
+
+Administrative and budgetary aspects of the financing
+of the United Nations peacekeeping operations
+
+Report of the Advisory Committee on Administrative and
+Budgetary Questions
+
+Contents
+Paragraphs Page
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1–10 3
+
+Report of the Board of Auditors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 5
+
+Expenditures and unencumbered balances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12–15 5
+
+Unliquidated obligations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 6
+
+Contingent liabilities and accounts payable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 7
+
+Flexibility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18–19 7
+
+Presentation of performance reports and budget estimates . . . . . . . . . . . . . . . . . . . . 20 7
+
+Budget proposals for 2001/2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21–22 8
+
+Budget proposals for 2002/2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23–24 8
+
+Objective setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25–26 9
+
+Financial commitment authority. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 9
+
+Status-of-forces agreements and memoranda of understanding. . . . . . . . . . . . . . . . . 28–31 9
+
+Military personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 10
+
+Contingent-owned equipment and self-sustainment . . . . . . . . . . . . . . . . . . . . . . . . . . 33–36 10
+
+Mission factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 11
+
+
+
+2
+A/56/887
+
+Mission subsistence allowance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38–40 11
+
+Civilian personnel matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41–47 12
+
+Resident auditors and investigators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48–55 14
+
+Procurement and inventory management. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56–60 15
+
+Information technology projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61–63 17
+
+Air operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64–68 17
+
+Vehicles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69–70 18
+
+Missions in liquidation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71 19
+
+Public information programmes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 19
+
+Quick-impact projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73 20
+
+Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74–75 20
+
+Performance reports of closed missions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76–83 21
+
+Annexes
+
+I.A. Financial performance of peacekeeping missions for the period from 1 July 2000 to 30 June
+2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+I.B. Comparison of apportionment and unencumbered balance inclusive and exclusive of the
+support account for peacekeeping operations and the United Nations Logistics Base for the
+period from 1 July 2000 to 30 June 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+I.C. Supplementary information on the financial and budgetary reports of peacekeeping missions
+for the period from 1 July 2000 to 30 June 2001 as at 31 December 2001 . . . . . . . . . . . . . . . . . . 25
+
+II.A. Estimated gross budgetary requirements proposed by the Secretary-General for each
+peacekeeping operation for the period from 1 July 2002 to 30 June 2003 . . . . . . . . . . . . . . . . . . 27
+
+II.B. Commitment authorities approved by the Advisory Committee under General Assembly
+resolution 49/233 A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+III. Status-of-forces and status-of-mission agreements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+IV. Vacancy rates of peacekeeping operations for the period from 1 July 2000 to 30 June 2001 . . . 29
+
+V. Comparison of service level A of the Information Technology Services Division with costs in
+a typical field mission for similar services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+VI.A. Resources made available for training programmes for the period from 1 July 2001 to
+30 June 2002 and proposed for the period from 1 July 2002 to 30 June 2003 . . . . . . . . . . . . . . . 33
+
+VI.B. Information on training activities during the fiscal periods 2000/2001, 2001/2002 and
+2002/2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+VII. Final performance of closed missions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+VIII. Time elapsed between end of mandate and issuance of final performance report . . . . . . . . . . . . 37
+
+
+
+3
+A/56/887
+
+Introduction
+
+1. During its meetings held from 5 February to 5 April 2002, the Advisory
+Committee on Administrative and Budgetary Questions considered the financial
+performance reports for the period from 1 July 2000 to 30 June 2001 and the
+proposed budgets for the period from 1 July 2002 to 30 June 2003 of the
+peacekeeping operations listed below. The Committee’s reports on each of these
+missions are presented as addenda to the present report:
+
+(a) United Nations Observer Mission in Georgia (UNOMIG) (A/56/887/Add.1);
+
+(b) United Nations Mission in Bosnia and Herzegovina (UNMIBH),
+including the liaison offices in Zagreb and Belgrade and the United Nations Mission
+of Observers in Prevlaka (UNMOP) (A/56/887/Add.2);
+
+(c) United Nations Mission in Sierra Leone (UNAMSIL) (A/56/887/Add.3);
+
+(d) United Nations Peacekeeping Force in Cyprus (UNFICYP)
+(A/56/887/Add.4);
+
+(e) United Nations Iraq-Kuwait Observation Mission (UNIKOM)
+(A/56/887/Add.5);
+
+(f) United Nations Interim Administration Mission in Kosovo (UNMIK)
+(A/56/887/Add.6);
+
+(g) United Nations Interim Force in Lebanon (UNIFIL) (A/56/887/Add.7);
+
+(h) United Nations Disengagement Observer Force (UNDOF) (A/56/887/Add.8);
+
+(i) United Nations Mission in Ethiopia and Eritrea (UNMEE)
+(A/56/887/Add.9);
+
+(j) United Nations Logistics Base at Brindisi, Italy (UNLB)
+(A/56/887/Add.10);
+
+(k) United Nations Organization Mission in the Democratic Republic of the
+Congo (MONUC) (A/56/887/Add.11).
+
+2. The Advisory Committee also considered the proposed budget for the United
+Nations Organization Mission in the Democratic Republic of the Congo for the
+period from 1 July 2001 to 30 June 2002 (A/56/660). The Committee submitted its
+related report on the financing of MONUC in document A/56/845.
+
+3. The Advisory Committee also considered the updated financial performance
+report of the United Nations Protection Force (UNPROFOR), the United Nations
+Confidence Restoration Operation in Croatia (UNCRO), the United Nations
+Preventive Deployment Force (UNPREDEP) and the United Nations Peace Forces
+headquarters (A/56/852), submitted pursuant to paragraph 8 of General Assembly
+resolution 55/265. The Committee’s comments on the Secretary-General’s report are
+contained in paragraphs 76 to 83 below.
+
+4. The Advisory Committee further considered the final performance reports of
+the United Nations Mission in Haiti (UNMIH) (A/56/851), the United Nations
+Support Mission in Haiti (UNSMIH), the United Nations Transition Mission in Haiti
+(UNTMIH) and the United Nations Civilian Police Mission in Haiti (MIPONUH)
+(A/56/841), the United Nations Preventive Deployment Force (UNPREDEP)
+(A/56/842) and the United Nations Transitional Administration for Eastern Slavonia,
+
+
+
+4
+A/56/887
+
+Baranja and Western Sirmium (UNTAES) and the Civilian Police Support Group
+(A/56/844). The Committee’s comments on the final performance of these closed
+missions are contained in paragraphs 76 to 83 below.
+
+5. The Advisory Committee considered the reports of the Secretary-General on
+the concept of strategic deployment stocks and its implementation (A/56/870) and
+on the support account (A/56/882 and A/56/885). The comments and
+recommendations of the Committee on the report on strategic deployment stocks are
+contained in document A/56/902; comments and recommendations relating to the
+support account will be issued in due course.
+
+6. The Advisory Committee also had before it the report of the Secretary-General
+on the instances for which the United Nations is entitled to restitution as a result of
+non-compliance with status-of-forces or other agreements (A/56/789). The
+Committee’s observations on the report of the Secretary-General are contained in
+paragraphs 30 and 31 below.
+
+7. By its resolution 1394 (2002) of 27 February 2002, the Security Council
+extended the mandate of the United Nations Mission for the Referendum in Western
+Sahara (MINURSO) for two months, until 30 April 2002, and requested the
+Secretary-General to provide a report on the situation in Western Sahara before the
+end of the present mandate. In view of changed circumstances and pending further
+developments, the Advisory Committee postponed consideration of the financial
+performance report for the period from 1 July 2000 to 30 June 2001 and of the
+budget for the period from 1 July 2002 to 30 June 2003 of MINURSO.
+
+8. In its previous reports (see, for example, A/52/860, A/53/895, A/54/841 and
+A/55/874), the Advisory Committee has regularly commented on the timely
+submission of performance reports and budget estimates. During its meetings from
+February to April 2002, in most cases, the Committee had before it only advance
+copies of the reports in English and, in some instances, only sections of the advance
+copies of the reports. This caused considerable difficulties to the Committee.
+Furthermore, it is unacceptable for the Committee to begin consideration of the
+reports of the Secretary-General without having had the opportunity for adequate
+preparation. The current situation represents a marked deterioration in the schedule
+of documentation foreseen when General Assembly resolution 49/233 A was
+adopted. For example, the budget proposal for the support account was submitted to
+the Committee only on 20 March 2002. The delays experienced by the substantive
+services in producing the various reports of the Secretary-General have in turn
+increased the pressure on the conference services which have to translate, print and
+distribute these reports.
+
+9. The Committee reiterates that there is a need to restore the discipline
+concerning timely preparation and submission of documents for consideration
+by the Advisory Committee and the Fifth Committee if the timetables
+envisaged in the Advisory Committee’s report of 18 November 1994 (A/49/664)
+and resolution 49/233 A are to be met. In this connection, the Committee notes the
+schedule of submission of performance and budget reports (A/56/885, table 35). The
+Committee notes, in particular, that budgets for all active missions would be
+submitted to the Department of General Assembly Affairs and Conference Services
+by 31 January and that the budget for the support account would be submitted by 28
+February. The Committee welcomes this information and trusts that the Department
+will ensure the timely processing of the reports.
+
+
+
+5
+A/56/887
+
+10. The proposed deadlines for submission of documentation to the Department of
+General Assembly Affairs and Conference Services would represent progress
+towards a return to the schedule envisaged in the recommendations made by the
+Committee in 1994 (see A/49/664), as endorsed by the General Assembly in its
+resolution 49/233 A. The Committee points out that the original aim was to have
+reports, which the Secretariat was struggling to complete in October and
+November (often in fact submitting them in December and causing consequent
+difficulties for both the Advisory Committee and the Fifth Committee)
+available in all languages before the end of January.
+
+Report of the Board of Auditors
+
+11. The Advisory Committee also considered the report of the Board of Auditors to
+the General Assembly on the accounts of the United Nations peacekeeping operations
+for the financial period ended 30 June 2001 (A/56/5, vol. II, chap. II). The Committee’s
+comments and observations on the report of the Board are included, where appropriate,
+in the paragraphs below. The Committee recommends that annex II to the report of
+the Board of Auditors on follow-up action to implement the recommendations of
+the Board in the previous period be organized by themes. Similarly, the report
+of the Secretary-General (A/56/66 and Add.1 and 2) should also be presented
+by themes. It should indicate changes and results rather than stating whether a
+particular recommendation of the Board has been implemented. The
+attainment of this goal would be facilitated considerably by the extent to which
+the recommendations of the Board are clear, specific and capable of being
+monitored in the implementation process with a view to measuring results. To
+this end, the Committee proposes to discuss with the Board of Auditors the
+merits of more frequent consultations with it with a view to pursuing effective
+implementation of the Board’s recommendations.
+
+Expenditures and unencumbered balances
+
+12. A summary of the financial performance of peacekeeping missions for the
+period ending 30 June 2001 is contained in annex I.A to the present report. For the
+reasons given in paragraph 14 below, the figures exclude expenditure for the support
+account and for the United Nations Logistics Base. For the peacekeeping operations
+listed in that annex, expenditures amounted to $2,307.9 million gross (column 3 minus
+column 4), against appropriations of $2,566 million gross, reflecting an unencumbered
+balance of $258.1 million, or 10.1 per cent of the appropriations (column 4 divided by
+column 3). For the preceding period, from 1 July 1999 to 30 June 2000, the
+unencumbered balance in the performance reports amounted to $175.2 million, or 10.3
+per cent of the appropriations of $1,705.2 million (see A/55/874, para. 17).
+
+13. In the various reports of the Secretary-General and the related reports of the
+Advisory Committee, reasons have been given for the unencumbered balances. For
+the period 2000/2001, as in the previous period, the high level of unencumbered
+balances reflects significant implementation difficulties. The Committee has taken
+these unencumbered balances into account when making its recommendations
+on budget requirements for the period 2002/2003.
+
+14. The Committee enquired about the appropriateness of including amounts for
+the support account for peacekeeping operations and for the United Nations
+Logistics Base at Brindisi when calculating the percentage of unencumbered balance
+
+
+
+6
+A/56/887
+
+in financial performance reports as against appropriation. According to the Secretariat,
+the inclusion has been a standard practice and it is necessary in order to reflect
+consistency between financial performance reports and the audited financial statements
+of peacekeeping operations; approved resources for the support account and UNLB are
+simultaneously reflected as apportionment and expenditure in equal amounts. The
+Committee was provided with a comparison of apportionment and unencumbered
+balance inclusive and exclusive of amounts for the support account and UNLB for the
+period from 1 July 2000 to 30 June 2001 (see annex I.B to the present report). The
+Committee is of the view that in the future the unencumbered balance for each
+peacekeeping operation should be compared with the appropriation for the
+mission concerned excluding amounts for the support account and UNLB.
+
+15. For the support account, expenditure for the period from 1 July 2000 to 30 June
+2001 amounts to $62 million gross, against $59.9 million gross authorized by the
+General Assembly, resulting in overexpenditure of $2.1 million gross (see A/56/882,
+paras. 6-10). For UNLB, expenditure for the period amounts to $7.7 million gross,
+against the approved budget of $9.3 million gross, leaving an unencumbered balanced of
+$1.6 million gross, or 16.8 per cent of the approved budget (see A/56/760, para. 13).
+
+Unliquidated obligations
+
+16. As can be seen from annex I.C, the total of unliquidated obligations for the period
+from 1 July 2000 to 30 June 2001 amounted to $314.7 million, comprising $214.2 million
+under Governments and $100.5 million under other, as at 31 December 2001. As can be
+seen in table 1, at 28 February 2002 unliquidated obligations amounted to $302 million.
+
+Table 1
+Unliquidated obligations for the period from 1 July 2000 to 30 June 2001
+(United States dollars)
+
+Mission Performance reporta
+As percentage of
+
+apportionment Current statusb
+
+MINURSO 4 275 300 9.2 1 347 174
+
+MONUC 102 559 000 37.6 31 131 911
+
+UNAMSIL 248 487 100 45.2 109 093 957
+
+UNDOF 13 406 600 38.4 2 653 158
+
+UNFICYP 12 300 300 30.0 1 391 687
+
+UNIFIL 77 781 700 39.1 18 491 223
+
+UNIKOM 12 921 600 25.9 3 917 721
+
+UNMEE 94 597 000 52.6 29 397 835
+
+UNMIBH 8 580 200 5.7 3 259 559
+
+UNMIK 63 237 200 14.1 16 518 651
+
+UNOMIG 4 363 600 15.4 742 644
+
+UNTAET 191 803 400 34.1 84 029 204
+
+Total 834 313 000 301 974 724
+
+a A good part of the unliquidated obligations relate to provision for reimbursement to Member
+States for troop costs, contingent-owned equipment and the like.
+
+b At 28 February 2002.
+
+
+
+7
+A/56/887
+
+Contingent liabilities and accounts payable
+
+17. The Board of Auditors has indicated that verified claims received from troop-
+contributing countries of approximately $8 million were reported, in a note to the
+financial statements for the financial period ended 30 June 2001, as contingent
+liabilities, rather than as accounts payable. In the opinion of the Board, the financial
+statements for the period ended 30 June are, therefore, understated by an amount of
+approximately $8 million in respect of both expenditure and liabilities. The
+Committee notes that the Secretariat advised the Board that only after approval of a
+financing resolution by the General Assembly could obligations or liabilities be
+recorded (see A/56/5, vol. II, chap. II, paras. 38-42). The Committee has already
+stated its view on this subject (A/55/878, para. 4). The Committee agrees with the
+Secretariat that an account payable is subject to a prior action by the General
+Assembly to provide authority for the Secretary-General to designate a liability
+as an account payable.
+
+Flexibility
+
+18. The Committee recalls its comments about the flexibility granted the
+Secretary-General in administering appropriations for peacekeeping operations and
+the intention of the Committee to monitor the use of this flexibility (see A/54/841,
+para. 16). During the examination of performance reports for the period ending 30
+June 2001, the Committee again noted numerous overexpenditures, particularly for
+items in operational activities. In many instances, as shown in the relevant
+individual reports of the Committee, better budget preparation would have obviated
+such overexpenditures. In other situations, the Committee has expressed concern
+about actions taken to incur expenditure that should clearly have been included in
+the proposed estimate. For example, in one case, a mission headquarters was
+dismantled for no apparent immediate operational urgency (see A/56/887/Add.9,
+paras. 34 and 35).
+
+19. Accordingly, the Advisory Committee draws attention to the fact that even
+though the General Assembly authorizes the Secretary-General to exercise
+flexibility in implementing the overall budget of peacekeeping missions, that
+flexibility must be exercised in a manner that does not call into question the
+basis on which the initial estimates were prepared and submitted to the
+Assembly. Cost overruns for items included in the estimates approved by the
+Assembly on the basis of recommendations of the Committee must not be
+confused or equated with initiation of completely new activities that have no
+adequate operational justification in terms of mandate implementation.
+
+Presentation of performance reports and budget estimates
+
+20. The Committee is concerned about the quality of the presentation of a
+number of reports containing budget estimates. For example, in some reports,
+descriptions of organizational units and the personnel requested is repetitive.
+The Committee has noted, further, a recent tendency to confuse the differences
+between the concepts new posts, redeployments and reclassification. For
+example, a new post at a higher grade is requested, with the existing post to be
+redeployed, when in fact the objective is to reclassify the existing function
+(UNLB; see A/56/871); in another instance, reclassification of an existing post
+has been requested, the same post, at its existing (lower) level, simultaneously
+
+
+
+8
+A/56/887
+
+being proposed for redeployment (UNAMSIL; see A/56/621). The Committee
+stresses the need to maintain established practice and budgetary discipline. The
+Committee has submitted comments and recommendations for the
+improvement of the reports concerned (see, for example, A/56/845) and
+welcomes the limited action taken so far in this regard (see MONUC estimates
+for 2002/2003 (A/56/897)).
+
+Budget proposals for 2001/2002
+
+21. The General Assembly has so far approved $2.7 billion for the peacekeeping
+operations for the period 2001/2002, including prorated provision of $7.9 million for
+the United Nations Logistics Base at Brindisi and prorated provision of $91.9
+million for the support account (see A/C.5/56/36). The Secretary-General also
+proposed an additional appropriation for 2001/2002 of some $140.6 million for
+MONUC (see A/56/660 and A/56/845), and the General Assembly, upon the
+recommendation of the Advisory Committee, approved $56.8 million of additional
+resources for MONUC (see resolution 56/252 B), bringing the overall resources for
+peacekeeping operations for the period 2001/2002 to about $2.8 billion. The
+Committee was informed that additional expenditure for 2001/2002 for UNAMSIL
+would amount to $3.9 million, in connection with the elections scheduled for May
+2002 in Sierra Leone (see S/2001/1195 and resolution 1389 (2002)). The Committee
+was informed, however, that this additional requirement would be absorbed taking
+into account the implementation of the approved budget for the Mission.
+
+22. The Advisory Committee reiterates its request that in future budget
+presentations a full disclosure be included of all mission income and
+expenditure under voluntary contributions, trust funds and other sources, by
+source of funds. In addition, a further breakdown should be provided for
+“other income” by source of funds, for example: income from reimbursements
+for services rendered, miscellaneous income from cancellation of unliquidated
+obligations, income from private donation.
+
+Budget proposals for 2002/2003
+
+23. As shown in annex II.A, the total estimated budgetary requirements for the period
+2002/2003, as proposed by the Secretary-General in the reports for each peacekeeping
+operation submitted to the Advisory Committee, amount to $2,249.1 million.
+
+24. The Committee is of the view that, although progress has been made in
+basing the estimates on more realistic assumptions, taking account of
+performance experience in previous financial periods, more should be done to
+increase productivity and efficiency in operational activities such as
+procurement, transport, communications and air operations. The Committee
+also believes that, in general, better budget monitoring, accounting and proper
+recording of expenditure is needed in peacekeeping operations. Where
+appropriate, the Committee has made suggestions in the context of individual
+missions for further improvements in budget formulation and performance
+reporting, calling attention, as appropriate, to the corresponding findings and
+recommendations of the Board of Auditors. In this connection, the Committee
+encourages the wider use of cost-benefit analysis to determine the most
+effective means of achieving operational objectives.
+
+
+
+9
+A/56/887
+
+Objective setting
+
+25. Attempts have been made to implement the decision of the General Assembly
+(resolution 55/220 C of 14 June 2001) in setting results-based objectives in the
+budgets of the peacekeeping operations for the period 2002/2003. The Committee
+notes that the format used appears to be a replica of the format used in the
+regular budget. The format needs to be improved considerably by projecting
+specific short- and long-term achievable results under the column “expected
+accomplishments”, by drawing up precise indicators of achievement and
+quantifying the outputs in terms of activities based on workload indicators.
+Specific constraints, and/or preconditions, if any, should be projected under
+“external factors”. Imprecise comments in the narrative form under these
+headings are of no value.
+
+26. Bearing in mind that each mission is different, emphasis should be on
+setting precise and specific objectives, and proceeding on the basis of what is
+practical and attainable. These objectives should be integrated by service and
+programme, rather than in one separate section at the end. The Committee
+stresses the importance of the involvement and participation of top
+management of the missions in the exercise of objective-setting. The Committee
+intends to monitor progress in this regard as reported by the Secretary-General
+to the General Assembly in the financial performance reports of the missions.
+
+Financial commitment authority
+
+27. Since the adoption of General Assembly resolution 49/233 A, the Advisory
+Committee has on numerous occasions acted on the Secretary-General’s requests to
+commit funds for peacekeeping operations. The most recent examples are indicated
+in annex II.B. In this connection, the Committee considered the report on the
+concept of strategic deployment stocks and its implementation (A/56/870), in which
+the Secretary-General requests additional financial commitment authority, and
+includes a proposal to amend resolution 49/233 A. This request is based on the belief
+that present mechanisms are inadequate. The Committee has concluded that the
+objectives sought in that report do not require amending resolution 49/233 A. The
+comments and recommendations of the Committee are contained in its report
+(A/56/902).
+
+Status-of-forces agreements and memoranda of understanding
+
+28. On previous occasions the Advisory Committee has indicated that status-of-
+forces agreements and memoranda of understanding are essential instruments for
+defining the rights and obligations of the missions in the operational area (see, for
+example, A/55/874, para. 27). The Committee remains concerned about the fact that
+often the United Nations has been forced to start mission operations without these
+instruments in place. The Committee recalls that the absence of agreements has
+often led to the United Nations incurring heavy expenditures in duties and taxes that
+could have been avoided.
+
+29. In the period under review, the Committee notes some progress in the signing
+of memoranda of understanding concerning contingent-owned equipment and the
+establishment of contingent-owned equipment units in missions. The Committee
+regrets that no analysis has been produced, as recommended by the Committee
+(see A/55/874). The Committee reiterates its request that a study be made of the
+
+
+
+10
+
+A/56/887
+
+process involved which would identify the elements that often account for
+delays in the timely conclusion of memoranda of understanding concerning
+contingent-owned equipment.
+
+30. On a related matter, the Advisory Committee had before it the report of the
+Secretary-General on instances for which the United Nations is entitled to restitution
+as a result of non-compliance with status-of-forces or other agreements (A/56/789).
+The Committee notes that the total costs incurred by the United Nations as a result
+of non-compliance with status-of-forces or other agreements amount to
+$144,369,800 (see A/56/789, table 1). Information on dates on which status-of-
+forces agreements have been signed is contained in annex III to the present report.
+
+31. In paragraph 7 of the report (A/56/789), it is indicated that the Secretariat has
+made efforts to obtain reimbursement from countries hosting peacekeeping
+operations for costs incurred owing to violations of status-of-forces or other
+agreements and that instances of non-compliance are regularly followed up by
+peacekeeping missions with the relevant authorities in the host countries, as well as
+by the Secretariat with the respective permanent missions of Member States in New
+York. The Advisory Committee recommends that the General Assembly take
+note of the information contained in the report of the Secretary-General
+(A/56/789).
+
+Military personnel
+
+32. The Advisory Committee noted that in one mission the provision for military
+contingents included an amount for troop cost reimbursement for expenditures
+which were not obligated in the period ending 30 June 2001. The Committee was
+informed of delays experienced in processing reports on troop movements and
+changes. The Committee believes that the process should be simplified and that
+communication between troop contingents, the mission headquarters and
+United Nations Headquarters should be improved to ensure the timely and
+accurate transmission of information on troop strengths in the mission area.
+
+Contingent-owned equipment and self-sustainment
+
+33. In its previous report (A/55/878), the Advisory Committee requested the Board
+of Auditors to make a comprehensive assessment of all aspects of the
+implementation of the arrangements for contingent-owned equipment, preferably at
+selected missions. The Committee notes that, as part of its audit for the financial
+period ended 30 June 2001, the Board reviewed the arrangements for contingent-
+owned equipment with specific focus on the memorandum of understanding,
+verification procedures and the certification and payment of claims submitted by the
+troop-contributing countries (see A/56/5, vol. II, chap. II, paras. 58-86).
+
+34. The Board informed the Committee that the overall impression is that
+performance is uneven. Some missions are better at managing the system than
+others. The inspection and verification process is the area where more resources are
+needed. On the basis of the information provided by the Board and from the
+information contained in the performance and budget reports examined, the
+Advisory Committee concludes that the management of arrangements for
+contingent-owned equipment in the field and at Headquarters requires priority
+attention to remedy serious flaws in the system. Particular emphasis should be
+placed upon pre-arrival and operational inspections. Further consideration
+
+
+
+11
+
+A/56/887
+
+might also be given to improved arrangements for reimbursement, particularly
+with a view to assisting troop contributors from developing countries.
+
+35. As part of the verification procedures, the Advisory Committee recalls that
+there are four types of inspection. A non-mandatory pre-arrival inspection and three
+mandatory inspections: arrival, operational and repatriation. With the agreement of a
+troop-contributing country, pre-arrival inspections are carried out by a team
+approved by Headquarters to ensure not only that the equipment meets the
+requirements of the mission but also that no unnecessary equipment is deployed.
+The Committee notes that, in one audited mission, a team of specialists could not be
+formed in time to conduct such inspections although inspection plans were made. In
+a number of missions, the arrival inspection and monthly verification reports were
+prepared with considerable delays. A shortage of properly qualified staff appears to
+be a contributing factor in the delay in preparing such reports.
+
+36. The Advisory Committee is of the view that, as long as the United Nations is
+involved in peacekeeping operations where military contingents are deployed, there
+will always be a need for inspection and verification expertise. Currently, the United
+Nations relies in part on personnel provided by contingents. These are available on a
+temporary basis before they are repatriated. The Committee recommends that the
+Secretariat should establish a core capacity of United Nations staff to provide
+the required expertise.
+
+Mission factors
+
+37. The Advisory Committee notes that mission factors, which are intended to
+compensate countries contributing formed units for special operational conditions in
+the mission area, continue to be automatically included in budget estimates. The
+Committee notes that these factors are not reviewed regularly to take account of
+changes in the mission area of operation. The Committee requests that mission
+factors that apply to monthly reimbursable rates be carefully reviewed in all
+missions and, if warranted, adjusted in accordance with changes in the
+operational conditions in the mission area.
+
+Mission subsistence allowance
+
+38. Mission subsistence allowance is a daily allowance paid to United Nations
+military observers, civilian police and international civilian staff in peacekeeping,
+peacemaking or other special missions to cover long-term accommodation, food and
+miscellaneous expenses at the duty station. Mission subsistence allowance payments
+constitute a significant portion of overall peacekeeping costs. As shown in table 2,
+for the financial period 2000/2001, mission subsistence allowance represented 15.6
+per cent, or $360.7 million, of the total expenditure of $2,307.9 million.
+
+39. The Advisory Committee recalls that the Office of Internal Oversight Services,
+in its report of 26 November 2001 (A/56/648), indicated that in a number of
+missions audited by the Office mission subsistence allowance rates were found to be
+excessive and should be reduced. The Office of Internal Oversight Services also found
+that there was a need for more regular reviews of mission subsistence allowance rates by
+the Office of Human Resources Management and that consideration should be given to
+using daily subsistence allowance rates, established by the International Civil Service
+Commission for short-term travel to the same location, as benchmarks for
+establishing and adjusting mission subsistence allowance rates.
+
+
+
+12
+
+A/56/887
+
+40. Upon request, the Office of Human Resources Management informed the
+Committee that, in connection with the recommendations of the Office of Internal
+Oversight Services, field surveys had been conducted in a number of missions late
+in 2001 and early in 2002 and mission subsistence allowance rates adjusted
+accordingly. The Office of Human Resources Management further informed the
+Committee that it had not been able to conduct more systematic monitoring, as
+recommended by the Office of Internal Oversight Services, because of very limited
+resources. Additional resources have been requested for this purpose under the
+support account. The Committee trusts that the Office of Human Resources
+Management will monitor mission subsistence allowance rates closely,
+conducting more frequent field surveys and reviewing the methodology and
+factors used to establish those rates.
+
+Table 2
+Total expenditure for the period from 1 July 2000 to 30 June 2001 as compared
+with expenditures related to mission subsistence allowance
+(Thousands of United States dollars)
+
+Mission
+2000/2001
+
+expenditure (gross)a
+Expenditure on mission
+
+subsistence allowance
+Percentage of
+
+expenditure
+
+MINURSO 43 283.9 10 666.6 24.6
+
+MONUC 246 472.0 28 722.3 11.7
+
+UNAMSIL 493 061.6 28 582.9 5.8
+
+UNDOF 34 371.6 47.3 0.1
+
+UNFICYP 39 978.1 186.7 0.5
+
+UNIFIL 175 754.8 248.7 0.1
+
+UNIKOM 47 181.8 8 038.0 17.0
+
+UNMEE 154 915.8 9 079.4 5.9
+
+UNMIBH 137 511.3 59 452.9 43.2
+
+UNMIK 383 462.0 125 674.4 32.8
+
+UNOMIG 24 352.6 5 950.2 24.4
+
+UNTAET 527 587.9 84 019.3 15.9
+
+Total 2 307 933.4 360 668.7 15.6
+
+a Excluding amounts for the support account for peacekeeping operations and UNLB.
+
+Civilian personnel matters
+
+41. The Advisory Committee has noted the tendency of some missions to establish
+separate units which would have little use except as a justification for high-level
+posts. This has the potential for costly bureaucracy and coordination problems. In
+various cases, the proposed functions for new units are too vague and appear not to
+be directly related to the substantive mandate of the missions and the requirements
+of the administrative support structure. The generic structure in the standard cost
+manual should always be adjusted in accordance with the specific mission needs of
+each mission.
+
+
+
+13
+
+A/56/887
+
+42. In the opinion of the Advisory Committee, there appears to be a view that
+only increased post requirements can take care of increased workloads. While
+it is acknowledged that creation, continuation and reclassification of posts
+upwards are important issues, consideration should also be accorded to
+reviewing existing posts in order to consider their abolition, redeployment or
+downward reclassification. In this connection, the need to project time frames
+for completing specific tasks by programme managers is of paramount
+importance, and they should therefore be encouraged to monitor the tasks
+performed and those not performed. Post and non-post requirements are,
+therefore, to be justified taking these factors fully into account.
+
+43. The Advisory Committee recommends that the size and composition of the
+administrative and support services establishment should be reviewed at an
+early stage in those missions that are in the process of downsizing, as a result of
+changes in their mandate, role or activities. The Committee recommends that
+appropriate contingency plans be prepared in this regard on a timely basis for
+these missions.
+
+44. Annex IV contains information on budgeted and performance vacancy rates for
+international and local staff in missions for the period from 1 July 2000 to 30 June
+2001. The Advisory Committee notes that peacekeeping missions continue to
+experience a high level of vacancies, particularly in key administrative and
+management areas. This has resulted in many cases not only in large under-
+expenditure of the related staff costs but in weaknesses in the delivery of
+related services such as monitoring of mission operations, property and
+inventory management, procurement and management of United Nations
+property in the field.
+
+45. In the individual reports of the Secretary-General and those of the Committee,
+the reasons for these vacancies have been given. As in the previous period, the main
+contributing causes include contractual difficulties, the long and cumbersome
+recruitment and placement process in the United Nations, the security situation in
+some mission areas and, in a few instances, changes in mandates approved by the
+Security Council during the financial period. The Advisory Committee was
+informed that, pursuant to General Assembly resolution 55/258 of 14 June 2001, the
+Office of Human Resources Management intends to address the issues related to the
+delegation of authority for human resources management to peacekeeping missions,
+in a report to be submitted to the General Assembly at its fifty-sixth session on the
+monitoring capacity of the Office of Human Resources Management.
+
+46. The Advisory Committee was further informed of steps being taken by the
+Secretariat to improve budget performance, including the granting of more
+autonomy to chief administrative officers to manage their budget, better budget
+monitoring and analysis and better management of non-expendable assets. The
+Committee stresses the need to review the number and improve the quality of
+mission personnel handling procurement, budget, contract and financial
+matters. The training programmes should include these as a priority area;
+furthermore, more attention should be given to retaining only properly
+qualified staff that has had experience in peacekeeping missions, including
+those with knowledge of recruitment, inventory management, accounting and
+budget preparation and implementation.
+
+
+
+14
+
+A/56/887
+
+47. The Advisory Committee has acknowledged that travel activities are an
+essential input for implementing mission mandates and that, very often, unforeseen
+political developments may lead to a sudden increase in travel needs (A/55/874,
+para. 40). For the period under review, the Committee continued to notice many
+instances where no adequate explanation or justification was given in the estimates
+for travel expenditure in areas such as management and administrative support,
+surveys and consultation for officials of missions and Headquarters. The
+Committee reiterates its view that budget and performance reports should fully
+justify all travel plans and expenditures; furthermore, as previously indicated
+by the Committee, in the first instance more extensive use should be made
+wherever possible of modern communications techniques, including video
+conferencing, before additional travel expenditures are incurred.
+
+Resident auditors and investigators
+
+48. Resident auditors are staff from the Office of Internal Oversight Services that
+are being deployed to various peacekeeping missions (e.g., MONUC, UNAMSIL,
+UNMEE, UNMIBH, UNMIK and UNTAET). At the request of the Advisory
+Committee (see A/55/828 and A/55/878), the Board of Auditors reviewed the
+adequacy of the resident audit service in peacekeeping missions. The findings and
+recommendations of the Board are contained in its report (A/56/5, vol. II, chap. II,
+paras. 87-126). The Committee also exchanged views with the Under-Secretary-
+General for Internal Oversight Services, who provided additional information,
+especially on his plans to increase coverage of resident auditors in those active
+missions where resident auditors are now installed, in active missions without
+resident auditors (such as Middle East missions) and in new missions. The
+Committee was informed that proposals for these areas were under active
+consideration.
+
+49. The Committee welcomes the observations and recommendations of the
+Board of Auditors and requests the Board to continue, during its regular
+audits, to pay special attention to this issue, in particular to ascertaining the
+extent of implementation of its recommendation on the matter.
+
+50. The Committee, on the basis of all the information available, concludes
+that much needs to be done, both by the Office of Internal Oversight Services
+and by missions, to optimize the use of resident auditors. In this connection, the
+Committee noted a lack of coordination between the Office of Internal
+Oversight Services, the rest of the Secretariat and missions in the planning and
+preparation of proposals for resident auditors. The information given to the
+Committee about potential new requests should have been submitted in
+conjunction with peacekeeping budget estimates. Accordingly, the Committee
+requests the Under-Secretary-General for Internal Oversight Services to ensure
+that future requests for posts and non-posts for current or proposed resident
+auditors are synchronized with the preparation of peacekeeping budgets.
+Furthermore, the Office should ensure, as a matter of priority, that authorized
+posts are filled expeditiously. The Committee also requests that standard
+operating procedures for resident auditors should be developed and
+disseminated widely to resident auditors.
+
+51. On the basis of its experience in reviewing peacekeeping budgets and from
+oral testimony, the Committee has concluded that clarity is needed on the
+
+
+
+15
+
+A/56/887
+
+important question of handling observations and reports of the resident
+auditors both in the missions and at Headquarters. In the Committee’s opinion,
+there is a need to ensure that the performance and integrity of resident
+auditors are not adversely affected by the opinions of those being audited. As
+resident auditors are staff members of the Office of Internal Oversight
+Services, they must have confidence that they will at all times have the full
+backing of that Office and that their performance will ultimately depend on the
+assessment of the Office and not of the audited entities, whether in the
+Department of Peacekeeping Operations or in the mission area. There should
+also be a system of rotation of resident auditors among missions and between
+missions and Headquarters. The Committee emphasizes that the role of the
+resident auditors should not be compromised either by lack of support from
+Headquarters or by inadequate attention to the findings and recommendations
+of the auditors.
+
+52. The Committee was informed that resident auditors also perform advisory
+functions. The Committee stresses that in the mission area the role of auditor
+and the financial and administrative functions are quite distinct. The
+Committee therefore trusts that the Office of Internal Oversight Services and
+the missions will ensure at all times that any potential for a conflict of interest
+is minimized by a careful definition of the role of resident auditors in the
+standard operating procedures referred to above. The Committee further
+stresses the importance of the presence of resident auditors during the
+liquidation process of missions.
+
+53. The Committee held a preliminary discussion with the Under-Secretary-
+General for Internal Oversight Services on the question of extending resident
+investigators in peacekeeping missions. The Committee points out that currently
+there is no established criterion or formula for the establishment of resident
+investigators.
+
+54. The Advisory Committee is not fully convinced of the need to establish
+dedicated units for investigation in all peacekeeping missions. The Committee
+believes that investigation should be done when a case arises and that
+investigation should be covered from Headquarters or on a regional basis, for
+example from Nairobi, for Africa.
+
+55. The Committee requests that, as he did with resident auditors, the
+Secretary-General prepare a report on the experience so far with resident
+investigators, including proposals and plans for the future for review by the
+Committee in the context of budgets for peacekeeping for the period starting
+1 July 2003. In that report, attention should be paid to the fact that
+investigation is by nature a reactive function and that the structure for this
+function need not be a mirror image of the function of resident auditors.
+Furthermore, various options should be explored, including regional
+approaches in collaboration with other United Nations partners such as funds
+and programmes and specialized agencies that may be in the area of concern.
+
+Procurement and inventory management
+
+56. As it has done in the past (see, for example, A/53/895, A/53/940, A/54/841 and
+A/55/874), the Advisory Committee has commented on this subject in its reports on
+individual peacekeeping operations. The Committee has stressed that procurement
+
+
+
+16
+
+A/56/887
+
+and inventory management are functions that account for large investment by the
+Organization, and that it is essential for all concerned to take steps to ensure that
+adequate qualified staff are assigned, trained and retained to perform these functions
+in field missions. In its examination of performance and budget reports for this
+period, the Committee encountered persistent problems in the area of field
+procurement and inventory management (see also A/56/5, vol. II, chap. II, paras. 20-
+28 and 186-188). The Committee is not convinced that proper attention has
+been given at Headquarters and in the field to the issue of placing, retraining
+and retaining personnel in the area of procurement and inventory
+management.
+
+57. The Advisory Committee has recognized that increased delegation of authority
+to the field would contribute towards improving the efficiency and effectiveness of
+the procurement process if adequate capacity existed at the receiving end in the field
+to discharge procurement functions properly, as well as a mechanism at the central
+level to monitor those capacities (see A/55/874, para. 49). The Board of Auditors
+recommended that the Secretariat should selectively delegate increased authority to
+those missions that have demonstrated full compliance with the United Nations
+Regulations and Rules and other directives (A/56/5, vol. II, chap. II, para. 175).
+
+58. The Committee was informed that, in July 2001, the Under-Secretary-General
+for Peacekeeping Operations had addressed a letter to the Controller indicating the
+need to clarify and revise certain terms and conditions of the delegation of authority.
+An interdepartmental working group (Department of Peacekeeping Operations and
+Department of Management, Office of Central Support Services) was set up to
+clarify certain practical and technical aspects of this matter and a draft was being
+finalized, as of April 2002, that would be submitted for consideration by the
+respective heads of Department.
+
+59. The Committee was also informed that initiatives had been taken, in close
+cooperation among the two offices involved in the issue of delegation of
+procurement authority, which included the training of relevant field personnel to
+improve and increase mission capability, ensuring the development and availability
+of procedural guidelines and accessibility to Intranet tools facilitating the functions
+to be performed, as well as annual meetings of procurement officers. In the
+meantime, the Committee was informed that, of the 17 current peacekeeping
+missions, the following had received delegation of authority at the indicated levels:
+
+(a) $200,000: MONUC (14 September 1999), UNAMSIL (29 July 1998),
+UNLB (9 April 1998), UNMEE (22 August 2000), UNMIK (2 March 2000),
+UNTAET (14 May 1999);
+
+(b) $100,000: UNFICYP (28 March 1995), UNIFIL (28 March 1995);
+
+(c) $70,000: UNTSO (28 March 1995), MICAH (26 June 2000), MINURSO
+(28 March 1995), UNDOF (28 March 1995), UNOMIG (28 March 1995), UNIKOM
+(19 January 1996), UNMIBH (1 July 1996);
+
+(d) $40,000: UNMOGIP (1 July 1996).
+
+60. The Committee reiterates its view that any decision to delegate further
+procurement authority to missions must ultimately depend on ascertaining
+whether capacity exists in the mission to discharge delegated authority and
+
+
+
+17
+
+A/56/887
+
+whether adequate monitoring mechanisms have been set up at Headquarters.
+That being the case, there may be room for delegation on a case-by-case basis.
+
+Information technology projects
+
+61. The Advisory Committee notes that substantial amounts of non-post resources
+are spent for improved communication networks and state-of-the-art computer
+software and hardware which are being widely provided. This should not only result
+in efficiency but also enhance the possibility of reflecting lower requirements under
+travel budgets, general temporary assistance, and overtime and, to an extent, make
+possible the reduction or redeployment of posts.
+
+62. The Advisory Committee witnessed a number of presentations of various
+information technology projects developed and being developed for the
+administration and logistics of peacekeeping operations, often with the help of
+experts hired on a contractual basis. These included the field assets control system,
+the field expendable supply system, a Web-based personnel recruitment system
+(Galaxy), an integrated procurement system (Mercury), an electronic storage,
+tracking and archival retrieval system (E-STARS) and an IMIS Web-based prototype
+for peacekeeping missions. The Committee welcomes these developments. The
+Committee’s review of peacekeeping operations has further clearly indicated the
+need for modern information technology for the management of peacekeeping
+operations. On the basis of testimony of representatives of the Secretary-
+General, however, the Committee requests that a review be made of the many
+databases that have been or are being developed, with a view to ensuring that
+they are compatible and interactive and that they can be used with optimal
+effectiveness.
+
+63. The Advisory Committee notes from the report of the Board of Auditors that
+the full potential of systems such as the field assets control system is not being
+realized. The audit findings indicate that the value of $695.7 million may be
+incorrectly stated in the financial statements for the year ended 30 June 2001 since
+the underlying value of non-expendable equipment is based on information recorded
+on the field assets control system (see A/56/5, vol. II, chap. II, paras. 25-28). Upon
+enquiry, the Committee was informed that the problem pointed out by the Board was
+related to inadequate monitoring of inventory movements by the responsible staff,
+and not related to technical problems of the control system as such. On another
+matter, in response to its request, the Committee received information on the cost of
+maintaining a 24-hour help line; that information may be found in annex V.
+
+Air operations
+
+64. The Committee has noted that expenditure on operational activities has been
+growing rapidly. Air operations have become a major component of this category of
+expenditure. Many missions include in their estimates provisions for air operations
+to cover the cost of aircraft (helicopters and fixed-wing aircraft), normally under
+long-term commercial and/or letter-of-assist arrangements. The criteria used to
+determine arrangements for procuring aircraft services are not always clearly
+stated in the reports. Moreover, the Advisory Committee has requested that full
+explanations should be given in the budget document when the structure of air
+operations changes. Although the Committee notes that some brief notation has
+been made in the annexes to the budget reports, under standard and mission-
+
+
+
+18
+
+A/56/887
+
+specific costs, in many instances no satisfactory explanations are given for
+changes in the number and type of aircraft, or for the installation of hi-tech
+equipment. Moreover, the Committee believes that information on the use of
+air assets should be more up to date. The Committee requests that, in future
+performance and budget reports, these concerns should be addressed, including
+provision of information in tabular form on passenger and cargo use, both
+budgeted and non-budgeted.
+
+65. In determining air assets for a mission, full account should be taken of the
+availability of commercial alternatives, either through charter or, as in the case
+of UNOMIG, regularly scheduled commercial flights. In addition, where
+applicable, for example, in MONUC, there should be a concerted effort to
+develop an integrated plan for the use of air and ground transport in an
+effective and cost-efficient manner. This might imply strategic investment in
+the rehabilitation of ground transport in a way that would reduce the
+considerable resources devoted to air operations. Every effort should also be
+made to benefit from facilities made available through cooperation among
+missions as has been done with the allocation of heavy lift aircraft assigned to
+MONUC (see A/56/887/Add.10 and 11). This should be appropriately reflected
+in the relevant budgets.
+
+66. The Advisory Committee reiterates its view of the need to install an
+effective and adequate mission capacity to manage and monitor the use of air
+assets; furthermore, arrangements should be in place to ensure appropriate
+and timely reimbursement for air support services provided by missions to
+other partners in the mission area (see A/55/941, para. 20). In this respect, the
+Committee emphasizes that use of mission aircraft should be limited to official
+purposes, and that any deviation should, without exception, require
+appropriate reimbursement.
+
+67. The Advisory Committee also questions the justification for automatically
+including an estimate of expenditure for positioning/depositioning of aircraft in
+mission budgets (e.g., UNOMIG), given the fact that aircraft used by missions
+are not replaced annually. The Committee requests that a factor for non-
+replacement of aircraft should be taken into account during preparation of
+budget estimates.
+
+68. A requirement for a medical-evacuation facility should not be used as a
+justification for the maintenance of expensive and underutilized air assets.
+During the hearings the Committee was made aware of at least one case where
+a commercial medical-evacuation facility might be available. The Committee
+recommends an urgent review of medical-evacuation facilities which might be
+available, either on a commercial basis or through a standby arrangement with
+a Member State.
+
+Vehicles
+
+69. The Advisory Committee enquired about the procurement and installation of
+and expenditure on a Carlog system that has been implemented in a number of
+peacekeeping missions and the effect that it has had on the monitoring of vehicles.
+The purpose of the system is to provide data related to the use of the vehicle fleet
+(e.g., distances travelled, speed, driver identification and engine parameters) and
+facilitate proper maintenance. The system may also reduce the opportunity for fraud
+
+
+
+19
+
+A/56/887
+
+and vehicle theft. In addition, the Committee was informed that fuel trucks and fuel
+pumps have been equipped with fuel log systems, equipped with fuel sensor coils,
+allowing the missions to track down all fuel dispensed to vehicles. On the basis of
+the cost information provided on the Carlog system, the Committee is not
+convinced that the expense of procurement, installation and maintenance of the
+system in peacekeeping missions is cost-effective. The Committee was informed
+that, as a viable alternative to the Carlog system, the Department of
+Peacekeeping Operations is exploring the possibility of using a mobile assets
+locator tracking system (MALTS) based on global positioning system (GPS)
+technology. The Committee cautions against what appears to be a growing
+tendency to procure sophisticated technology for peacekeeping operations that
+is in excess of the actual needs of the missions, and believes that the
+introduction of such technology should be preceded by a cost-benefit analysis.
+
+70. The Advisory Committee has commented in previous reports on the issue of
+ratios used in peacekeeping operations, including the ratio of vehicles to
+international staff (see, for example, A/56/621, para. 52). The Committee observes
+that information on fleet vehicles in the proposed budgets for a number of
+missions does not allow a clear understanding of whether the number of
+vehicles in the missions is in line with the standard ratios in the Standard Cost
+Manual.
+
+Missions in liquidation
+
+71. The Board of Auditors has identified once again weaknesses in the control,
+filing, tracking and archiving of documentation of missions in liquidation. The
+problem appears to be acute where older missions are concerned (A/56/5, vol. II,
+chap. II, paras. 194-196). The Advisory Committee remains concerned about the
+length of the time taken to liquidate missions and the persistent weaknesses in
+the capacity of the Secretariat to handle liquidation and other related tasks at
+Headquarters and in the field in a timely manner. In this regard, the
+Committee requested information on the time required to liquidate missions
+(see para. 79 below). The Committee has stressed the need to retain
+experienced personnel in various phases of mission liquidation and to place
+them where they are needed, rather than to recruit inexperienced temporary
+staff. It is also important to maintain up-to-date inventory, accounting, and
+bank reconciliation systems throughout the mission so that those who deal with
+mission liquidation will be working with an up-to-date and accurate base of
+information. The Committee recommends that a roster be maintained of
+personnel who are properly qualified and experienced in mission liquidation, so
+that the Organization will continue to have recourse to their expertise and
+experience (see also A/55/874, para. 52).
+
+Public information programmes
+
+72. The Advisory Committee has indicated in the past that public information
+programmes in peacekeeping operations must be carefully identified and
+implemented on the basis of objectives tailored to the specific needs of the mission
+concerned. The Committee is not convinced that these programmes are always
+adequately justified in the budget estimates. The Committee believes that more
+efforts should be made to produce radio and other information programmes
+directly by the missions, thereby reducing the need for contractual services.
+
+
+
+20
+
+A/56/887
+
+The Committee recommends that the division between the Department of
+Peacekeeping Operations and the Department of Public Information of
+responsibility for overall policy and the guidance provided to field missions in
+this area should be reviewed and clarified with a view to developing a more
+professional, focused and consistent approach.
+
+Quick-impact projects
+
+73. The Advisory Committee recalls that the provision for quick-impact projects is
+intended to provide a flexible disbursement option for addressing immediate and short-
+term needs in the mission area and that guidelines on the administration of quick-impact
+projects have been drawn (see A/55/874, para. 56, and A/55/688/Add.1, annex II). The
+Committee welcomes the information provided on quick-impact projects in the
+performance reports. The Committee noted the establishment of a separate unit for
+quick-impact projects in one mission. The Committee is concerned that the
+establishment, at this time, of separate units to administer quick-impact projects
+could undermine the flexibility required in this area through the creation of
+cumbersome and protracted procedures in dealing with activities which require
+speed and efficiency. The Committee requests the Secretary-General to explore
+alternate options, including the use of existing military or civilian units, for the
+implementation of quick-impact projects.
+
+Training
+
+74. The Advisory Committee reiterates its view that there is a need for better
+planning for training of personnel in the mission area and that the subjects covered
+in the training programmes and their costs should be more clearly stated in the
+performance and budget reports (A/55/874, para. 57). The Committee stresses that
+training activities should be tailored towards fulfilling the mandate of the mission.
+Training plans and programmes should be carefully designed to address critical
+risk areas of the missions; furthermore, to the extent possible, more effort should
+be made to train trainers for some of the services of the mission. This would
+obviate the need to train relatively large numbers of personnel outside the mission
+area. The Committee remains concerned about what appears to be unwarranted
+overexpenditure in training activities in some missions even in cases where the
+mission should begin to plan to downsize and where the number of staff to be
+trained appears to be high in relation to the number of established posts in the
+mission.
+
+75. Upon request, the Advisory Committee was informed that resources made
+available for training programmes for all missions amounted to $2,812,600 for the
+period from 1 July 2001 to 30 June 2002. For 2002/2003, initial estimates amount to
+$3,377,300 (see annex VI.A to the present report). The number of personnel trained and
+to be trained for the periods 2000/2001, 2001/2002 and 2002/2003 is shown in annex
+VI.B. In addition, the Committee notes that, under the support account, a provision of
+$694,500 has been requested for the Civilian Training Section of the Department of
+Peacekeeping Operations for the development and delivery of training programmes,
+both at Headquarters and in the missions (see A/56/885).
+
+
+
+21
+
+A/56/887
+
+Performance reports of closed missions
+
+76. The Advisory Committee has considered the reports of the Secretary-General on
+the financial performance of the following closed missions: the United Nations
+Protection Force (UNPROFOR), the United Nations Confidence Restoration Operation
+in Croatia (UNCRO), the United Nations Preventive Deployment Force (UNPREDEP)
+and the United Nations Peace Forces headquarters (A/56/852); the United Nations
+Transitional Administration for Eastern Slavonia, Baranja and Western Sirmium
+(UNTAES) and the Civilian Police Support Group (A/56/844); the United Nations
+Deployment Force (UNPREDEP) (A/56/842); the United Nations Mission in Haiti
+(UNMIH) (A/56/851); and the United Nations Support Mission in Haiti (UNSMIH), the
+United Nations Transition Mission in Haiti (UNTMIH) and the United Nations Civilian
+Police Mission in Haiti (MIPONUH) (A/56/841).
+
+77. As summarized in annex VII to this report, the performance reports contain
+information on total appropriations, unencumbered balance of appropriations, cash
+position and proposed disposition of cash balances.
+
+78. Upon enquiry, the Advisory Committee was informed that all liquidation activities,
+including the disposal of assets, have been carried out.
+
+79. The Advisory Committee notes that the period between the end of mandates of
+closed missions and the dates of the final performance reports is long (see annex VIII).
+For example, it took more than five years in the case of UNMIH, four years with respect
+to the United Nations Peace Forces, UNTAES/Civilian Police Support Group and
+UNPREDEP and two years in the case of UNSMIH/UNTMIH/MIPONUH.
+
+80. With regard to the cash position of the United Nations Peace Forces (A/56/852),
+the Advisory Committee was informed that, as a result of payment of arrears by some
+Member States and the decrease in liabilities due to cancellation of some obligations, the
+cash position changed from an operating deficit of $305 million, as at 31 December
+2000, to a surplus of $133 million as at 31 December 2001. However, the cash surplus of
+$133 million is less than the unencumbered balance of appropriations, which amounts to
+$196.4 million.
+
+81. Upon enquiry, the Advisory Committee was informed that the amount of
+$4,000,200 gross ($3,978,900 net) shown in the performance report (A/56/841, table 4)
+is not a cash balance but the difference between the total amount appropriated over the
+life of UNSMIH, UNTMIH and MIPONUH, less total expenditures, and the
+unencumbered balances that have already been credited to Member States. On the other
+hand, table 5 in the same report shows that, as at 31 December 2001, the missions’
+outstanding liabilities exceeded the cash holdings by $8.7 million. Therefore, there are
+no cash resources available to credit Member States of the amount of $4,000,200 gross
+($3,978,900 net).
+
+82. With regard to the actions to be taken by the General Assembly, the Advisory
+Committee recommends acceptance of the proposals of the Secretary-General
+contained in the following report: A/56/852 (para. 10 (b) and (c)); A/56/844 (para.
+1); A/56/842 (para. 1 (a), (b) and (c)); A/56/851 (para. 1 (a) and (b)); and A/56/841
+(para. 1).
+
+83. In connection with the proposal of the Secretary-General (A/56/852, para. 10
+(a); A/56/844, para. 1; and A/56/842, para. 1 (d)) to apply fund balances of
+$125,644,300 in the United Nations Peace Forces, $35,799,000 in UNTAES and the
+
+
+
+22
+
+A/56/887
+
+Civilian Police Support Group and $18,213,000 in UNPREDEP to the resources
+required for the financing of the strategic deployment stocks, in the view of the
+Advisory Committee, the General Assembly may wish to take into account the
+funding arrangements set out in paragraph (f) of General Assembly resolution
+47/217 of 23 December 1992 relating to the establishment of the Peacekeeping
+Reserve Fund.
+
+
+
+23
+
+A/56/887
+
+Annex I
+A. Financial performance of peacekeeping missions for the period
+
+from 1 July 2000 to 30 June 2001a
+(Thousands of United States dollars)
+
+(1) (2) (3) (4) (5) (6)
+
+Mission
+Secretary-General’s
+
+budget
+
+Reduction
+recommended by
+
+Advisory Committee
+General Assembly
+
+appropriation
+Unencumbered
+
+balance
+Variance
+
+(2)+(4)
+
+Variance
+(percentage)
+
+ (5)÷(1)
+
+MINURSO 46 611.6 - 46 611.6 3 327.7 3 327.7 7.1
+
+MONUC 273 119.6 - 273 119.6 26 647.6 26 647.6 9.8
+
+UNAMSIL 561 996.4 11 996.4 550 000.0 56 938.4 68 934.8 12.3
+
+UNDOF 34 946.7 - 34 946.7 575.1 575.1 1.6
+
+UNFICYP 41 039.8 - 41 039.8 1 061.7 1 061.7 2.6
+
+UNIFIL 199 097.9 - 199.097.9 23 343.1 23 343.1 11.7
+
+UNIKOM 49 818.0 - 49 818.0 2 636.2 2 636.2 5.3
+
+UNMEE 199 075.8 19 075.8 180 000.0 25 084.2 44 160.0 22.2
+
+UNMIBH 153 588.0 3 588.0 150 000.0 12 488.7 16 076.7 10.5
+
+UNMIK 474 401.8 24 401.8 450 000.0 66 538.0 90 939.8 19.2
+
+UNOMIG 28 399.8 - 28 399.8 4 047.2 4 047.2 14.3
+
+UNTAET 592 306.8 29 306.8 563 000.0 35 412.1 64 718.9 10.9
+
+Total 2 654 402.2 88 368.8 2 566 033.4 258 100.0 346 468.8 13.1
+
+a Figures are shown in gross amounts and exclude amounts for the support account for peacekeeping operations and UNLB.
+
+
+
+24
+
+A/56/887
+
+B. Comparison of apportionment and unencumbered
+balance inclusive and exclusive of the support account
+for peacekeeping operations and UNLB for the period
+from 1 July 2000 to 30 June 2001
+(Thousands of United States dollars)
+
+Inclusive of the support account for peacekeeping operations
+and UNLB
+
+Exclusive of the support account for peacekeeping operations
+ and UNLB
+
+Mission
+General Assembly
+
+appropriation
+Unencumbered
+
+ balance
+Variance
+
+ (percentage)
+General Assembly
+
+appropriation
+Unencumbered
+
+balance
+Variance
+
+ (percentage)
+
+MINURSO 49 317.0 3 327.7 6.7 46 611.6 3 327.7 7.1
+
+MONUCa 273 119.6 26 647.6 9.8 273 119.6 26 647.6 9.8
+
+UNAMSIL 577 672.7 56 938.4 9.9 550 000.0 56 938.4 10.4
+
+UNDOF 36 975.4 575.1 1.6 34 946.7 575.1 1.6
+
+UNFICYP 43 422.1 1 061.7 2.4 41 039.8 1 061.7 2.6
+
+UNIFIL 207 154.1 23 343.1 11.3 199 097.9 23 343.1 11.7
+
+UNIKOM 52 710.3 2 636.2 5.0 49 818.0 2 636.2 5.3
+
+UNMEEb 189 190.2 25 084.2 13.3 180 000.0 25 084.2 13.9
+
+UNMIBH 158 707.7 12 488.7 7.9 150 000.0 12 488.7 8.3
+
+UNMIKa 450 000.0 66 538.0 14.8 450 000.0 66 538.0 14.8
+
+UNOMIG 30 048.2 4 047.2 13.5 28 399.8 4 047.2 14.3
+
+UNTAETa 563 000.0 35 412.1 6.3 563 000.0 35 412.1 6.3
+
+Total 2 631 317.3 258 100.0 9.8 2 566 033.4 258 100.0 10.1
+
+a Initially only commitment authority was approved for these missions in June 2000. They were therefore not included in the
+pro rata distribution of the cost of UNLB and the support account.
+
+b Mission established after the General Assembly had approved the pro rata distribution of the cost of UNLB and the support
+account for 2000/2001. The provision for the support account, approved in December 2000, relates to the initial
+implementation of the report of the Panel on United Nations Peace Operations.
+
+
+
+25
+
+A/56/887
+
+C. Supplementary information on the financial and budgetary
+reports of peacekeeping missions for the period from
+1 July 2000 to 30 June 2001 as at 31 December 2001
+
+1. Status of contributions
+(United States dollars)
+
+(1)
+Status of contributions
+
+(2)
+Updated financial information
+
+(b)
+Unliquidated obligations
+
+Mission
+
+(a)
+Total
+
+ assessed
+
+(b)
+Payments
+ received
+
+(c)
+Amounts
+
+ outstanding
+
+(a)
+Cash
+
+ position Government Other
+
+MINURSO 474 200 000 408 174 063 66 025 937 23 854 110 546 250 980 120
+
+MONUC 383 425 769 242 955 319 140 470 450 53 393 377 3 194 400 34 142 100
+
+UNAMSILa 1 110 336 321 832 230 387 278 105 934 122 660 009 98 130 977 13 079 413
+
+UNDOF 1 284 500 000 1 250 688 659 33 811 341 17 711 760 1 521 508 1 511 726
+
+UNFICYPb 200 768 320 187 088 879 13 679 441 17 332 631 1 300 000 307 100
+
+UNIFILc 3 269 700 000 3 123 265 353 146 434 647 117 047 680 12 773 352 6 982 128
+
+UNIKOM 309 138 843 291 569 107 17 569 736 61 972 620 1 970 129 1 564 013
+
+UNMEE 333 781 073 244 814 708 88 966 365 55 853 007 19 216 301 13 286 263
+
+UNMIBH 887 522 282 794 724 357 92 797 925 36 738 494 1 200 000 2 300 000
+
+UNMIK 1 238 379 000 1 017 955 590 220 423 410 170 510 215 3 400 000 14 200 000
+
+UNOMIG 150 582 039 141 261 175 9 320 864 4 800 233 402 493 1 216 017
+
+UNTAET 1 209 889 131 999 705 732 210 183 399 140 091 654 70 583 807 10 939 898
+
+Total 10 852 222 778 9 534 433 329 1 317 789 449 821 965 790 214 239 217 100 508 778
+
+a Unliquidated obligations as at 15 February 2002.
+b Amount outstanding as at 31 January 2002.
+c Status of contributions for the period from 16 June 1993 to 31 December 2001.
+
+
+
+26
+
+A/56/887
+
+2. Status of reimbursement to troop-contributing Member States
+(United States dollars)
+
+(a)
+Troop costsa
+
+(b)
+Contingent-owned equipment
+
+(c)
+Death and
+disability
+
+compensation
+
+Mission Paidb Owed Paidb
+Estimated
+
+ amounts owed
+Certified claims in
+accounts payablec Paidb
+
+MINURSO 6 385 145 92 260 5 050 987 118 845 - 315 385
+
+MONUC 8 672 189 9 317 682 - 10 763 957 1 307 197 -
+
+UNAMSIL 236 558 104 73 739 615 15 558 616 209 491 138 1 719 562 920 000
+
+UNDOF 135 517 600 4 633 308 290 953 714 968 - 4 794 028
+
+UNFICYP 125 890 518 6 133 093 1 820 385 8 178 241 - 1 200 000
+
+UNIFILd 412 985 461 17 969 512 6 400 764 14 803 577 373 634 -
+
+UNIKOM 98 305 867 4 037 950 10 086 084 2 184 768 - 854 272
+
+UNMEE 31 257 931 16 583 849 9 635 773 27 414 439 3 424 259 50 000
+
+UNMIBHe - - - - - 907 539
+
+UNMIK 15 864 458 4 806 218 3 045 037 3 737 730 731 739 329 562
+
+UNOMIGe - - 159 927 296 326 - 137 000
+
+UNTAETf 164 159 659 36 755 466 16 219 618 120 252 268 4 893 440 -
+
+Total 1 235 596 932 174 068 953 68 268 144 397 956 257 12 449 831 9 507 786
+
+a Reflects reimbursements to 31 August 2001 and amounts owed at 31 December 2001 for September-December 2001.
+b Amounts are cumulative from inception of each mission.
+c Certified claims in accounts payable are included in estimated amounts owed.
+d Amount paid for troop costs since March 1995.
+e Missions without military component.
+f Death and disability compensation data have not yet been compiled.
+
+
+
+27
+
+A/56/887
+
+Annex II
+A. Estimated gross budgetary requirements proposed by the
+
+Secretary-General for each peacekeeping operation for the
+period from 1 July 2002 to 30 June 2003a
+(Thousands of United States dollars)
+
+MONUC 603 911.0
+
+UNAMSIL 669 476.4
+
+UNDOF 38 991.8
+
+UNFICYP 44 973.9
+
+UNIFIL 112 376.0
+
+UNIKOM 53 340.6
+
+UNMEE 220 830.2
+
+UNMIBH 78 613.9
+
+UNMIK 391 076.2
+
+UNOMIG 35 535.3
+
+Total 2 249 125.3
+
+a Excludes MINURSO and the follow-on mission in East Timor.
+
+B. Commitment authorities approved by the Advisory Committee
+under General Assembly resolution 49/233 A
+
+Fiscal period
+    Amount approved
+
+    (United States dollars)
+
+Mission
+1999/
+2000
+
+2000/
+2001
+
+2001/
+2002 Date approved Gross Net
+
+UNMIK X 15 June 1999 50 000 000 50 000 000
+
+UNOMSIL X 15 June 1999 5 470 800 5 186 800
+
+MINURCA X 14 July 1999 6 701 900 6 701 900
+
+UNOMSIL X 20 September 1999 6 437 300 6 437 300
+
+UNAMSIL X 4 November 1999 41 063 500 41 063 500
+
+UNTAET X 4 November 1999 50 000 000 50 000 000
+
+MIPONUH X 10 December 1999 2 201 284 1 987 784
+
+MONUA X 10 December 1999 5 274 800 4 875 100
+
+UNIFIL X 26 May 2000 12 000 000 12 000 000
+
+UNMEE X 8 September 2000 50 000 000 49 715 100
+
+MONUC X 23 April 2001 49 865 400 49 530 700
+
+
+
+A
+/56/887
+
+28 Annex III
+Status-of-forces and status-of-mission agreements
+
+Mission Agreement or other document State/other entity Date signed Remarks
+
+MINURSO No status-of-forces agreement; only status-
+of-mission and military agreements.
+
+Status of mission Algeria 3 November 1998
+Status of mission Mauritania 9 November 1998
+Status of mission Morocco 11 February 1999
+Letter of agreement Frente POLISARIO 4 September 1991
+Military agreement Frente POLISARIO 4 April 1999
+
+MONUC Status of forces Democratic Republic of the Congo 4 May 2000 Status-of-mission agreements not yet signed
+with Angola, Central African Republic,
+Namibia, Rwanda, Uganda, Zambia and
+Zimbabwe.
+
+UNAMSIL Status of forces Sierra Leone 4 August 2000
+UNFICYP Status of forces Cyprus 31 March 1964
+UNDOF Pending Syrian Arab Republic No signed status-of-forces agreement.
+UNIFIL Status-of-forces Lebanon 15 December 1995
+UNIKOM Status-of-mission Kuwait 20 May 1992
+
+Status-of-mission Iraq 20 June 1992
+UNMEE Status-of-mission Ethiopia 23 March 2001
+
+Eritrea Status-of-mission agreement with Eritrea as
+yet unsigned.
+
+UNMIBH No status-of-forces agreement required.
+Status-of-mission Bosnia and Herzegovina 5 September 1996
+Status-of-mission Federal Republic of Yugoslavia 26 September 2001 Status-of-mission agreement for United
+
+Nations liaison office in Belgrade.
+UNMIK No status-of-forces agreement required;
+
+only status-of-mission agreement.
+Status-of-mission The former Yugoslav Republic of
+
+Macedonia
+27 February 2001
+
+Albania Status-of-mission agreement with Albania
+not yet signed.
+
+Federal Republic of Yugoslavia Status-of-mission agreement for UNMIK
+liaison office in Belgrade not yet signed.
+
+UNOMIG Status-of-mission Georgia 15 October 1994
+UNTAET No status-of-forces agreement required.
+
+
+
+29
+
+A/56/887
+
+Annex IV
+Vacancy rates of peacekeeping operations for the period from
+1 July 2000 to 30 June 2001
+(Percentage)
+
+Peacekeeping operation
+Vacancy factor applied in the
+
+ initial budget estimates Actual vacancy rate
+
+MINURSO
+
+Professional 35 37
+
+General Service/Field Service 10 7
+
+Local 5 3
+
+MONUC
+
+Professional 0 48
+
+General Service/Field Service 0 34
+
+Local 0 33
+
+UNAMSIL
+
+Professional 10 27
+
+General Service/Field Service 10 8
+
+Local 10 21
+
+UNDOF
+
+Professional 0 19
+
+General Service/Field Service 0 8
+
+Local 0 1
+
+UNFICYP
+
+Professional 5 18
+
+General Service/Field Service 5 4
+
+Local 0 22
+
+UNIFIL
+
+Professional 8 21
+
+General Service/Field Service 8 9
+
+Local 0 5
+
+UNIKOM
+
+Professional 10 31
+
+General Service/Field Service 10 25
+
+Local 10 8
+
+UNMEE
+
+Professional 10 52
+
+General Service/Field Service 10 27
+
+Local 10 63
+
+
+
+30
+
+A/56/887
+
+Peacekeeping operation
+Vacancy factor applied in the
+
+ initial budget estimates Actual vacancy rate
+
+UNMIBH
+
+Professional 10 21
+
+General Service/Field Service 10 10
+
+Local 5 3
+
+UNMIK
+
+Professional 15 16
+
+General Service/Field Service 15 14
+
+Local 5 8
+
+UNOMIG
+
+Professional 10 6
+
+General Service/Field Service 10 1
+
+Local 5 0
+
+UNTAET
+
+Professional 20 28
+
+General Service/Field Service 20 24
+
+Local 10 11
+
+
+
+31
+
+A/56/887
+
+Annex V
+Comparison of service level A of the Information Technology
+Services Division with costs in a typical field mission for
+similar services
+
+The cost of support by the Information Technology Services Division (ITSD)
+for computers and peripherals appears in the support account budget at a standard
+cost of $1,200 per desktop per annum.
+
+The Committee had requested that a comparison of this amount with the cost
+in a field mission for similar services be made. UNMIK has an infrastructure similar
+to that found at Headquarters, and is thus used for comparison.
+
+ITSD per PC per annum UNMIK per PC per annum
+
+Service level A itemized deliverables (United States dollars)
+
+LAN (group administration) 400 59
+
+Help desk services (hardware support) 250 236
+
+Help desk services (software support) 150 160
+
+Software licences 150 100
+
+Use of LAN server 150 -
+
+CMS support fee 100 -
+
+Total annual unit cost 1 200 555
+
+
+
+32
+
+A/56/887
+
+Comparison of itemized service deliverables
+
+ITSD cost CITSa cost
+
+Type of service Scope (United States dollars)
+
+LAN group administration
+
+ITSD LAN size: PCs 6,500; servers 80; routers 15; switches 160
+Duties: The Division is expected to provide 24-hour service
+for desktop, central computing and applications. Repairs are
+effected to hardware by subcontractors.
+
+400
+
+UNMIK LAN size: computing units 6,001; servers 117; routers 191;
+switches 80
+Duties: support of office automation software, additional
+network installations, network printers, Internet protocol
+addresses, Internet, CD copies, file conversations, hardware
+faults to maintenance workshop
+
+59
+
+Help desk services (hardware)
+
+ITSD The Division has a maintenance subcontract; repair of
+hardware; installations
+
+250
+
+UNMIK Mission performs all maintenance including provision of
+spare parts (15 per cent per PC)
+
+236
+
+Help desk services (software)
+
+ITSD Covers: Banyan, CMS, Microsoft 2000, Paradox, IMIS,
+ODS
+
+150
+
+UNMIK Covers: Windows NT, Windows 2000, field assets control
+system, field expendable supply system, contingent-owned
+equipment, field personnel management system, Mercury,
+Galaxy, E-STARS, Sun, Progen
+
+160
+
+Software licences
+
+ITSD Banyan, Windows 98, Microsoft Office Suite 150
+
+UNMIK Windows 2000, Microsoft Office Suite, Windows NT 100
+
+Use of LAN server
+
+ITSD Management of Internet protocol addresses; shared drives
+on Banyan
+
+150
+
+UNMIK Management of Internet protocol addresses; shared drives
+on Windows NT
+
+Included
+in the
+
+help desk
+cost
+
+ CMS support fee
+
+ITSD Includes anti-virus, browser through central distribution 100
+
+UNMIK Anti-virus, browser, limited central distribution capability
+
+Included
+in the
+
+help desk
+cost
+
+a Communications and Information Technology Service.
+
+
+
+33
+
+A/56/887
+
+Annex VI
+
+A. Resources made available for training programmes for the
+period from 1 July 2001 to 30 June 2002 and proposed for
+the period from 1 July 2002 to 30 June 2003a
+(United States dollars)
+
+2001/2002 2002/2003
+
+MINURSO 65 000 -
+
+MONUC 528 700 751 800
+
+UNAMSIL 227 600 322 600
+
+UNDOF 145 400 149 000
+
+UNFICYP 51 500 82 400
+
+UNIFIL 351 900 362 900
+
+UNIKOM 105 900 161 700
+
+UNMEE 399 300 393 400
+
+UNMIBH 208 700 105 000
+
+UNMIK 412 600 679 500
+
+UNOMIG 184 000 369 000
+
+UNTAET 132 000 -
+
+Total 2 812 600 3 377 300
+
+a Excludes MINURSO and the follow-on mission in East Timor for 2002/2003.
+
+
+
+A
+/56/887
+
+34 B. Information on training activities during the fiscal periods 2000/2001, 2001/2002
+and 2002/2003
+
+2000/2001 2001/2002 2002/2003
+
+Mission
+Number of
+
+personnel trained
+Percentage
+
+trained at UNLB
+Percentage
+
+trained elsewhere
+Number of
+
+personnel trained
+Percentage
+
+trained at UNLB
+Percentage
+
+trained elsewhere
+Number of
+
+personnel trained
+Percentage
+
+trained at UNLB
+Percentage
+
+trained elsewhere
+
+MINURSO - - - 14 70.0 30.0 11 50.0 50.0
+
+MONUC 23 70.0 30.0 49 60.0 40.0 94 70.0 30.0
+
+UNAMSIL 27 63.0 37.0 30 100.0 - 45 76.0 24.0
+
+UNDOF 34 41.2 58.8 45 44.4 55.6 69 39.1 60.9
+
+UNFICYP 39 31.0 69.0 19 25.0 75.0 63 22.0 78.0
+
+UNIFIL 20 25.0 75.0 334 5.7 94.3 341 5.6 94.4
+
+UNIKOM 19 32.0 68.0 29 48.0 52.0 26 46.0 54.0
+
+UNMEE 10 80.0 20.0 46 90.0 10.0 57 70.0 30.0
+
+UNMIBH 215 15.8 84.2 874 2.3 97.7 161 16.1 83.9
+
+UNMIK 1 051 3.7 96.3 174 2.3 97.7 1 331 1.4 98.6
+
+UNOMIG 18 61.0 39.0 16 56.0 44.0 145 12.0 88.0
+
+UNTAETa 73 23.0 77.0 220 10.0 90.0 86 9.3 90.7
+
+Total 1 529 1 850 2 429
+
+a Initial estimate based on budget submission from the Department of Peacekeeping Operations.
+
+
+
+A
+/56/88735
+
+Annex VII
+Final performance of closed missions
+
+UNPF UNTAES UNPREDEP UNMIH UNSMIH/UNTMIH/MIPONUH
+
+Description Gross Net Gross Net Gross Net Gross Net Gross Net
+
+Performance reports
+
+Total appropriation 5 082 586 459 5 044 754 959 517 546 360 501 478 560 166 390 300 161 822 900 357 541 100 352 046 000 133 034 216 126 944 616
+
+Reported expenditures 4 835 728 900 4 799 806 900 467 310 100 454 707 600 151 808 800 148 777 600 313 057 300 309 246 700 118 743 600 113 697 900
+
+Balance 246 857 559 244 948 059 50 236 260 46 770 960 14 581 500 13 045 300 44 483 800 42 799 300 14 290 616 13 246 716
+
+Unencumbered balance of
+appropriations as at
+31 December 2001
+
+Total appropriation 5 082 586 459 5 044 754 959 517 546 360 501 478 560 166 390 300 161 822 900 357 541 100 352 046 000 133 034 216 126 944 616
+
+Final expendituresa 4 560 205 000 4 525 641 900 435 240 800 423 992 300 145 653 200 142 796 100 273 534 000 271 854 000 114 907 600 109 861 900
+
+Variance 522 381 459 519 113 059 82 305 560 77 486 260 20 737 100 19 026 800 84 007 100 80 192 000 18 126 616 17 082 716
+
+Credited to Member States 262 589 246 264 274 828 50 236 260 46 770 960 13 677 500 12 141 300 44 445 700 42 772 500 14 126 416 13 103 816
+
+Transferred to other funds 63 311 186 57 580 861 0 0 0 0 0 0 0 0
+
+Subtotal 325 900 432 321 855 689 50 236 260 46 770 960 13 677 500 12 141 300 44 445 700 42 772 500 14 126 416 13 103 816
+
+Balance as at 31/12/01 196 481 027 197 257 370 32 069 300 30 715 300 7 059 600 6 885 500 39 561 400 37 419 500 4 000 200 3 978 900
+
+To be offset 0 0 0 0 172 000 76 000 0 0 0 0
+
+Balance 196 481 027 197 257 370 32 069 300 30 715 300 6 887 600 6 809 500 39 561 400 37 419 500 4 000 200 3 978 900
+
+Financial position
+
+Cash 174 550 000 42 446 000 36 516 000 40 039 000 9 801 000
+
+Liabilities 40 612 000 6 647 000 18 303 000 14 773 000 18 532 000
+
+Operating deficit/cash
+balance 133 938 000 35 799 000 18 213 000 25 266 000 -8 731 000
+
+
+
+A
+/56/887
+
+36
+
+UNPF UNTAES UNPREDEP UNMIH UNSMIH/UNTMIH/MIPONUH
+
+Description Gross Net Gross Net Gross Net Gross Net Gross Net
+
+Proposed disposition of
+cash balances
+
+Transfer to strategic
+deployment stocks 125 644 300 35 799 000 18 213 000 0 0
+
+Credit to Member States 8 293 700 0 0 25 266 000 0
+
+Total 133 938 000 35 799 000 18 213 000 25 266 000 0
+
+Impact of proposed
+disposition of cash
+balance
+
+Reduction to unencumbered
+balance of appropriations 133 938 000 32 069 300 6 887 600 25 266 000 0
+
+Reduction to other income 0 3 729 700 11 325 400 0 0
+
+Total 133 938 000 35 799 000 18 213 000 25 266 000 0
+
+a Inclusive of prior period adjustments and savings on or cancellation of prior period obligations.
+
+
+
+37
+
+A/56/887
+
+Annex VIII
+Time elapsed between end of mandate and issuance of final
+performance report
+
+Mission End of mandate Date of final performance report
+
+UNPF 15 January 1996a 17 March 2000
+
+UNTAES/Civilian Police Support Group 15 October 1998 27 February 2002
+
+UNPREDEP 28 February 1999 27 February 2002
+
+UNMIH 30 June 1996 1 March 2002
+
+UNSMIH/UNTMIH/MIPONUH 15 March 2002 27 February 2002
+
+a Field liquidation ended 30 June 1997.
+
+

@@ -1,0 +1,481 @@
+
+United Nations A/59/558
+
+ 
+
+General Assembly Distr.: General
+8 November 2004
+
+Original: English
+
+04-59677 (E)    111104
+
+*0459677*
+
+Fifty-ninth session
+Agenda item 108
+Programme budget for the biennium 2004-2005
+
+Information and communications technology strategy
+
+Strengthening the Department of Public Information, within
+the existing capacity, in order to support and enhance the
+United Nations web site in all official languages of the
+Organization: status of implementation
+
+Report of the Advisory Committee on Administrative and
+Budgetary Questions
+
+1. The Advisory Committee on Administrative and Budgetary Questions has
+considered the reports of the Secretary-General on the progress in implementing the
+information and communications technology (ICT) strategy (A/59/265) and on the
+status of strengthening the Department of Public Information, within the existing
+capacity, in order to support and enhance the United Nations web site in all official
+languages of the Organization (A/59/336). During its consideration of the items, the
+Committee met with representatives of the Secretary-General, who provided
+additional information.
+
+Information and communications technology strategy
+
+2. The report of the Secretary-General on the information and communications
+technology strategy was submitted pursuant to paragraph 46 of General Assembly
+resolution 58/270 of 23 December 2003. The report summarizes the outcome of
+work during the past year on the implementation of initiatives related to four main
+elements, identified as “building blocks” of the ICT strategy, and on the
+strengthening of the governance aspects of the strategy. It also provides information
+on the impact of investment in ICT on the operations of the United Nations
+(A/59/265, paras. 1-3). An updated status of implementation of the major ICT
+projects, initially described in the report of the Secretary-General to the General
+Assembly at its fifty-seventh session on the ICT strategy (A/57/620), is included in
+the annex to document A/59/265. The Advisory Committee welcomes the report.
+
+
+
+2
+A/59/558
+
+3. Paragraphs 4 to 25 of document A/59/265 discuss the above-mentioned matters
+under the following subjects:
+
+(a) Infrastructure at Headquarters and at offices away from Headquarters;
+
+(b) ICT security policies and provisions to ensure business continuity and
+emergency preparedness;
+
+(c) Connectivity to and from all the offices away from Headquarters,
+including the International Tribunals for Rwanda and for the Former Yugoslavia;
+
+(d) Capacity-building and efficient utilization of skilled human resource
+base;
+
+(e) Framework for institutional governance of the ICT processes;
+
+(f) Inter-agency ICT activities, including the development of a
+comprehensive ICT strategy for the United Nations system;
+
+(g) Return on investment of the individual ICT projects.
+
+4. With regard to the project of the Office of Human Resources Management
+entitled “Galaxy-R2”, whose objective as a web tool is, inter alia, to enable human
+resources practitioners and programme mangers to review applications to vacant
+posts on the Internet, the Advisory Committee enquired as to the status of the
+development of screening and filtering mechanisms. The Committee was informed
+that the ability to conduct structured searches of candidates based on years of
+experience, gender, geography (nationality) and the capacity to conduct advanced
+search by key words from the candidates free text area of work experience were
+made available to human resource case officers in April 2003. This search
+capability, which provides screening and filtering mechanisms to assist programme
+managers in selection of candidates, is also being provided to the programme case
+officers with the release of Galaxy-R2 in the fourth quarter of 2004.
+
+5. On a related matter, the Advisory Committee was informed that the
+Communications and Information Technology Service and the Personnel
+Management and Support Service of the Department of Peacekeeping Operations
+had completed development of the roster management capacity for mission positions
+through the integration of Galaxy and Nucleus to facilitate the selection by the
+Personnel Management and Support Service of candidates for start-up missions.
+Additionally, at present the Office of Human Resources Management and
+Department of Peacekeeping Operations are developing the capacity to support the
+identification of prior vacancies with matching characteristics of occupational
+group, grade level and functional title. By utilizing that functionality, Galaxy will be
+able to automatically assign candidates to the current vacancies, thereby speeding up
+the selection process. The prototype of the vacancy matching has been completed by
+the Office, and it is expected that an initial release will be completed by the end of
+2004.
+
+6. The Advisory Committee notes the progress made on inter-agency ICT
+activities discussed in paragraph 21 of document A/59/269. The Committee had
+endorsed the view of the Board of Auditors that a comprehensive, United Nations-
+wide initiative should be undertaken to coordinate efforts on ICT strategy and
+developments (see A/59/400, paras. 16 and 41). The Committee notes that in
+coordination with the ICT Task Force of the United Nations System Chief
+
+
+
+3
+A/59/558
+
+Executives Board for Coordination (CEB) and the CEB secretariat, the Information
+Technology Services Division is collaborating with other organizations of the
+United Nations system in the development of a comprehensive ICT strategy for the
+United Nations system.
+
+7. The Advisory Committee was informed that the high-level goals of the United
+Nations system ICT strategy are the following:
+
+(a) Setting out a vision to harness the power of the United Nations system,
+acting in harmony in ICT matters for the benefit of all stakeholders;
+
+(b) Harmonizing efforts, standardization and investments, and avoiding
+duplication, leading to significant system-wide savings;
+
+(c) Improving effectiveness and efficiency of services to Member States and
+governing bodies of the United Nations system organizations;
+
+(d) Contributing into achieving the Millennium Development Goals and
+bridging the digital divide.
+
+8. The Advisory Committee was informed that the strategy for implementation
+focused on five areas and identified 15 business cases, each considering and
+defining the problem, the opportunity, the target position, advantages and
+constraints, the time frame, the proposed action plan and its sustainability, as
+follows:
+
+Areas of strategy Related business cases
+
+ICT in development • ICT integration in development programmes
+
+• United Nations ICT services sourcing strategy
+
+• ICT development network
+
+ICT best practices • ICT governance and best practice
+
+• Business case preparation and costing
+
+Information security • Information security, disaster recovery and
+business continuity
+
+• United Nations-wide public key infrastructure
+
+Implementation • Enterprise resource planning systems
+
+• Common application solutions
+
+• Open source software
+
+• Knowledge sharing
+
+• Web management and content
+
+• United Nations system directory
+
+• ICT assets; procurement and disposal
+
+Sustainability • Training
+
+
+
+4
+A/59/558
+
+9. The Advisory Committee recalls that it joined with the Board of Auditors in its
+recommendation that a more proactive approach needed to be taken in the
+coordination of ICT efforts in the United Nations and its funds and programmes so
+as to ensure that the approach taken was cost-effective and met the requirements of
+organizations and Member States (see A/59/400, para. 42). In this connection, the
+Committee was informed that some important considerations were: (a) while the
+Information Technology Services Division had assumed a role of the lead agency in
+several ICT initiatives launched within the United Nations system, the current
+strategy did not intend to overlap with each organization’s individual ICT strategic
+framework; (b) the programmatic alignment of the strategy with objectives that were
+common to all organizations of the United Nations system and not specific to
+individual organization; and (c) the investments that might be required to implement
+the strategy should be offset by the benefits achieved through expected cost-
+reduction.
+
+10. The Advisory Committee was informed that the Secretariat closely follows the
+development of the Enterprise Resource Planning systems in the United Nations
+funds and programmes as well as in the United Nations specialized agencies, both in
+terms of functionality and technology. As an alternative to the Integrated
+Management Information System was not likely to be imminently available, the
+System was being kept current with modifications to its technology to replace some
+of its obsolete technical components and to extend its technological lifespan.
+
+11. The Advisory Committee was informed that although aggregate figures on the
+positive return of ICT investments could not yet be produced, the methodology and
+mechanism in place would allow the quantification of the return on investment at
+the individual project level. The annex to document A/59/265 includes information
+at the project level on benefits of introducing technology in the operations of the
+United Nations, identified as support for decision-making process, levering past
+investments, process streamlining and service improvements.
+
+12. Furthermore, on the matter of quantification of return on investment, the
+Advisory Committee was also informed that, at the time of preparation of the
+proposed programme budget for the biennium 2004-2005, the Programme Planning
+and Budget Division had made an attempt to identify efficiency gains and savings
+arising from investment in information technology, organizational improvements
+and other initiatives. Such savings were identified within 17 sections of the
+proposed programme budget for a total estimated savings of $33.3 million. This was
+reported to the Advisory Committee in July 2003. An analysis of the efficiency
+gains arising from the investment in information technology made at that time
+showed that gains were primarily in the administrative and conference services area.
+These gains in some cases enabled programme managers to accommodate a higher
+level of workload with the same or smaller capacity; in other cases, programme
+managers were able to redeploy resources released as a result of such efficiencies to
+other areas.
+
+13. The Advisory Committee was further informed that it was the intention to
+continue with the identification of returns on investment in ICT initiatives in the
+context of the proposed programme budget for 2006-2007. As envisaged in the
+Secretary-General’s bulletin ST/SGB/2003/17, the Project Review Committee has
+been established under the Information and Communications Technology Board,
+with the purpose of ensuring that ICT standards are uniformly applied to all ICT
+
+
+
+5
+A/59/558
+
+initiatives. Departments and offices are expected to prepare and submit to the
+Project Review Committee a high-level business case for every ICT initiative and to
+provide justification for undertaking the ICT initiative, to estimate the cost of the
+project, to identify risks and to summarize its benefits and return on investment. In
+order to align the budget process with these initiatives, all requests submitted to the
+Programme Planning and Budget Division for additional resources for new ICT
+projects in the biennium 2006-2007 involving costs in excess of $200,000 per
+business case will need to be accompanied by a copy of the pertinent business case,
+carrying the recommendations of the Project Review Committee. Upon compilation
+of all projected initiatives, it will then be possible for the Programme Planning and
+Budget Division to estimate an overall return on investment embodied into the
+proposed programme budget for 2006-2007.
+
+14. The Advisory Committee notes that interdepartmental joint operations are
+leveraging the investment made in infrastructure. Joint operations of the Department
+of Peacekeeping Operations and the Information Technology Services Division are
+expected to result in a reduction in overall support costs (see A/59/265, para. 11).
+The Committee was informed that to take advantage of time difference between
+Headquarters and the United Nations Logistics Base at Brindisi, Italy, a “follow-the-
+sun” approach was being implemented on network operations. This included two
+aspects: (a) it allowed the utilization of the available network bandwidth at one site
+during night-time by a duty station located at a different time zone; and (b) it
+allowed network support staff resources working during the day at Brindisi and/or
+New York to monitor server and network operations and to resolve problems in the
+other computer centre, ensuring 24-hour availability.
+
+15. The approach mentioned above is most prominently used for “help desk
+services” and Internet access. The help desks for Department of Peacekeeping
+Operations users and field missions are being serviced by staff operating at both
+Brindisi and Headquarters. Trained personnel can thus provide for help desk service
+during an additional six-hour window without resorting to overtime or night
+differential. The provision of Internet services to offices away from Headquarters
+serviced by satellite links (the United Nations Office at Nairobi, the Economic
+Commission for Africa and the Economic and Social Commission for Western
+Asia), is optimized to take advantage of the lightly used Internet capacity available
+at Headquarters outside the New York working hours. Advanced plans for setting up
+a mirror site of the United Nations web site (www.un.org) in the United Nations
+Logistics Base at Brindisi will provide users with better service and minimized
+redundancies in case of down time or failure of either of the two sites. This service
+will, in the future, be part of a larger disaster recovery plan of the Department of
+Peacekeeping Operations that will be finalized in the second quarter of 2005.
+
+16. The Advisory Committee sought clarification on the upgrading of the local
+area network and requested information on reasons why new multimedia
+applications and other enhancements could not be targeted in a cost-effective
+manner to selected users. The Committee was informed that the upgrade of the local
+area network was required to provide increased strength and stability to network
+operations. As a result of the upgrade, down time had been reduced significantly,
+leading to the achievement of the availability goal of 99.5 per cent. The network
+will be capable to support multimedia applications wherever they are required.
+Specific requests for desktop videoconferencing capabilities have already been
+received from the Department of General Assembly and Conference Management,
+
+
+
+6
+A/59/558
+
+the Department of Public Information and the Office of Programme Planning,
+Budget and Accounts/Programme Planning and Budget Division to support a more
+efficient production of documents and audio-visual content. In this connection, the
+Committee was informed that the targeting of this upgrade to specific desktops
+would not have resulted in cost reductions. Implementing multiple transmission
+protocols over the same network requires dual switching and routing equipment and
+makes maintenance and management more costly and complex. However, their
+implementation speeds up and simplifies business processes throughout the
+Secretariat, allowing for the accommodation of a higher workload with the same or
+less level of resources.
+
+17. The Advisory Committee recommends that the General Assembly take
+note of the progress report of the Secretary-General on implementing the
+information and communications technology strategy.
+
+18. The Advisory Committee enquired about the steps taken to reduce the number
+of existing e-mail systems in various entities of the Secretariat by adopting one
+single common system for the United Nations. The Committee was informed that
+the International Computing Centre at Geneva, at a recent meeting of its
+Management Committee, had been tasked with developing a proposal, including
+projected costs, for hosting and managing a global e-mail system. The Centre is
+currently working on this issue.
+
+United Nations web site
+
+19. The report of the Secretary-General on the status of strengthening the
+Department of Public Information, within the existing capacity, in order to support
+and enhance the United Nations web site in all official languages of the
+Organization (A/59/336) was submitted pursuant to paragraph 42 of General
+Assembly resolution 58/270, in which the Assembly recalled its decision 57/579 of
+20 December 2002 and requested the Secretary-General to continue to strengthen
+the United Nations web site through the further redeployment of resources to the
+required language posts and to report on the status of its implementation to the
+Assembly at its fifty-ninth session. In its decision 57/579, the Assembly requested
+the Secretary-General to proceed with the implementation of his proposal on
+strengthening the web site through the redeployment of resources within the
+Department of Public Information, to keep the question of equality among the six
+official languages on the web site under review and to submit proposals aimed at
+achieving full equality among the languages.
+
+20. Existing resources to make the web site operational and to ensure its continued
+enhancement and maintenance are discussed in paragraphs 4 and 5 of document
+A/59/336. Currently, the staff of the Website Section comprises 25 posts (1 P-5, 3 P-
+4, 6 P-3, 3 P-2 and 12 General Service posts) redeployed from other functions and
+activities of the Department of Public Information. In addition, three General
+Service (Other level) staff work in the Section under general temporary assistance.
+The Advisory Committee was provided, upon request, with a list of current staffing
+broken down by web site language assignment (see the annex to the present report).
+
+21. The Advisory Committee notes from paragraph 8 of document A/59/336 that
+the Department of Public Information has taken steps to enhance the web site and
+facilitate the availability of materials in all official languages by entering into
+
+
+
+7
+A/59/558
+
+arrangements with universities in various linguistic regional areas for pro bono
+translation of information materials. The Committee welcomes these
+arrangements and encourages the Department of Public Information to
+continue this work.
+
+22. Current workload and future requirements of the Website Section are discussed
+in paragraph 6 to 11 of the report of the Secretary-General. The Advisory
+Committee will revert to this matter and examine the proposals of the Department of
+Public Information in the context of the proposed programme budget for the
+biennium 2006-2007.
+
+23. The Advisory Committee recommends that the General Assembly take
+note of the report of the Secretary-General on the United Nations web site.
+
+
+
+8
+A/59/558
+
+Annex
+Current staffing of the Website Section, News and Media
+Division, Department of Public Information
+
+Function Title Level Number
+
+Office of the Chief Chief of Section
+Secretary
+
+P-5
+GS
+
+1
+1
+
+Website Language Unit Office of the Chief P-4 2
+
+Arabic Language Coordinator
+Language Assistant
+Language Assistant
+
+P-3
+GS
+GS*
+
+1
+1
+1
+
+Chinese Language Coordinator
+Language Assistant
+Language Assistant
+
+P-3
+GS
+GS*
+
+1
+1
+1
+
+English Language Coordinator
+Language Assistant
+
+P-3
+GS
+
+-
+2
+
+French Language Coordinator
+Language Assistant
+
+P-3
+GS
+
+1
+2
+
+Russian Language Coordinator
+Language Assistant
+
+P-3
+GS
+
+1
+2
+
+Spanish Language Coordinator
+Language Assistant
+Language Assistant
+
+P-3
+GS
+GS*
+
+1
+1
+1
+
+Special Projects Unit Chief, Special Projects Unit P-4 1
+
+Website Coordinator P-3 1
+
+Web Development and
+Webcasting Unit
+
+Acting Chief, Web Development P-2 1
+
+Website Designer P-2 1
+
+Database Developer P-2 1
+
+Web Development Assistant GS 2
+
+P 13
+
+Total
+(25 established posts and 3 temporary)
+
+GS 12
+
+GS* 3
+
+GS* — General Service post funded under general temporary assistance.
+
+

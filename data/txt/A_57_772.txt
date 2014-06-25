@@ -1,0 +1,2030 @@
+
+United Nations A/57/772
+
+ 
+
+General Assembly Distr.: General
+4 April 2003
+
+Original: English
+
+03-31136 (E)    300403
+
+*0331136*
+
+Fifty-seventh session
+Agenda item 126
+Administrative and budgetary aspects of the financing
+of the United Nations peacekeeping operations
+
+Administrative and budgetary aspects of the financing
+of the United Nations peacekeeping operations
+
+Report of the Advisory Committee on Administrative and
+Budgetary Questions
+
+Contents
+Paragraphs Page
+
+ I. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1–6 3
+
+ II. Report of the Board of Auditors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7–18 4
+
+Financial issues . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 6
+
+Peacekeeping Reserve Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 7
+
+Inactive trust funds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 7
+
+III. Reports of the Secretary-General on the financing of peacekeeping operations . . . 19–142 7
+
+Feasibility of consolidating accounts of the various peacekeeping operations. . . . . 20–28 7
+
+Financial performance for 2001/02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29–32 9
+
+Flexibility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33–35 9
+
+Delegation of financial authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 10
+
+Results-based budgeting, objective-setting and presentation . . . . . . . . . . . . . . . . . . . 37–56 10
+
+Budget proposals for 2003/04. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 14
+
+Military and police personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58–59 14
+
+Management of contingent-owned equipment arrangements . . . . . . . . . . . . . . . . . . . 60–76 15
+
+Civilian personnel matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77–85 18
+
+
+
+2
+A/57/772
+
+Resident investigators and auditors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86–95 20
+
+Non-expendable equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96–99 23
+
+Communication and information technology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100–106 24
+
+Air transportation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107–114 26
+
+Insurance of vehicle fleet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115 27
+
+Procurement and contract management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116–122 28
+
+Travel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123–124 29
+
+Bank charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125–126 30
+
+Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127–133 30
+
+Miscellaneous supplies, services and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134–136 31
+
+Death and disability benefits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137–138 32
+
+Liquidation of field missions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139–141 32
+
+Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142 33
+
+Annexes
+
+ I. Training resources by peacekeeping component and financial period . . . . . . . . . . . . . . . . . . . . . 34
+
+ II. Summary of mission security resources by peacekeeping operation. . . . . . . . . . . . . . . . . . . . . . . 36
+
+
+
+3
+A/57/772
+
+I. Introduction
+
+1. During its meetings held from 4 February to 28 March 2003, the Advisory
+Committee on Administrative and Budgetary Questions considered the financial
+performance reports for the period from 1 July 2001 to 30 June 2002 and the
+proposed budgets for the period from 1 July 2003 to 30 June 2004 of the
+peacekeeping operations listed below. The Committee’s reports concerning the
+specific peacekeeping operations are presented as addenda to the present report:
+
+(a) United Nations Observer Mission in Georgia (UNOMIG)
+(A/57/772/Add.1);
+
+(b) United Nations Mission for the Referendum in Western Sahara
+(MINURSO) (A/57/772/Add.2);
+
+(c) United Nations Mission in Sierra Leone (UNAMSIL) (A/57/772/Add.3);
+
+(d) United Nations Peacekeeping Force in Cyprus (UNFICYP)
+(A/57/772/Add.4);
+
+(e) United Nations Interim Administration Mission in Kosovo (UNMIK)
+(A/57/772/Add.5);
+
+(f) United Nations Interim Force in Lebanon (UNIFIL) (A/57/772/Add.6);
+
+(g) United Nations Disengagement Observer Force (UNDOF)
+(A/57/772/Add.7);
+
+(h) United Nations Mission in Ethiopia and Eritrea (UNMEE)
+(A/57/772/Add.8);
+
+(i) United Nations Logistics Base at Brindisi, Italy and strategic deployment
+stocks (A/57/772/Add.9);
+
+(j) United Nations Organization Mission in the Democratic Republic of the
+Congo (MONUC) (A/57/772/Add.10);1
+
+(k) United Nations Transitional Administration in East Timor (UNTAET)
+and United Nations Mission of Support in East Timor (UNMISET)
+(A/57/772/Add.11).
+
+2. The Advisory Committee considered the overview report of the Secretary-
+General on the financing of the United Nations peacekeeping operations, covering
+performance for the period from 1 July 2001 to 30 June 2002 and budget for the
+period from 1 July 2003 to 30 June 2004 (A/57/723). That report is being submitted
+for the first time and contains some of the material previously included in the
+annexes to the general report of the Committee on peacekeeping operations.
+Accordingly, the annexes which used to contain that information have not been
+included in the present general report. Further comments of the Committee on the
+Secretary-General’s overview report are set out in paragraph 42 below.
+
+3. The Committee also considered the reports of the Secretary-General on the
+following:
+
+__________________
+1 Includes the Committee’s observations on the Secretary-General’s progress report on the status
+
+of the airfield services contract (A/57/756).
+
+
+
+4
+A/57/772
+
+(a) Financial performance for the period from 1 July 2001 to 30 June 2002 of
+the United Nations Mission in Bosnia and Herzegovina (UNMIBH), including the
+liaison offices in Belgrade and Zagreb and the United Nations Mission of Observers
+in Prevlaka (UNMOP) (A/57/684); the related report of the Committee is contained
+in document A/57/773;
+
+(b) Financial performance for the period from 1 July 2001 to 30 June 2002
+(A/57/725) and proposed budget for the period from 1 July 2003 to 30 June 2004 of
+the support account for peacekeeping operations (A/57/732).
+
+4. The comments, observations and recommendations of the Committee in the
+paragraphs below also take into account its consideration of the reports of the
+Secretary-General on the following:
+
+(a) Death and disability benefits (A/C.5/56/41 and A/C.5/57/37) (see paras.
+137 and 138 below);
+
+(b) Write-off of contingent-owned equipment at liquidated missions
+(A/C.5/56/43) (see paras. 60-76 below);
+
+(c) Processing of claims for equipment contributed and self-sustainment
+undertaken at peacekeeping missions (A/C.5/56/44) (see paras. 60-76 below);
+
+(d) Reform of the procedure for determining reimbursement to Member
+States for contingent-owned equipment (A/56/939) (see paras. 60-76 below);
+
+(e) Practical aspects of wet-lease, dry-lease and self-sustainment
+arrangements (A/57/397) (see paras. 60-76 below);
+
+(f) Experience with resident investigators in peacekeeping operations
+(A/57/494) (see paras. 86-95 below);
+
+(g) Feasibility of consolidating the accounts of the various peacekeeping
+operations (A/57/746) (see paras. 20-28 below).
+
+5. The proposals of the Secretary-General on financial updates, financial
+performance reports and disposition of assets with regard to a number of closed or
+closing missions were not finalized in time for the Committee to consider them at its
+winter meetings in 2003. The Committee is taking up those reports early in May
+2003.
+
+6. The Committee had a preliminary discussion on the United Nations Iraq-
+Kuwait Observation Mission (UNIKOM). Owing to the circumstances prevailing in
+the region, the Committee will not issue a report on UNIKOM at the present time. It
+will revert to the matter when the situation has been clarified. The representatives of
+the Secretary-General informed the Committee that they would provide an update in
+May 2003. It is the intention of the Committee, before the end of May 2003, to issue
+its report on the Secretary-General’s performance report for UNIKOM together with
+recommendations on how to deal with requirements for the period after 1 July 2003.
+
+II. Report of the Board of Auditors
+
+7. The Advisory Committee has considered, in accordance with financial
+regulation 12.11, the report of the Board of Auditors to the General Assembly on the
+accounts of the United Nations peacekeeping operations for the financial period
+
+
+
+5
+A/57/772
+
+ended 30 June 2002 (A/57/5, vol. II, chap. II)2. The audit coverage also included
+two missions funded from the regular budget, one “political affairs mission” and the
+United Nations Logistics Base. Annex I to the report contains the list of audited
+missions. The Committee commends the Board for the quality of its report and
+its streamlined format.
+
+8. The Committee also had before it a report of the Secretary-General on the
+implementation of the recommendations of the Board of Auditors concerning United
+Nations peacekeeping operations for the period ending 30 June 2002
+(A/57/416/Add.2). During its consideration of these matters, the Committee met
+with the members of the Audit Operations Committee of the Board of Auditors. In
+paragraphs 9 to 18 below, the Committee comments on a number of general issues
+relating to the reports of the Board. The observations and recommendations of the
+Committee on specific questions raised by the Board are set out where relevant in
+the paragraphs of section III below which cover the reports of the Secretary-General
+on peacekeeping operations.
+
+9. The Committee notes that, in a number of instances, the Board of Auditors
+expanded upon matters previously raised by the Committee in its reports on
+peacekeeping operations. The Board indicates in its report (A/57/5, vol. II, chap. II,
+para. 9) that it has reviewed the action taken by the Administration to implement its
+recommendations for the period ended 30 June 2000 and confirms that, in general,
+there are no significant outstanding matters. Details of the action taken by the
+Administration on the recommendations of the Board for the period ended 30 June
+2001 and the comments of the Board are contained in annex II to the report of the
+Board.
+
+10. The Committee exchanged views with the members of the Audit Operations
+Committee on how best to report on follow-up action to implement previous
+recommendations of the Board of Auditors. In its previous report (A/56/887,
+para. 11), the Committee recommended that in reporting on follow-up action the
+Board should focus on changes and results achieved in eliminating the shortcomings
+it had identified, rather than merely stating whether a particular recommendation of
+the Board had been implemented. The Committee had also requested (A/56/436,
+para. 12) that the Board concentrate, in its reports on the implementation of its
+recommendations, on indicating the extent to which such recommendations had been
+implemented and on their impact. The Committee further commented that the
+attainment of this manner of reporting would be facilitated considerably by the
+extent to which the recommendations of the Board were clear, specific and capable
+of being monitored in the implementation process with a view to measuring results
+(A/56/887, para. 11).
+
+11. The Committee is of the opinion that, to achieve this end, the information
+in annex II to the report of the Board of Auditors should be incorporated into
+the main body of the report in conjunction with the relevant subjects covered in
+the audit. If the subject is not covered in the current reports, the Board can
+always make reference to the implementation of its recommendations in the
+introduction to its reports. Incorporation of information on follow-up into the
+main body of the report would obviate the need for annex II, which could be
+replaced by a short summary table at the beginning of the report. The table
+
+__________________
+2 See Official Records of the General Assembly, Fifty-seventh Session, Supplement No. 5 and
+
+corrigendum (A/57/5 and Corr.5).
+
+
+
+6
+A/57/772
+
+would, in caption form, list the recommendations of the Board with an
+indication of the paragraphs in the body of the report where information on
+follow-up action is provided.  The Committee exchanged views with the Audit
+Operations Committee on how this could be accomplished, bearing in mind
+that the Board has the authority to decide on the content and format of its
+audit reports; the proposals of the Committee are intended to facilitate, further
+streamline, and make the report of the Board more user-friendly.
+
+12. In view of the wide scope of the Board’s mandate under financial regulation
+12.5, including its role with regard to the administration and management of the
+Organization, the Committee is of the opinion that, in future audit reports, the Board
+should continue and place greater emphasis on efforts to determine whether the
+resources of the audited administrations are being used efficiently and effectively.
+
+13. The Committee exchanged views with the members of the Audit Operations
+Committee on the workload of the auditors and was informed that for the period
+from July 2000 to June 2002 approximately 2,000 auditor-weeks were used, and that
+the Board issued 205 management letters, 28 audit reports and 3 special reports. For
+2003, 150 audit missions were planned and the Board expects to increase the audit
+manpower and the number of management letters by over 10 per cent, despite
+limited resources, to ensure adequate coverage for the period from July 2002 to June
+2004. In this connection the Committee recalls its intention to examine, in the
+context of its consideration of the proposed programme budget for the biennium
+2004-2005, the adequacy of the audit fee, as it affects the scope of coverage and the
+quality of the audits (A/57/439, para. 13).
+
+14. The Committee was informed that approximately 60 per cent of the audit
+activity of the Board of Auditors would be carried out in the field offices and
+peacekeeping missions. The Committee is of the opinion that the field work of
+the Board would be considerably facilitated if the Secretariat and the Office of
+Internal Oversight Services were to ensure that the internal audit function and
+the resident audit capacity in peacekeeping missions were operating effectively
+and efficiently. The Committee was informed that the resident audit capacity in
+peacekeeping operations performed more work on management issues and less
+on the financial audit. The Committee does not consider this to be a drawback
+since the financial audit by the Board could be enhanced by an effective
+management audit by internal auditors.
+
+15. The Committee welcomes the close coordination and collaboration among the
+three members of the Board and their audit teams in implementing audit plans and
+joint audit activities. The Committee trusts that such coordination and collaboration
+will continue to optimize the use of audit resources.
+
+Financial issues
+
+16. The report of the Board of Auditors deals with financial issues (A/57/5, vol. II,
+chap. II, paras. 13-46). The Committee welcomes the fact that the cash position
+of the active missions has improved and hence the ability of the United Nations
+peacekeeping operations to meet their obligations has improved significantly as
+compared with previous financial periods (ibid., para. 14).
+
+
+
+7
+A/57/772
+
+Peacekeeping Reserve Fund
+
+17. With regard to the Peacekeeping Reserve Fund (paras. 18-21 of the Board’s
+report), the Committee notes that as at 30 June 2002 the level of the Fund was
+$47.4 million higher than the approved level of $150.0 million, because of accrued
+interest income.
+
+Inactive trust funds
+
+18. Under the question of inactive trust funds (see paras. 25-28 of the Board’s
+report), it is reported that the two major trust funds, the Trust Fund to Support the
+Multinational Force Deployed in East Timor and the Trust Fund in Support of
+United Nations Peacemaking and Peacekeeping Activities, had balances of $77.4
+million and $40.7 million, respectively, as at 30 June 2002. No further expenditures
+are expected from those funds under their current mandates. As indicated in the
+Board’s report (para. 27), the Administration intends to appoint a staff member to
+pursue, on a full-time basis, the closure of inactive trust funds. The Committee
+expects that this staff member will be financed from income generated by
+programme support costs charged to trust funds. The Committee also requests
+that the Administration establish effective interaction with donor Member
+States for the disposition of inactive trust fund assets. In this regard the
+General Assembly may wish to request the Member States concerned to
+respond promptly to the Secretariat on this matter. The Secretary-General is
+requested to complete the task of closing inactive trust funds within a
+reasonable time.
+
+III. Reports of the Secretary-General on the financing of
+peacekeeping operations
+
+19. In examining the reports of the Secretary-General, the Advisory Committee
+has paid particular attention to issues of budget preparation, budget implementation,
+monitoring and control. In the context of the present presentation, the Committee
+has also paid attention to adequate explanation of budget performance changes and
+proposed budget estimates. The comments of the Committee on general issues
+applicable to most peacekeeping operations can be found, where relevant, in the
+discussion on individual objects of expenditure and management issues in the
+paragraphs below. As indicated in paragraph 8 above, the Committee has also taken
+into account the Board’s findings and recommendations on these matters.
+
+Feasibility of consolidating accounts of the various peacekeeping operations
+
+20. The report of the Secretary-General on the feasibility of consolidating the
+accounts of the various peacekeeping operations (A/57/746) was submitted pursuant
+to paragraph 10 of General Assembly resolution 56/293.
+
+21. While pointing out that the consolidation of the accounts of various
+peacekeeping operations is not compatible with the current financial practice
+(A/57/746, para. 4), the report contains an analysis of a range of issues that would
+need to be taken into account before any consolidation could be implemented.
+
+22. The consolidation of the accounts of peacekeeping operations would entail the
+following:
+
+
+
+8
+A/57/772
+
+(a) A single resolution of the General Assembly on the financing of
+peacekeeping operations, including the support account for peacekeeping operations
+and the United Nations Logistics Base at Brindisi, each operation constituting a
+section, as is the case for the regular budget;
+
+(b) Assessments would be de-linked from the continuation of Security
+Council mandates and there would be only one peacekeeping assessment on Member
+States at the beginning of the fiscal period covering all peacekeeping operations.
+
+23. As indicated in the report of the Secretary-General, the options before the
+General Assembly, briefly stated, are as follows:
+
+(a) To consolidate all accounts retroactively;
+
+(b) To consolidate all accounts prospectively;
+
+(c) To consolidate the accounts of active peacekeeping operations only, and
+to do so prospectively.
+
+24. The Committee points out that any of those actions would require revision of
+the Financial Regulations and Rules of the United Nations. In addition:
+
+(a) If all accounts were consolidated retroactively, the General Assembly
+would have to consider the impact of the consolidation on the application of
+Article 19 of the Charter of the United Nations in this context, as well as in the case
+of Member States specified in decision 49/470 of 23 December 1994;
+
+(b) If the accounts of active peacekeeping missions only were consolidated,
+prospectively, the General Assembly would need to consider transitional measures
+to provide the missions with sufficient cash to cover their operating expenses from
+the date of consolidation until the receipt of new assessment; it would also be
+necessary to prioritize the settlement of liabilities, since cash resources might not be
+available to meet liabilities related to the periods prior to consolidation.
+
+25. The Committee notes the phased approach outlined in the Secretary-General’s
+report (A/57/746, paras. 13-20) whereby, as a first step, the accounts of the active
+peacekeeping missions could be consolidated retroactively, separate accounts being
+maintained for closed missions. According to the Secretary-General, this approach
+would ensure that, going forward, Member States and the peacekeeping operations
+would benefit from more efficient and flexible procedures for the financing of
+peacekeeping operations while avoiding issues pertaining to closed missions.
+
+26. According to the Secretary-General, this approach would streamline the budget
+approval process for the United Nations and reduce the number of legislative
+decisions required as well as the number of assessments; it would also facilitate
+planning for Member States. The Committee was informed, upon enquiry, that the
+most beneficial impact of the streamlined budgetary processes would be on the
+workload of the Contributions Service of the Department of Management.
+
+27. As acknowledged by the Secretary-General, the approach outlined in his
+report is not compatible with current financial procedures required under the
+Financial Regulations and Rules of the United Nations (see para. 21 above). In
+particular, the Committee points out that the de-linking of assessments from
+Security Council action on individual mandates (see para. 22 (b) above) may
+create complications for some Member States which, in accordance with their
+
+
+
+9
+A/57/772
+
+domestic legal requirements, require such Security Council action before they
+can pay assessments.
+
+28. In view of the policy considerations involved it would be for the General
+Assembly to provide further guidance in this matter.
+
+Financial performance for 2001/02
+
+29. A summary of the financial performance of peacekeeping missions for the
+period ending 30 June 2002 is given in the Secretary-General’s overview report
+(A/57/723, table 3). Expenditures amounted to $2,548.5 million against
+appropriations of $2,773.3 million gross, leaving an unencumbered balance of
+$224.8 million, or 8.1 per cent of the appropriations. The figures include
+expenditure of $9 million against a provision of $9 million for the United Nations
+Logistics Base at Brindisi and an expenditure of $84.3 million against a provision of
+$89.7 million for the support account for peacekeeping operations. For the preceding
+period, from 1 July 2000 to 30 June 2001, expenditures amounted to $2,307.9
+million against an appropriation of $2,566 million, resulting in an unencumbered
+balance of $258.1 million, or 10.1 per cent of the appropriation (see A/56/887, para.
+12).
+
+30. In the various reports of the Secretary-General and the related reports of the
+Advisory Committee, reasons have been given for the unencumbered balances. For
+the period 2001/02, as in the previous period, the high level of unencumbered
+balances reflects significant implementation difficulties. The Committee has taken
+these unencumbered balances into account when making its recommendations
+on budget requirements for the period 2003/04.
+
+31. Total unliquidated obligations for the period from 1 July 2001 to 30 June 2002
+as at 31 December 2002 amounted to $309.1 million, comprising $212.2 million
+under Governments and $96.9 million under other. As at 28 February 2003
+unliquidated obligations amounted to $221 million. Information provided to the
+Committee on savings or cancellation of prior period obligations for the period
+ended 30 June 2002 indicates a total of $81.7 million.
+
+32. The Committee has noted in a number of missions that large amounts of
+resources are regularly retained to meet obligations to vendors, staff and
+others. Such retentions do not appear to have been determined after a vigorous
+verification exercise. The Committee considers that the large amounts of
+unliquidated obligations, as well as savings regularly realized on prior period
+obligations, indicate a laxity in obligating funds and illustrate weaknesses in
+budget implementation and monitoring. The Committee requests that efforts be
+made to address these problems.
+
+Flexibility
+
+33. The Committee recalls its comments about the flexibility granted the
+Secretary-General in administering appropriations for peacekeeping operations and
+the intention of the Committee to monitor the use of that flexibility (see A/54/841,
+para. 16, and A/56/887, paras. 18 and 19).
+
+34. The Committee again noted numerous budget variances (savings or
+overexpenditures), particularly for items in operational activities, with only a
+generic explanation given in the documents or in the additional information
+
+
+
+10
+
+A/57/772
+
+provided to the Committee. For example in 2001/02, under facilities and
+infrastructure, the stated overexpenditure of approximately $4.3 million in MONUC
+is in fact the net result of overexpenditures of approximately $12 million, partially
+offset by underexpenditures; in UNMIK, a net underexpenditure of $912,300 under
+facilities and infrastructure includes several large cost overruns. Little or no
+explanation is given for these significant variances.
+
+35. The Committee recommends that in the future overruns or savings be
+fully explained in the additional information given to it, with specific
+information on the circumstances which led to the savings or overruns in a
+particular object of expenditure.
+
+Delegation of financial authority
+
+36. The Committee was informed that the Controller now allots the full mission
+budgets to the chief administrative officers, broken into three categories, namely,
+military, civilian and operational expenditures. Transfer of funds between the
+categories requires the prior approval of the Controller. The Committee was also
+informed that a new electronic funds monitoring tool had been developed to aid the
+chief administrative officers and Headquarters to closely track expenditure.
+However, the Committee was informed that the system had only recently been
+deployed in all the missions. The Committee trusts that, when the delegation of
+authority in budget implementation to the chief administrative officers has
+been effected and monitoring tools are in place at Headquarters and in the
+field, questions raised by the Committee concerning the analysis of budget
+implementation will be answered promptly.
+
+Results-based budgeting, objective-setting and presentation
+
+37. The Committee exchanged views with representatives of the Secretary-
+General, both from Headquarters and the field, regarding the results-based
+budgeting format used in the preparation of the proposed budgets for 2003/04 and
+the performance reports for 2001/02 of the peacekeeping missions, in accordance
+with General Assembly resolution 55/220 C. In its consideration of the matter, the
+Committee also had before the comments of the Board of Auditors (A/57/5, vol. II,
+chap. II, paras. 70-80), and the overview report of the Secretary-General (A/57/723).
+In addition, the Committee recalls its own comments on the format and presentation
+of the proposed budget for the support account for peacekeeping operations for
+2002/03, which was submitted using the results-based budgeting format (A/56/941,
+paras. 7-15).
+
+38. The format for the proposed budgets for the period from 1 July 2003 to 30
+June 2004 comprises five sections: mandate and planned results, resource
+requirements, analysis of variances, actions to be taken by the General Assembly
+and summary of follow-up actions to implement the recommendations of the
+Advisory Committee, the Board of Auditors and the Office of Internal Oversight
+Services. The section on mandate and planned results, in most cases,3 includes four
+components — political, military, civilian police and support — linking the overall
+objective, taken from the relevant Security Council resolution, to planned results.
+
+__________________
+3 No political component has been included in the cases of UNDOF, UNIFIL and UNIKOM.
+
+
+
+11
+
+A/57/772
+
+Each component contains a set of expected accomplishments, indicators of
+achievement for expected accomplishments and planned outputs.
+
+39. The performance reports for the period from 1 July 2001 to 30 June 2002
+follow a similar format; however, as noted in the overview report of the Secretary-
+General (A/57/723, para. 5), the budgets for the period did not include standard
+frameworks for objective-setting, which would have provided a baseline against
+which performance could be measured and reported. Therefore a transitional format,
+showing actual accomplishments and outputs against generic indicators and output
+types, is utilized.
+
+40. The Committee welcomes the initial efforts made to streamline the
+presentation. The Committee also commends the Secretariat for the timeliness
+with which it submitted the reports and the supplementary information to the
+Committee. The Committee makes suggestions for further improvements in the
+paragraphs below.
+
+41. The Committee notes, as indicated in the report of the Board of Auditors
+(A/57/5, vol. II, chap. II, para. 76) that senior management and key personnel of
+missions have taken a leading role in setting objectives and compiling proposed
+budgets. The Committee had stressed the importance of this (A/56/887, para. 26).
+The results-based budgeting exercise still appears to the Committee to be
+primarily Headquarters-driven, however. While the system remains relatively
+new, systematic training and coaching should be continued and more focused to
+ensure a coherent and comprehensive understanding and commitment to
+results-based budgeting in all the missions.
+
+42. The Committee welcomes the provision, as part of the new format, of an
+overview report of the Secretary-General (A/57/723), which follows up on some of
+the issues raised by the Committee in its general reports. In the view of the
+Committee, the report should in the future be more comprehensive and should
+include such cross-cutting issues as air operations, procurement and inventory
+management, so as to address the numerous problems identified in the reports
+of the Board of Auditors, the Committee and others. The subjects covered in
+the overview could change from year to year, depending on the currency of
+such topics.
+
+43. The Committee recommends that, in future, for each mission, the
+Secretariat should combine the performance report on the most recently
+completed period and the proposed budget in a single document. The
+Committee has further streamlined its current reports on peacekeeping
+financing by combining comments on performance with comments and
+recommendations on the proposed estimates.
+
+44. The intention of the Secretary-General, as stated to the Committee in the
+presentation made by his representatives, is that the new budget format will improve
+decision-making and permit the General Assembly to focus on policy issues rather
+than details. That being the case, the Committee requests that the Secretary-
+General clearly indicate those policy issues which require the attention of the
+General Assembly.
+
+45. The Committee notes that, in the effort to streamline the document, the
+introductory paragraphs, which in previous reports had provided a brief
+background and overview, and reference to the mandate implementation plan,
+
+
+
+12
+
+A/57/772
+
+if applicable, have been eliminated. It is the opinion of the Committee that
+those paragraphs were useful, aiding the reader in navigating the text that
+followed. The Committee requests that in future reports such introductory
+information be reinstated.
+
+46. With regard to mandates and objective-setting, the Committee notes that, in the
+presentation of budgets for the period 2003/04, rather than dealing with the narrower
+question of setting management objectives, the approach has been broadened, the
+mandates of the Security Council forming the basis for the objectives. The Security
+Council establishes peacekeeping mandates and, on the basis of proposals of the
+Secretary-General in his budget documents, the General Assembly authorizes
+resources to implement those mandates. Accordingly, any attempt to define
+mandate objectives in budget documents must be in strict compliance with the
+mandates established by the Security Council.
+
+47. In the opinion of the Committee, with the exception of the support
+component, the number of expected accomplishments, indicators of
+achievement and planned outputs in the proposed budgets, in general, is high
+and should be reduced in order to facilitate monitoring and reporting (see
+paras. 49-51 below).
+
+48. The Committee recalls its earlier observations (A/56/887, paras. 25 and 26).
+Bearing in mind that each mission is different, it is the opinion of the
+Committee, that the attempt to a have a uniform framework for all missions
+comprising three or four components (political,3 military, civilian police and
+support) has led to anomalies in some missions where activities for internally
+displaced persons, public information programmes, mine clearance, human
+rights programmes and quick-impact projects have all been grouped together
+under the political component. In the view of the Committee, it might be
+appropriate for some missions, depending on their mandate, to have additional
+components. The Committee requests that, in the next submission, the
+Secretary-General explain the rationale for the components that have been
+used to prepare the budgets. Furthermore, the mandate implementation plan
+should constitute the framework for budget preparation and performance
+reporting. The contents of the introductory paragraphs in section I, which deal
+with mandate performance in the performance report and with mandate and
+planned results in the proposed budget, should be drafted so as to establish a
+clear link between the results-based framework and the existing mandate plan
+(see also para. 46 above).
+
+49. The Committee emphasizes the importance of drafting the expected
+accomplishments, indicators of achievement and planned outputs under each of
+the components in such a way as to ensure that they are, in fact, relevant and
+realistic. For example, it is not reasonable to expect that the United Nations can
+ensure compliance with an agreement between parties, which has been set as an
+expected accomplishment under the military component for a number of missions. A
+more credible expectation would be for the United Nations to monitor and
+encourage compliance and to alert the international community to non-compliance.
+The Committee recalls that in its report of 9 May 2002 on the support account for
+peacekeeping operations it stressed that budget presentation should be realistic, and
+define objectives and expected accomplishments, which must be attainable in the
+context of the services required of the peacekeeping operation concerned (A/56/941,
+
+
+
+13
+
+A/57/772
+
+para. 11). The Committee finds the use of the past tense to describe planned outputs
+perplexing.
+
+50. The Committee is of the opinion that the support component, which deals
+with operational costs, should include plans to increase efficiency and
+productivity by improving support services. It is not very useful for the
+purposes of budget review and follow-up to be informed, for example, that
+vehicles will be maintained. Given the expected accomplishment of “increased
+efficiency and effectiveness in supporting the mission”, which was chosen in all
+of the proposed budgets, the Committee would have expected to be informed
+about proposed measures to improve the use, management and control of
+vehicles in the mission and whether there are replacement plans, the
+implementation of which the Committee could follow up on during the next
+review of the performance report or budget estimates.
+
+51. The Committee shares the concerns of the Board of Auditors (see A/57/5,
+vol. II, chap. II, para. 78) that not all missions have established well-developed
+tools to measure, monitor and evaluate actual performance against the
+objectives set out in the proposed results-based programme budgets. Upon
+enquiry, the Committee was informed that the Department of Peacekeeping
+Operations was in the process of designing a questionnaire to capture and collect
+data regarding the experience of missions in the implementation of results-based
+budgeting. A workshop was to be held in July 2003, and the expectation was that a
+summary of the responses to the questionnaire would be made available to the
+missions at that time. The Committee observes that, given the current budget cycle
+for peacekeeping operations, which begins on 1 July, the timing of the workshop and
+the provision of a summary of feedback data at that time could present problems and
+lead to the submission of yet another set of transitional performance reports.
+
+52. The resource requirements in section II of the budget proposals follow three
+broad classifications, namely: military and police personnel, civilian personnel, and
+operational costs. The requests for resources have not been linked to outputs and
+accomplishments, however. As the Committee has stated in the past with regard to
+results-based budgeting for the regular budget, such a linkage is an essential element
+of the results-based budgeting concept.4 The Committee also recalls its statement
+that “attempts should be made to link objectives with resources and to demonstrate
+how resources provided for administration, management, security and other areas
+contributed to achieving the administrative and managerial objectives of the
+missions” (A/56/887/Add.1, para. 26). The Committee expects marked
+improvement in this regard in the next round of budget submissions.
+
+53. The Committee requests that future financial resource tables include
+subtotals for each of the three classifications mentioned in the previous
+paragraph.
+
+54. The Committee found the supplementary information initially provided to
+it to be seriously lacking in many respects. Although the Committee eventually
+received most of the information it requested, it is pursuing the matter with the
+Secretariat so as to ensure that it is provided with the level of information
+foreseen in the streamlined approach.
+
+__________________
+4 See Official Records of the General Assembly, Fifty-sixth Session, Supplement No. 7 (A/56/7),
+
+para. 12.
+
+
+
+14
+
+A/57/772
+
+55. In order to avoid duplication of reporting, the information on follow-up
+actions taken to implement recommendations of the Advisory Committee, the
+Board of Auditors and the Office of Internal Oversight Services contained in
+section V of the proposed budgets should be incorporated into the narratives of
+the main document. A summary table should precede the budget, either as part
+of the introduction or immediately following it, to replace the one now found at
+the end of the document. It would differ from the table currently provided in
+that it would not reproduce the texts of recommendations; rather, it would
+refer to those recommendations in caption form and indicate the relevant
+paragraphs in the body of the report where action taken to implement the
+recommendations is discussed.
+
+56. The Committee points out that, in the budget submissions for 2003/04,
+information on standard and mission-specific costs is missing. The Committee
+did not receive the Standard Cost Manual. The Committee was informed that,
+since the Manual had not been revised regularly to take into account past
+experience, its value had diminished. The Committee was further informed that
+in some missions, such as UNMIK, the estimates were prepared on the basis of
+average costs for the mission as the information in the Manual was no longer
+applicable and would have led to overestimates; in other missions, however, the
+Committee was informed that the use of standard costs would have led to
+insufficient funds being budgeted for the period 2003/04. The Secretariat
+informed the Committee that the Manual was being revised and updated to
+improve its usefulness.
+
+Budget proposals for 2003/04
+
+57. As shown in the Secretary-General’s overview report (A/57/723, table 7), the
+total estimated budgetary requirements for the period 2003/04, as proposed by the
+Secretary-General in the reports for each peacekeeping operation submitted to the
+Committee, amount to $2,181.8 million, as compared with appropriations of
+$2,606.5 million for the period 2002/03 or 16.3 per cent lower than the amount
+appropriated in the prior period. The figures include the provision of $23.3 million
+for 2003/04 for the United Nations Logistics Base at Brindisi, as compared with
+$14.3 million for 2002/03 and the provision of $115.9 million for 2003/04 for the
+support account, as compared with $100.9 million for 2002/03. A breakdown of the
+proposed budgets for 2003/04 by peacekeeping operation and major category of
+expenditure is shown in the note by the Secretary-General (A/C.5/57/34/Rev.1,
+annex).
+
+Military and police personnel
+
+58. The Committee notes that the estimates for military and police personnel for
+the period 2003/04 amount to $892.6 million (see A/C.5/57/34/Rev.1, annex). The
+Committee notes that there has been a redistribution of the costs for military and
+police personnel between objects in the current presentation as compared with
+previous budgets. This redistribution has made it difficult to compare trends in
+objects of expenditure.
+
+59. The Committee noted that UNMIBH was able to obtain civilian police more
+readily than hitherto and that the actual vacancy rate was lower than that used in the
+budget estimates. The Committee was informed that there had been greater support
+
+
+
+15
+
+A/57/772
+
+from police-contributing countries; agreement had also been obtained to train police
+personnel before deploying them to the mission area, thus reducing previous
+instances of police being disqualified upon arrival for mission duty. The Committee
+recommends that the lessons learned from this experience should be
+disseminated to other missions with a similar police component in their
+mandates.
+
+Management of contingent-owned equipment arrangements
+
+60. The observations and recommendations of the Committee set out below, on
+matters relating to contingent-owned equipment and memoranda of understanding
+with troop-contributing countries, take into account the observations of the Board of
+Auditors (A/57/5, vol. II, chap. II, paras. 47-67). The Committee also considered the
+reports of the Secretary-General on the write-off of contingent-owned equipment at
+liquidated missions (A/C.5/56/43), the processing of claims for equipment
+contributed and self-sustainment undertaken at peacekeeping missions
+(A/C.5/56/44), the reform of the procedure for determining reimbursement to
+Member States for contingent-owned equipment (A/56/939) and the practical
+aspects of wet-lease, dry-lease and self-sustainment arrangements (A/57/397). The
+reports were prepared pursuant to requests in General Assembly resolutions 56/241,
+55/238, 55/271 and 55/274, respectively. The Committee requests that in the
+future the issues relating to contingent-owned equipment and memoranda of
+understanding be dealt with in the overview report.
+
+61. The Committee notes that contingent-owned equipment issues have once again
+been reviewed by the Board of Auditors, in all aspects as it had previously
+recommended. The new arrangements have simplified considerably the method for
+determining amounts to be reimbursed and the procedure for processing claims. The
+Committee however reiterates its view (see A/56/887, para. 34) that there are serious
+flaws in the management of the new arrangements. In its current report the Board
+continues to highlight persistent intractable problems in the conduct of inspections
+and the transmittal and processing of verification reports in compliance with the
+requirements of the Contingent-owned Equipment Manual (A/57/5, vol. II, chap. II,
+paras. 58-61; see also paras. 70-72 below). Although pre-deployment inspection is
+not mandatory, it is an important proactive verification control mechanism whose
+value cannot be underestimated. As indicated in the Board’s report (para. 55), there
+is however no consistency in pre-deployment inspection.
+
+62. Regarding staff and expertise capacity, the Board and the Committee have
+strongly urged the Secretariat to take action to ensure that the United Nations has
+the capacity in the field to manage the contingent-owned equipment system (see
+A/56/5, vol. II, chap. II, para. 79;5 A/57/5, vol. II, chap. II, paras. 64-65; and
+A/56/887, para. 36). As indicated in the Board’s current report (para. 66), the
+Department of Peacekeeping Operations is still seized of the matter. Bearing in
+mind the importance of the subject, farther progress needs to be made by the
+Administration on this matter.
+
+63. In view of the Board’s findings, the Committee stresses the importance of
+further review by the Board of such issues as memoranda of understanding,
+
+__________________
+5 See Official Records of the General Assembly, Fifty-sixth Session, Supplement No. 5.
+
+
+
+16
+
+A/57/772
+
+pre-deployment inspections, arrival inspections, and verification reports and
+personnel resources.
+
+64. With regard to memoranda of understanding, the Committee notes that, as at
+30 April 2002, a total of 214 had been signed, of which only 8, or 4 per cent, had
+been signed before deployment (A/56/939, para. 14). In its report (paras. 51 and 52),
+the Board of Auditors indicated that, as at 31 August 2002, a total of 230 (93 per
+cent) out of 246 memoranda of understanding had been signed and 222 (96.5 per
+cent) of the 230 had been signed after the deployment of contingent-owned
+equipment and troops, and that on the average the memoranda were signed three
+months after deployment.
+
+65. The Committee is aware that considerable administrative expenditures can
+arise from delays in the approval and signing of memoranda of understanding and
+status-of-forces agreements. The Committee has indicated that these are essential
+instruments for defining the rights and obligations of the missions in the operational
+area (A/56/887, para. 28). These instruments provide inter alia the legal framework
+that governs the relationships between the United Nations and troop-contributing
+countries in the provision of equipment, service and personnel. The Committee
+notes that from the very inception these important instruments have been
+fraught with problems and delays, however. The Committee remains concerned
+that the United Nations is often forced to start mission operations without these
+instruments in place.
+
+66. The Committee recognizes the need to streamline the process involved in
+the negotiation and approval of memoranda of understanding. In the view of
+the Committee, there are just too many steps in the handling of the memoranda
+(24 steps are shown in A/56/939, annex I). These should be reduced, with a view
+to signing the memoranda before deployment. The Secretariat should analyse
+the experience and make suggestions for possible changes for the next meeting
+of the Working Group on Reimbursement of Contingent-owned Equipment in
+February 2004.
+
+67. The reports of the Secretary-General on the reform of the procedure for
+determining reimbursement to Member States for contingent-owned equipment
+(A/56/939) and on the practical aspects of wet-lease, dry-lease and self-sustainment
+arrangements (A/57/397) address the need for streamlining the contingent-owned
+equipment procedures.
+
+68. The Committee notes that, since the implementation of the new methodology
+for contingent-owned equipment, 298 contingent units have been deployed in 23
+peacekeeping operations, of which almost all have been negotiated under the wet-
+lease arrangements (see A/57/397, summary). Under the wet-lease arrangements, the
+cost of major equipment is based on the standard rates, while the estimated cost of
+self-sustainment is determined by the standard rate multiplied by the troop strength
+deployed. In cases where troop-contributing countries are requested to deploy under
+dry-lease arrangements (fewer than 5 per cent), the Secretariat has negotiated with
+other troop-contributing countries to provide the maintenance.
+
+69. In the report (A/57/397, para. 12), it is indicated that in many cases the
+equipment negotiated in memoranda of understanding with troop-contributing
+countries is not the same as what is actually deployed. The issues relating to changes
+in both quantity and type of major equipment are dealt with in that report (paras. 12-
+
+
+
+17
+
+A/57/772
+
+16) and actions taken with regard to pre-deployment inspections are discussed in
+both reports (A/56/939, paras. 15 and 16, and A/57/397, paras. 26 and 27). In this
+regard, the Committee recognizes the importance of pre-deployment
+inspections, which not only improve the content of the memoranda of
+understanding and reduce the possibility of variances in equipment and self-
+sustainment but also improve claims processing. The Committee was informed
+that the pre-deployment inspections would become mandatory. The Committee notes
+that, in particular, a troop-contributing country participating in a peacekeeping
+operation for the first time under the contingent-owned equipment methodology
+and/or deploying a particular type of unit for the first time would be required to
+receive a visit from a pre-deployment team.
+
+70. The reports deal with the matter of shortfalls in self-sustainment (A/56/939,
+paras. 23-25, and A/57/397, paras. 17-25) and address the issue of the capacity of
+troop-contributing countries to meet the requirements of contingent-owned
+equipment (A/56/939, paras. 17 and 18, and A/57/397, paras. 28 and 29). Two
+reports prepared by mission personnel in the mission area are considered critical in
+this regard. The first, the arrival and inspection report, permits the review of the
+actual quantity, quality and type of equipment deployed to the mission area against
+the signed or draft memorandum of understanding or, where applicable and if the
+latter is not available, against the pre-deployment inspection report; the second, the
+verification and/or operating readiness report, provides the mechanism by which the
+Secretariat ascertains the effectiveness of a troop contributor in meeting the
+operational requirements of a mission and satisfying the terms of the memorandum
+of understanding.
+
+71. The Committee welcomes the suggestions (see A/56/939, paras. 17 and 18,
+and A/57/397, paras. 28 and 29) on streamlining the production and processing
+of verification reports, including steps taken to implement electronic
+submission of reports. The Committee trusts that a reduction in the frequency
+of reporting requirements will not affect the completion and quality of the
+reports and consequent certification and payment of reimbursement for
+contingent-owned equipment claims.
+
+72. The Committee recommends that the Secretariat set out the experience
+gained so far and make suggestions for any modification to the current
+reporting cycle to the Working Group on Reimbursement of Contingent-owned
+Equipment at its forthcoming meetings, scheduled for February 2004 (see
+A/57/397, paras. 11 and 25). If it is considered that monthly reporting is too
+laborious and potentially inefficient, alternative reporting cycles should be
+suggested subject to the necessity of ensuring that the services contracted for in
+the memoranda of understanding are provided to the United Nations in a
+timely manner and that prompt processing of claims and reimbursement to
+troop-contributing countries is not in any way compromised (see para. 76
+below).
+
+73. The Committee notes that, taking into account the life cycle of claims
+processing and in view of the concerns raised by Member States with regard to
+timeliness of reimbursement for contingent-owned equipment, steps have been taken
+to streamline the process (A/56/939, paras. 27 and 28). The Committee notes that,
+for example, standard operating procedures have been drafted in the areas of claims
+policy, procedures and processing (A/57/397, para. 37). The Committee trusts that
+
+
+
+18
+
+A/57/772
+
+these measures will contribute to improving the timeliness of certification of claims.
+With regard to the progress report on the processing of claims for equipment
+contributed and self-sustainment undertaken at peacekeeping operations
+(A/C.5/56/44), upon enquiry, the Committee was informed that the plan to process
+all claims for major equipment and self-sustainment with a turnaround period of
+three months from the date of receipt would be implemented in June 2003. The
+Committee looks forward to the implementation of this plan. In addition, all
+efforts should continue to be made for early reimbursement of troop costs and
+amounts held under accounts payable, subject to availability of funds.
+
+74. The report on the write-off of contingent-owned equipment at liquidated
+missions (A/C.5/56/43) indicates progress achieved on the issue of finalizing the
+certification of write-off claims from some liquidated peacekeeping operations.
+Efforts were targeted at completing the processing by the end of 2002 (ibid.,
+para. 9). The Committee notes that, whether the write-off case is a reimbursement or
+a recovery, the concurrence of the troop-contributing country is required prior to
+certification of the write-off amount (ibid., para. 6 (c)). As shown in annex I to the
+report, as at April 2002 the amount awaiting concurrence from troop-contributing
+countries was $16.4 million and the amount certified or in accounts payable was
+$7.3 million. The Committee was provided with updated information in the context
+of the presentation of the peacekeeping-related budgets for the period 2003/04. At
+28 February 2003, amounts awaiting concurrence from troop contributors amounted
+to $6 million and amounts under certification or in accounts payable to $6.4 million.
+
+75. The Committee notes that the complex, labour-intensive, time-consuming and
+costly process involved, described in the report (A/C.5/56/43, paras. 1-6) is mostly
+related to the old system for processing contingent-owned equipment and that this
+should disappear with the implementation of the new related procedures. The
+Committee believes that those countries not yet in the new contingent-owned
+equipment arrangement should be encouraged to enter into it (see A/C.5/56/44,
+para. 5). The Committee understands that, if this were done, the write-off
+phenomenon would cease.
+
+76. The Committee notes that most of the issues relating to the practical
+aspects of the contingent-owned equipment methodology would be
+recommended for inclusion in the agenda of the next session of the Working
+Group on Reimbursement of Contingent-owned Equipment, in February 2004.
+The Committee is of the opinion that, in view of the policy and management
+issues involved, the Secretariat should prepare a comprehensive paper,
+including appropriate input data, to facilitate and focus the work of the
+Working Group. The Committee further recommends that, on the basis of
+recommendations of the Working Group, the Secretariat prepare a
+comprehensive report on the issues that would require legislative action by the
+General Assembly.
+
+Civilian personnel matters
+
+77. It is proposed to establish seven posts for deputy military commanders for the
+following missions: UNOMIG, UNMISET, UNIKOM, UNFICYP, UNIFIL, UNDOF
+and MINURSO (A/57/723, para. 19). Notwithstanding the fact that similar posts
+currently exist in MONUC, UNAMSIL and UNMIK, the Committee was not
+
+
+
+19
+
+A/57/772
+
+convinced by the explanations put before it and does not, at this stage,
+recommend approval of these requests.
+
+78. With regard to the findings and observations of the Board of Auditors on
+human resources management (A/57/5, vol. II, chap. II, paras. 172-187), the
+Committee points out that, despite many statements of intention to improve
+recruitment and placement in the Department of Peacekeeping Operations and
+peacekeeping field missions, delays and deficiencies continue to plague
+recruitment and placement activities. The Committee recalls that the Office of
+Internal Oversight Services indicated (see A/57/224) that the average
+recruitment time frame for filling regular vacancies in the Department was 362
+days and the recruitment time for filling new vacancies that were authorized on
+an emergency basis by the General Assembly in its resolution 55/238 was 264
+days. The Committee points out that these figures should be compared with the
+targeted time frame of a maximum period of 120 days for filling vacancies
+indicated in the Secretary-General’s report on human resources management
+reform. The Committee has commented further on the unacceptable continuing
+problem of delays in the recruitment of personnel in the Department of
+Peacekeeping Operations in its report on the budget for the support account
+for the period 2003/04 (see A/57/776, para. 28).
+
+79. The Committee was informed that, when the new staff selection system
+(Galaxy) is implemented, the targeted time frame for filling vacancies in
+peacekeeping operations will be reduced. The target is the reduction from 180 to 95
+days in the time from the posting of the vacancy announcement to the recruitment
+and entry on duty of the selected candidate (A/57/723, para. 21). In this regard, the
+Committee recommends that the General Assembly consider establishing a
+procedure whereby any post that becomes vacant or any new post that is
+approved and is not filled within 12 months after it becomes vacant or is
+approved shall be deemed to have lapsed.
+
+80. The Committee notes that the new designation “national staff” now includes
+both national professional officers and local staff (now referred to as general service
+national staff). The Committee encourages greater use of national staff wherever
+feasible and cost-effective. The Committee noted the practice of reassigning
+national staff from one mission to another. For example, in UNIFIL, 47 national
+staff were temporarily assigned to other missions. Upon request, the Committee was
+provided with details concerning the skills of those staff members. The Committee
+does not object to this practice since it can, on a temporary basis, provide
+urgently needed skills at short notice, particularly in the start-up phase of new
+missions. It cautions, however, that this does not obviate the need for missions
+to recruit such staff on their own to replace borrowed staff as quickly as
+possible. The Committee will revert to this matter in the context of its
+examination of the report of the Secretary-General on the future of Field
+Service officers. The Committee recalls that it requested the Secretary-General
+to expedite the completion of the review of the Field Service category and to
+submit his comprehensive proposals in this regard to the General Assembly at
+its fifty-eighth session, as recommended by the Joint Inspection Unit (A/57/434,
+para. 4). The Committee intends to follow up on this matter in the context of its
+consideration of peacekeeping budgets in February 2004.
+
+
+
+20
+
+A/57/772
+
+81. The Committee notes that considerable underexpenditure for the period
+2001/02 in the civilian personnel component of some missions resulted from
+recruitment of international staff at grades lower than those approved in the
+authorized staffing table of the missions (e.g., UNMIK). Upon enquiry, the
+Committee was informed that the staff members recruited at lower levels were
+performing to the satisfaction of the mission officials. The Committee is of the
+view that when posts are consistently filled at lower levels in missions with
+limited duration, the level of the higher graded posts should be reviewed and
+reclassified accordingly.
+
+82. The Committee intends to follow up on the findings and recommendations of
+the Board of Auditors on assignment of staff and grading of posts in UNTSO and
+UNMOGIP (see A/57/5, vol. II, chap. II, paras. 178-187) in the context of its review
+of the proposed programme budget for the biennium 2004-2005. The Committee
+points out that the Board’s recommendation (ibid., para. 183) should be read in
+conjunction with the Committee’s recommendation (A/56/887, para. 42) that
+consideration should also be accorded to reviewing existing posts in order to
+consider their abolition, redeployment or downward reclassification.
+
+83. Upon request for clarification concerning delegation of authority for
+recruitment, the Committee was informed that delegation of authority to initiate
+recruitment of substantive staff had been granted, on a pilot project basis, to two
+missions with a high volume of staff, namely, UNMISET and UNMIK. Pending
+review of the results of the pilot project, limited delegation of recruitment up to
+certain levels of staff would be considered on a mission-by-mission basis.
+
+84. On the basis of its observation of visits to missions, the Committee has
+concluded that, even when posts are provided to missions, recruitment delays and
+departures lead to understaffing of mission units. In general, the Committee is of
+the opinion that missions should have greater authority in the hiring and
+management of staff. Missions need to plan and manage more carefully the
+departure of staff, particularly heads of services, including the preparation of
+handing-over notes. It is poor management to allow staff in critical services to
+leave missions before ascertaining whether they can be replaced promptly.
+There should be more collaboration among missions and between the missions
+and Headquarters on this important issue, as well as on the important issue of
+staff mobility between Headquarters and missions.
+
+85. With respect to post reductions in missions being downsized, the Committee
+noted that the description of staff changes in the budget proposals and in the
+additional information given to the Committee often does not include the functional
+analysis that had led to recommendations for the reduction or retention of posts. In
+the view of the Committee a clear rationale should be provided in the future on
+reductions, together with a functional justification in support of the posts to be
+retained, in particular in administrative units of the missions. Post reductions in
+missions of long standing, such as UNFICYP and UNIFIL, also entail the need to
+consider termination indemnities for national staff; the Committee requested
+information on guidelines developed thus far.
+
+Resident investigators and auditors
+
+86. The Committee considered the report of the Secretary-General on the
+experience with resident investigators in peacekeeping operations (A/57/494), which
+
+
+
+21
+
+A/57/772
+
+is submitted pursuant to the request of the Committee (A/56/887, para. 55) that the
+Secretary-General prepare a report on the experience so far with resident
+investigators, including proposals and plans for future review by the Committee in
+the context of budgets for peacekeeping for the period starting 1 July 2003. The
+Committee had discussions on the matter with the Under-Secretary-General for
+Internal Oversight Services.
+
+87. The report of the Secretary-General attempts to provide such analysis and
+identifies pros and cons with respect to the use of mission-based investigators versus
+regional investigators (A/57/494, paras. 14-26). It concludes that the use of regional
+investigators would be the preferred option, based on considerations of geographic
+proximity and timeliness (ibid., para. 26). The Office of Internal Oversight Services
+would place regional investigators in Nairobi and either Geneva, where the Office
+already has a presence, or Vienna, a location that is considered by the Office to have
+well-established administrative support structures and which has direct air
+transportation to many regions of the world, including peacekeeping mission areas
+(ibid., para. 20). The OIOS proposes that 12 additional posts (2 P-5, 4 P-4, 4 P-3 and
+2 General Service) be allocated to those regional hubs for the use of its
+Investigations Division, so that the Office would have the capacity to respond to the
+increasing caseload in peacekeeping operations (A/57/494, paras. 8 and 30).
+Financing would be sought in the context of the provision of the support account for
+peacekeeping operations for the period from July 2003 to June 2004, subject to
+guidance by the General Assembly (ibid., para. 35).
+
+88. With regard to the caseload in peacekeeping operations (see A/57/494, paras.
+6-10 and 27-30), the Committee notes that, in the biennium 2000-2001, the Office of
+Internal Oversight Services received a total of 311 peacekeeping cases — an average
+of 156 cases per year — and, in the period from 1 January to 30 September 2002,
+180 cases; the Office estimates that by the end of 2002 approximately 216 cases will
+have been received in that year (ibid., para. 8). On the basis of the annual workload
+estimates for the period from 2000 to 2002, the Office estimates that cases involving
+peacekeeping matters average 176 per year; it also estimates that, as a working
+average, 250 person-hours are required to conduct each investigation and produce a
+report. Thus, to be able to handle this workload, the Office estimates that 44,000
+hours of investigator time would be required (176 cases times 250 hours per
+investigation), requiring approximately 24 investigators (A/57/494, paras. 28 and
+29). At this stage, however, the Office of Internal Oversight Services proposes the
+addition of 12 posts for the Investigations Division, as indicated in paragraph 87
+above.
+
+89. In view of the number of cases requiring investigation in some missions, the
+Committee notes that, during the last biennium, the Office of Internal Oversight
+Services placed mission-based (resident) investigators in UNMIK, UNTAET and
+MONUC, using ad hoc funding, and that, currently, mission-based investigators are
+located in only two missions, UNMIK and UNMISET, also funded on an ad hoc
+basis (A/57/494, para. 15). The Committee recalls that these two missions are
+implementing plans to downsize the mission operations.
+
+90. The Committee notes that the Office is very pleased with the results of
+mission-based investigation, especially with the ability of the team to handle large
+and small matters in a more timely fashion and to provide mission management with
+solutions (A/57/494, para. 14). The Committee is concerned that the
+
+
+
+22
+
+A/57/772
+
+demonstrated growth in cases in the missions, discussed in the report (ibid.,
+para. 10), may have resulted in part from an increasing number of
+administrative management cases referred by mission management to
+investigators of the Office of Internal Oversight Services. The Committee notes
+the Office’s observation that many peacekeeping cases routinely remain on the
+inactive list owing to a lack of resources necessary to conduct such
+investigations (ibid., para. 18). In the Committee’s opinion, there is a need to
+refine further the methodology for determining the cases to be investigated by
+the Office, so that cases related to administrative management issues would be
+investigated and resolved by the mission management itself in an expeditious
+manner.
+
+91. Subsequent to the hearings on the matter, the Committee was provided with
+detailed explanations on the operational effectiveness and advantages of deploying
+investigators in regional hubs. The Committee was informed that the proposal of the
+Office of Internal Oversight Services as to the location of the regional hubs has been
+reassessed against current caseload statistics. On the basis of this reassessment, the
+Office proposes Nairobi and Vienna as the suitable locations for investigator
+resources. Furthermore, the Office would provide the Committee with an update in
+the spring of 2004 as to the benefits of retaining Nairobi and Vienna as regional
+hubs, or recommendations as to which locations might be more suitable for the
+placement of investigator resources in future years.
+
+92. The Committee was also provided with clarification on the total number of
+investigation posts of the Office of Internal Oversight Services, including posts in
+peacekeeping missions, and the breakdown of the posts by source of funding. The
+management of investigations conducted in peacekeeping missions is now being
+done from New York. Currently, the Investigations Division has 27 posts (18 posts
+in New York and 3 posts each in Geneva, Nairobi and the Tribunals). These posts
+are funded from the regular budget, the support account for peacekeeping operations
+and extrabudgetary resources, as shown in the table.
+
+Posts in the Investigations Division of the Office of Internal Oversight Services
+
+Regular budget
+Support
+accounta Special funding Extrabudgetary Totals
+
+Location P GS P GS P GS P GS P GS
+
+New York 10 4 2 1 - - - 1 12 6
+
+Geneva 2 1 - - - - - - 2 1
+
+Nairobi 2 1 - - - - - - 2 1
+
+Tribunals - - - - 3 - - - 3 -
+
+Total 14 6 2 1 3 - - 1 19 8
+
+Note: P: Professional; GS: General Service.
+a Comprises one P-5, one P-3 and one General Service post.
+
+93. The Committee was informed that the P-5 post currently funded through the
+support account is responsible for all liaisons with Department of Peacekeeping
+Operations management at Headquarters and peacekeeping missions. The P-5 is the
+manager of all investigations carried out in the peacekeeping sphere, including the
+
+
+
+23
+
+A/57/772
+
+investigations carried out in UNMIK and UNMISET where resident investigators
+are based. This includes the recruitment of investigators, case planning and
+direction, finalization of reports of investigations, oversight of budgeted funds for
+Department investigations and preparation of reports to the General Assembly. In
+addition, a total of four resident investigators (3 in UNMIK and 1 in UNMISET)
+were deployed through the redeployment of vacant posts, in the light of the
+significant caseloads of those missions. While the Department of Peacekeeping
+Operations administers these posts, the Office of Internal Oversight Services is
+responsible for the identification and selection of candidates and for the
+management of substantive issues in the exercise of its operational independence,
+pursuant to General Assembly resolution 48/218 B. Resident investigators do not
+report to mission management on substantive issues, except in cases where it is
+imperative that the management is made aware of significant cases. The 10
+investigator posts and 2 General Service posts proposed would replace the current
+field-based staff as from 1 July 2003, should the Committee recommend approval of
+these additional resources.
+
+94. The Committee agrees that the regional investigation approach rather than the
+mission-based approach would in most instances be the preferred option. The
+Committee, at this stage, is not convinced, however, that all 12 additional posts
+are required for investigation activities in peacekeeping missions. The
+Committee’s detailed recommendations on the request for 12 resident
+investigators are contained in its report on the budget for the support account
+for the period 2003/04 (see A/57/776, paras. 64-66).
+
+95. The Committee also reviewed the issue of resident auditors in peacekeeping
+operations in the context of its review of the report of the Board of Auditors (see
+also A/56/887, paras. 48-52). The Board’s report (A/57/5, vol. II, chap. II, paras. 94-
+110) contains information on the implementation of the Board’s previous
+recommendations on resident auditors. Of the seven recommendations contained in
+the Board’s report for the financial period ended 30 June 2001, one recommendation
+was fully implemented and six were under implementation (ibid., para. 96). The
+Administration’s response (ibid., paras. 101 and 102) did not help the
+Committee to assess whether the recommendations of the Board on the
+capacity of the resident auditors to perform structured value-for-money and
+information communication technology audits were being implemented or,
+indeed, were implementable.
+
+Non-expendable equipment
+
+96. With regard to the Board’s findings and recommendations on non-expendable
+equipment (A/57/5, vol. II, chap. II, paras. 29-35), the Committee expresses concern
+about the Board’s finding that there have been delays in the disposal of equipment at
+most missions for reasons that included heavy workloads, incorrect information or a
+lack of information submitted to the Local Property Survey Boards and the non-
+operation of the Boards (ibid., para. 33). Similarly, the Committee is concerned
+about the other findings of the Board on inventory management, in respect of such
+cases as:
+
+(a) When procured equipment was not utilized for a number of years
+(UNDOF and UNTSO) and damaged property items were not reported as required
+by the Financial Regulations and Rules (UNDOF).
+
+
+
+24
+
+A/57/772
+
+(b) When equipment procured for MONUC remained at the United Nations
+Logistics Base for at least a year, a situation that called into question the need for
+the equipment.
+
+(c) When discrepancies identified during physical inventory checks at the
+United Nations Logistics Base were not followed up.
+
+(d) When UNAMSIL did not conduct periodic physical inventories at some
+of its warehouses in 2002 and its Local Property Survey Board did not convene in
+more than a year to discharge its responsibilities.
+
+(e) When 54 per cent of the total value of items pending write-off in UNMIK
+have been pending for more than six months and when UNMIK did not update the
+field assets control system with attractive items valued at $26,762 that had been
+stolen.
+
+97. In view of the continuing problems in inventory management identified by the
+Board of Auditors, the information provided by the Department of Peacekeeping
+Operations on measures taken or to be taken to rectify the situation (A/56/5, vol. II,
+chap. II, para. 35; and A/57/5, vol. II, chap. II, para. 35 and annex II, table A.2) does
+not provide a clear picture of the progress and results achieved in the
+implementation of the Board’s recommendations.
+
+98. The Committee is concerned that despite similar weaknesses in inventory
+management identified by the Board of Auditors in the past and except for the
+limited progress in reconciling closing and opening inventory balances, no
+progress appears to have been made in achieving efficiency in recording and
+accounting for inventory and in the work of the Local Property Survey Boards.
+The Committee stresses that problems in inventory management are
+exacerbated by the apparent lack of accountability, vacancy situations and
+rotation of staff, low priority given by missions to property inventory and by
+the difficult operational conditions. Without clear knowledge of their inventory,
+missions may very well request funds for additional purchases of assets they do
+not require.
+
+99. The Committee stresses that the volume and value of the Organization’s
+inventory in peacekeeping operations (there were, for example, 10,792 vehicles
+in the missions in December 2000) demand that greater attention be paid to
+proper and effective recording and accounting and to achieving efficient
+inventory management, including disposal of obsolete and unusable assets. The
+Committee expects the Administration to inform the Board of Auditors of the
+results achieved in the course of the implementation of the Board’s
+recommendations on inventory management. The Committee also requests that
+the Board ascertain whether changes have been made to remedy the
+inefficiency and other weaknesses it has identified in this and previous audits.
+
+Communication and information technology
+
+100. The Committee notes that the estimates for communication and information
+technology total $101 million for 2003/04, $68.3 million for communications and
+$32.7 million for information technology (see A/C.5/57/34/Rev.1). The Department
+of Peacekeeping Operations provides, through its Communications and Information
+Technology Service, the delivery of voice, email and video, high-speed data system
+
+
+
+25
+
+A/57/772
+
+and network services, and applications for all peacekeeping and Department-
+administered operations in the field worldwide.
+
+101. The Committee was informed of the progress in developing and implementing
+communication and information technology projects involving the following nine
+systems: (1) Field IMIS; (2) Galaxy; (3) Galileo; (4) Mercury; (5) Contingent-
+owned Equipment; (6) Movement Control; (7) E-STARS Suite, comprising Team
+Agenda, Mars, Department of Peacekeeping Operations Planner and Situation
+Reports Repository; (8) Department of Peacekeeping Operations-Go Portal; and (9)
+Funds Monitoring Tool. Information was requested on the status of these projects,
+but it has not been provided.
+
+102. The Committee commends the efforts of the Department of Peacekeeping
+Operations and the field missions in developing communication and
+information technology, as they are in concert with the Committee’s
+observation on the need for modern information technology for the
+management of peacekeeping operations (see A/56/887, para. 62). As
+communication and information technology projects involve substantial capital
+expenditure, the Committee recommends that all future requirements for both
+new and replacement programmes be undertaken after comprehensive analysis
+of the functional requirements of the field missions. Moreover, a clear time
+frame for the completion of such projects should be indicated in the proposed
+budget submission and the status of implementation of tasks performed should
+be reflected in the performance report.
+
+103. The Committee was informed that as a result of the efforts of the Department
+of Peacekeeping Operations and field mission staff there had been an improvement
+in such areas as accounting for equipment in field missions, workflow and electronic
+transfer of reports. The Committee acknowledges that it is too early for much of
+the work that was carried out in 2002 to be evaluated. The Committee points
+out, however, that the productivity and efficiency realized so far are not readily
+apparent. The Board of Auditors indicates (A/57/5, vol. II, chap. II) that on a
+number of subjects, including property management, write-offs and the
+working of Local Property Survey Boards, the full value of the Organization’s
+investments in technology is yet to be realized in a comprehensive manner.
+
+104. It appears from the information provided to the Committee on the nine
+information technology systems in the Department of Peacekeeping Operations
+that there is a lack of a comprehensive identification of needs, including a cost-
+benefit analysis, and the requisite architecture.
+
+105. The Committee detected a potential for duplication of databases, which
+could complicate the work of programme managers and make it less efficient
+for them to prepare accurate reports promptly without having recourse to a
+multiplicity of difficult or inefficient interactive sources. The Committee had
+requested (A/56/887, para. 62) that a review be made of the many databases
+that had been or were being developed, with a view to ensuring that they are
+compatible and interactive and that they can be used with optimal
+effectiveness. There is no evidence that such a review has been undertaken.
+
+106. The Committee recommends that the Secretariat, in the context of the
+budgets of peacekeeping operations for 2004/05, should evaluate the cost-
+benefit and the efficiency and productivity results of the information
+
+
+
+26
+
+A/57/772
+
+technology systems of the Department of Peacekeeping Operations that will
+have been implemented by the end of 2003 to ensure that the objectives sought
+have been realized and to correct any weaknesses identified. The Committee
+reiterates its caution (see A/56/887, para. 69) against an apparent tendency to
+acquire the most up-to-date communication and data-processing equipment,
+which may not be appropriate to the practical needs of the mission.
+
+Air transportation
+
+107. The report of the Board of Auditors deals with air operations (A/57/5, vol. II,
+chap. II, paras. 81-93) and provides information on the implementation of the
+previous recommendations of the Board on this matter (ibid., annex II, table A.2).
+The Committee’s comments and recommendations on air operations are set out in its
+previous report (A/56/887, paras. 64-68). The Committee notes that the estimates for
+air transportation for the period 2003/04 amount to $270.5 million (see
+A/C.5/57/34/Rev.1, annex).
+
+108. The Committee also notes from the Board’s report (para. 82) that the number
+of actual flying hours has risen from 28,000 in 1999 to 59,000 in 2001. The number
+of planned flying hours is not available but the Committee has consistently found
+overestimation under this object of expenditure. The Committee was informed that
+air transportation expenditures increased from $59 million in 1994 to $158 million
+in 2002. For the period 2003/04 provisions for air transportation are projected at
+$264.8 million, excluding staff costs, air service contract costs and related
+equipment costs (see A/C.5/57/34/Rev.1 for a breakdown of the estimates by
+peacekeeping operation). In view of the sharp increase in air operation costs and
+the Board’s findings (paras. 83 and 84 of its report), the Committee requests
+that the Board ascertain whether an effective and adequate capacity is in place
+in peacekeeping operations to plan, manage and monitor the configuration and
+utilization of air assets. The Committee requests the Secretariat to examine and
+clarify the various methods for costing block hours, together with the relative
+merits of commercial hiring versus letter-of-assist arrangements. Furthermore,
+the Committee has noted extensive variances in the missions between planned
+flight hours and the hours actually flown. This experience should be taken into
+account when contracting for air services.
+
+109. The Committee was informed that the Board of Auditors did not carry out a
+comprehensive compliance audit of air operations. The Committee recommends
+that the Board, in its next audit, consider expanding its audit of air operations
+using, where necessary, the services of specialists in the field to be audited.
+
+110. As indicated of the Board’s report (A/57/5, vol. II, chap. II, para. 82), the ratio
+of accidents to flying hours has increased from 0.71 in 1999 to 1.02 in 2001. The
+Committee was informed, upon enquiry, that these ratios do not take account of air
+incidents, although the related data is recorded and maintained in files. The
+Committee requests that information on air incidents be provided in future
+audit reports together with information on air accidents. Furthermore, the
+Committee considers it important to ensure safety in air operations through, in
+particular, the vendors’ pre-qualification exercise, technical evaluation by the
+Department of Peacekeeping Operations of bids for air services, and regular
+assessment of vendors’ performance.
+
+
+
+27
+
+A/57/772
+
+111. The Committee welcomes the Board’s attention to the question of air safety.
+The Committee considered the situation revealed by the Board to be unacceptable.
+Despite the information on compliance provided in the report (ibid., para. 86), the
+Committee is concerned about the Board’s finding that, by June 2002, four
+recommendations on air safety, out of nine made by the Technical Cooperation
+Bureau of the International Civil Aviation Organization in July 2000, had not been
+implemented and that the remaining recommendations had been implemented only
+partially (ibid., para. 83). The report contains information on common shortcomings
+in air safety identified by the Aviation Safety Unit and the audit teams of the Board
+of Auditors (ibid., para. 84). The Committee has regularly agreed with requests for
+funding related to training, yet at the time of the audit insufficient training was
+provided to aviation officers (ibid., para. 84 (a)).
+
+112. The Committee is not satisfied with what appears to be an overly
+bureaucratic approach of the Transport Unit of the Department of
+Peacekeeping Operations to enforcing zero tolerance for alcohol, whereby the
+Unit at the time of audit was exploring technical and administrative procedures
+to ensure effective compliance with established regulations on the consumption
+of alcohol by aircrews (ibid., para. 84 (f)). The Committee is of the view that,
+given the existing stand and operating procedures, it does not appear that there
+is much to explore: what is required is to enforce the relevant regulations on
+zero tolerance for alcohol and hold those who contravene them fully
+accountable.
+
+113. The Committee recalls its previous comments and recommendations on
+transportation of non-United Nations personnel and reimbursement for air
+support services (see A/56/887, para. 66) and it considers, therefore,
+unacceptable and unsatisfactory the Administration’s reply that in order to
+monitor the activities of missions with respect to the transportation of non-
+mission personnel or cargo, all missions have been directed to submit monthly
+reports (see A/57/5, vol. II, chap. II, para. 89). The Committee is of the view
+that, to avoid micromanagement by the Department of Peacekeeping
+Operations at Headquarters, field missions should have full authority to
+establish mechanisms for such reimbursements after receiving appropriate
+guidelines from the Department.
+
+114. In the view of the Committee, the apparent lack of information given to
+the auditors on whether the extension of contracts was always subject to the
+prior completion of vendor performance evaluation is a very serious matter.
+Indeed, with respect to the airfield services contract for MONUC, some of the
+findings of the Board (ibid., para. 91) appear to the Committee to put into
+serious question the justification to readily agree to renew the contract.
+
+Insurance of vehicle fleet
+
+115. The Committee points out that the Board’s findings about the discrepancies in
+vehicle fleet counts (see A/57/5, vol. II, chap. II, para. 113) confirm the
+Committee’s recommendations on inventory management. With regard to
+insurance of the vehicle fleet in peacekeeping operations, the Committee
+welcomes the Board’s recommendations, in particular the recommendation to
+conduct a cost-benefit analysis as a basis for taking a decision on the
+alternative risk-financing programmes.
+
+
+
+28
+
+A/57/772
+
+Procurement and contract management
+
+116. The Board of Auditors dealt with issues of procurement and contract
+management (see A/57/5, vol. II, chap. II, paras. 117-139) and identified problems
+relating to the issue of a code of ethics for procurement (ibid., paras. 118 and 119),
+inadequate training of procurement officers at the peacekeeping operations (paras.
+120-122), the lack of comprehensive procurement planning by missions (paras. 123-
+127), excessive lead times in delivery of procured items (paras. 128-131), renewal
+of contracts without vendor performance evaluation reports (paras. 132-136),
+inadequate assessment of vendor capacity and the need for goods/services prior to
+registering vendors (paras. 137-139) and the lack of prioritization in respect of
+topics for training and the people to be trained (paras. 140-143).
+
+117. The Committee sought clarifications from the Board with regard to the issue of
+a code of ethics and declaration of independence referred to in the report (paras. 118
+and 119). The auditors informed the Committee that the recommendation aims at
+establishing a framework for proactive accountability measures to supplement and
+further strengthen the existing rules and guidelines concerning conflict of interest.
+The Committee notes that the Board made similar comments in its previous report.
+
+118. The Committee finds timely and essential the Board’s recommendation on
+a code of ethics and declaration of independence by all staff members
+associated with the procurement cycle. The Committee was informed of instances
+where staff members who had left the Organization subsequently worked with
+contractors whose services they had participated in procuring while they were staff
+members of the United Nations. The Committee refers to its observations in
+paragraph 114 above regarding a potential conflict of interest with respect to
+secretariat officials as regards the airfield services contract for MONUC.
+
+119. The Committee was informed of the Board’s intention to update the audit
+manual, to take account of best practices, including the issues of ethics, that have
+been incorporated in audit activities since the last revision of the manual seven years
+ago. The Committee welcomes this intention and requests also the Board to
+follow up on the implementation of its recommendation on a code of ethics. The
+Committee recalls in this connection that the General Assembly, in paragraph 28 of
+its resolution 52/226 A, requested the Secretary-General to submit proposals on
+possible amendments to the Financial Regulations and Rules of the United Nations
+and the Staff Regulations and Rules of the United Nations in order to address issues
+of potential conflict of interest, such as the employment of former United Nations
+procurement officers by United Nations suppliers and vice versa.
+
+120. The Committee points out that the Board’s observations (ibid., para. 120)
+indicate that training in procurement is not given the priority it deserves. For
+example, the Committee was informed that of the 279 UNMIBH staff trained during
+the period ended 30 June 2002, only one staff member was trained in procurement
+activities. The Committee trusts that the implementation of the training
+programme of the Procurement Division will eliminate the deficiencies in
+procurement identified by the Board. The Committee requests the Board to
+follow up on this in the context of its comprehensive audit of training
+programmes in the United Nations. The auditors informed the Committee that a
+horizontal audit was being conducted of all training activities of the Organization.
+The Committee welcomes this information.
+
+
+
+29
+
+A/57/772
+
+121. The Board has identified a number of problems in project delivery in
+UNMIBH (see A/57/5, vol. II, chap. II, paras. 163-171), including serious
+deficiencies in the procurement of patrol boats, cars and buses for the State Border
+Service and in the execution of a project for disabled students (para. 169). It took
+almost a year to sign a contract to procure the patrol boats, for instance (para. 167).
+
+122. As indicated in the Board’s report (para. 168), it took 10 months to
+procure cars but after nine months their users judged them unsatisfactory. The
+Committee notes the intention of the Department of Peacekeeping Operations
+to conduct a comprehensive review of the acquisition process (see para. 171 of
+the Board’s report) and requests the Board to follow up on the issues reflected
+in its report and to include the related information in its next audit report on
+peacekeeping operations.
+
+Travel
+
+123. The Committee notes that the estimates for official travel for the period
+2003/04 amount to $13.6 million (see A/C.5/57/34/Rev.1, annex). The Committee
+noted that in the individual peacekeeping budgets the reasons given for the increased
+requirements for official travel for 2003/04 were often inadequate and misleading.
+For example, in one mission the increased requirements are explained as resulting
+from planned additional travel for substantive and administrative support in relation
+to the consolidation of the peace process and training for the enhancement of the
+competencies of the staff in technology (A/57/673, para. 13). In another mission, the
+Committee noted that intended travel for conferences and seminars had unspecified
+outputs or expected accomplishments, appearing rather as contingency plans for
+more travel for management officials. The Committee noted from detailed
+information provided to it that the bulk of official travel resources are for training
+and management purposes. In general, the Committee noted that travel provisions
+relating to the mandate of the missions for political consultations and within the
+mission area accounted for only a small proportion of the resources requested.
+
+124. The Committee is of the view that it is not enough to justify travel for
+management and training purposes as being necessary to “increase efficiency
+and effectiveness”. There must be a specific purpose for such travel, which
+would lead to a measurable result in fulfilling stated objectives. Moreover, it
+can be presumed that as staff members are trained they will need less
+supervision in the carrying out of their tasks, thus requiring less travel for this
+purpose by senior officials. It should also be possible to reduce travel through
+increased use of technology and by training trainers for some of the services of
+the missions, as previously recommended by the Committee (see A/56/887,
+para. 74). The Committee notes, for example, the designation, in the additional
+information provided, of some of the official travel as “familiarization” travel,
+or travel of officials of the Department of Peacekeeping Operations to the
+mission, for the purpose of familiarizing themselves with its operations. The
+Committee recommends that alternative methods, such as videoconferencing,
+be explored to achieve the same purpose.
+
+
+
+30
+
+A/57/772
+
+Bank charges
+
+125. Bank charges reported under miscellaneous services amounted to $5.2 million
+for 2001/02. For the period 2003/04, bank charges amounting to $4.2 million are
+anticipated. The Committee believes that these considerable resources should be
+carefully monitored and wherever possible agreement should be made with
+banking authorities to lower bank charges; furthermore, the Committee
+believes that for those missions being downsized the decrease in the level of
+operations (e.g., volume of payment transactions for salaries and allowances)
+should lead to lower costs for bank services.
+
+126. Upon enquiry, the Committee was informed that the Secretariat would develop
+a model banking agreement to standardize peacekeeping mission practices, with a
+view to negotiating lower bank charges with banking authorities where the United
+Nations operates a peacekeeping mission. The Committee welcomes this
+development and requests that, once the model banking agreement has been
+developed, the lessons learned from its use be applied in all missions and offices
+away from Headquarters, whether they are peacekeeping missions or not.
+
+Training
+
+127. The Committee notes that the estimates shown in the overview report in the
+amount of $6.5 million for the period 2003/04 for the training of civilian staff
+(A/57/723, tables 12 and 13) do not include training-related travel and provisions for
+training supplies and equipment. The Committee points out that the estimates for
+training provided in the individual peacekeeping budgets are not clearly stated,
+as the costs of training-related travel and training supplies and equipment are
+subsumed under various miscellaneous budget lines. The Committee was
+provided with information on the breakdown by mission of the total training
+resources requested for the period 2003/04 for the proposed civilian staff, as
+compared with training resources in the approved budgets for 2002/03 and
+expenditures in 2001/02 (see annex I to the present report).
+
+128. The Committee noted inconsistencies in the information on training received
+from the Secretariat. In UNMIK, for example, the performance report indicated that
+2,745 personnel were trained in 2001/02 (A/57/678, p. 11), while the additional
+information given to the Committee shows only 2,676 staff and other persons
+trained in 2001/02.
+
+129. From the information provided in the documents and during the hearings,
+the Committee believes that in some missions individual staff members may be
+receiving multiple training courses that may not be related to their current or
+future areas of responsibility in peacekeeping missions. The Committee
+requests that in the future accurate statistics and records of costs related to
+staff training be kept; furthermore, the training of personnel is an important
+component of the proposed budget and all resources requested for training
+should be indicated under one heading clearly and comprehensively in the
+budget, without being subsumed under other miscellaneous budget lines of the
+proposal.
+
+130. Supplementary information submitted to the Committee in the context of
+performance reports should include not only the number of staff members
+trained and the type of training received; it should also specify whether the
+
+
+
+31
+
+A/57/772
+
+staff members are still at the mission or, if not, indicate the mission to which
+they have been transferred. Moreover, the Committee recalls that cost
+overruns, in terms of activities related to mandate implementation, need to be
+adequately justified from the operational point of view (see A/56/887, para. 19).
+
+131. The Committee reiterates its view that there is a need for better planning
+for training of personnel and that the subjects covered in the training
+programmes should be tailored towards fulfilling the mandate of missions (see
+A/56/887, para. 74). The Committee has noted a tendency to favour training in
+communication and information technology, to the apparent neglect of areas
+such as asset management, personnel, budget and financial matters. The
+Committee has commented on the concern of the Board of Auditors with
+regard to weaknesses in the skills of staff concerned with mission liquidation
+(see para. 139 below). Inconsistencies in this area would indicate poor planning
+and weak monitoring and difficulty in follow-up on the effectiveness of training
+programmes in addressing mission problems.
+
+132. In its report on the budget of the support account for 2002/03 (A/56/941,
+para. 30), the Committee called for the Secretariat to develop a methodology
+and monitoring system to evaluate the results of training in peacekeeping and
+related areas, as well as to increase its effectiveness by making it more mission-
+specific, where appropriate. The outcome of that exercise was to be provided in
+the context of the submission of budgets for peacekeeping operations for
+2003/04, but this has not been done. The Committee reiterates its request for
+such an exercise.
+
+133. In the view of the Committee, staff who are trained should, to the extent
+possible, remain in the mission for which they are trained and, if transferred,
+should continue to perform the function for which they were trained. The
+Committee requests that the Board of Auditors take the views of the Committee
+as expressed in this and the previous paragraphs into account when performing
+its horizontal audits.
+
+Miscellaneous supplies, services and equipment
+
+134. On the basis of the information provided to it, the Committee concludes that
+the expenses of a large number of items are incorrectly charged to miscellaneous
+supplies, services and equipment. In the opinion of the Committee, these expenses
+should be clearly identified and justified in the proposed estimates. The Committee
+sees no reason why, in some missions, items such as rations, training, travel, public
+information expenses, communication expenses and fuel delivery for air operations
+should be charged to miscellaneous expenses. Furthermore, the Committee notes
+that the amounts initially provided to it for consideration under this item are often
+subsequently corrected, indicating a lack of proper monitoring and recording of this
+type of expenditure.
+
+135. The Committee therefore requests the Secretariat to review the criteria
+for preparing estimates for and charging items to miscellaneous expenses, with
+a view to minimizing, to the extent practicable, an apparent tendency to use
+this item for unbudgeted expenses that should be planned, revealed and
+justified in the budget estimates. Furthermore, the category of expenditure
+“Miscellaneous supplies, services and equipment” should be for small items
+that do not fall within the broad budget categories of expenditure and for
+
+
+
+32
+
+A/57/772
+
+which the costs cannot be anticipated or planned in the estimates. It should not
+be for items that entail large expenditure.
+
+136. In response to the Committee’s concerns, as expressed above, the Committee
+was informed that items included under the object of expenditure “Other
+miscellaneous services” will be more clearly defined and attributed to other object
+classes such as facilities and infrastructure, as appropriate. The inclusion of rations
+in this category will be reviewed for the 2004/05 budget period. The nomenclature
+of this category will also be reviewed.
+
+Death and disability benefits
+
+137. The Committee notes from the Secretary-General’s report (A/C.5/57/37,
+para. 4) that almost all claims are now processed within the 90-day timeline
+established by the General Assembly whenever complete information is provided by
+the Member State at the time of submission of the claim. The Committee also notes
+that there is no longer any backlog of claims (A/C.5/56/41, para. 10, and
+A/C.5/57/37, para. 5).
+
+138. The actions to be taken by the General Assembly in connection with death and
+disability benefits are set out in the reports (A/C.5/56/41, para. 11, and A/C.5/57/37,
+para. 6). For the reasons given in the preceding paragraph, the Committee
+recommends that, in future, information on death and disability benefits be
+included in the overview of the general report on peacekeeping operations.
+
+Liquidation of field missions
+
+139. The Committee concludes from the findings and observations of the Board
+of Auditors on the liquidation of field missions (see A/57/5, vol. II, chap. II,
+paras. 144-162) that numerous problems have occurred because of the lack of
+such skills as budgeting, finance, accounting, procurement and inventory
+management. The Committee stresses that staff possessing these skills in
+missions under liquidation should be given the opportunity to serve in other
+missions provided there are functions to carry out in those missions. The
+Committee notes that 20 international and 12 local staff of UNMIBH had been
+reassigned to other missions by early 2003 and that some 40 others were under
+consideration for other missions (ibid., para. 152).
+
+140. The Committee has commented in the past on the persistent weaknesses of the
+mission liquidation process and has indicated that the period between the end of the
+mandate of a mission and the date of the final performance report is long (see, e.g.,
+A/56/887, paras. 71 and 79). The Committee remains concerned that all the
+weaknesses relating to the capacity of the Secretariat to handle liquidations and
+other related tasks at Headquarters and in the field have not yet been fully
+addressed. For example, the Committee had been informed that standard
+operating procedures for mission liquidation would be issued before the
+Committee’s review of peacekeeping matters in 2003, but guidelines for mission
+liquidation have not yet been promulgated. The Committee notes some
+improvements in the liquidation of UNMIBH, but it is not convinced that a
+roster is being maintained of personnel who are properly qualified and
+experienced in mission liquidation, so that the Organization could have
+recourse to their expertise and experience. The Committee recommends that
+the Secretary-General make innovative proposals on the use and retention of
+
+
+
+33
+
+A/57/772
+
+peacekeeping operation personnel in areas such as those highlighted by the
+Board and referred to above.
+
+141. The Committee received clarification that the status of the local staff of
+UNMIBH was converted to internationally recruited staff before they were
+reassigned to other missions. This being the case, the Committee points out that it
+was the reassignment of international rather than local staff. The Committee
+stresses that contractual appointments of limited duration to work for
+peacekeeping operations should not in any way give rise to the expectation that
+the United Nations is at any time under the obligation to offer career
+appointments to mission appointees.
+
+Security
+
+142. With regard to resources for peacekeeping operations, the Committee was
+provided with expenditure for the period 2001/02 totalling $33.5 million and
+projected requirements for 2003/04 in the amount of $32.7 million (see annex II to
+the present report for a breakdown by mission).
+
+
+
+A
+/57/772
+
+34 Annex I
+Training resources by peacekeeping component and financial period
+(Thousands of United States dollars)
+
+Class UNOMIG UNMIK UNFICYPa UNDOF UNIFIL UNIKOM UNMISETb MINURSO UNAMSIL MONUCc UNMEEd UNMIBH UNLB
+Support
+
+accounte Total
+
+1. Expenditure for the period from 1 July 2001 to 30 June 2002
+Consultants - - - - - - - - - - - 257.5 - 110.5 368.0
+Official travel 104.1 156.1 47.4 74.8 12.9 60.6 177.0 113.0 295.9 476.6 231.3 29.3 5.8 557.8 2 342.6
+Miscellaneous 
+services 47.6 285.0 31.9 29.0 351.2 30.0 105.8 101.5 81.0 51.4 40.9 - 120.7 215.4 1 491.4
+
+Total, line 1 151.7 441.1 79.3 103.8 364.1 90.6 282.8 214.5 376.9 528.0 272.2 286.8 126.5 883.7 4 202.0
+
+Number of 
+staff trained 45 2 676 49 166 136 33 2 679 40 63 145 69 279 155 - 6 535
+
+2. Approved resources for the period from 1 July 2002 to 30 June 2003
+Consultants - - - - - - - - - - - 95.0 - 519.0 614.0
+Official travel 288.5 155.2 - 107.4 96.3 44.7 65.0 68.7 254.5 502.1 262.3 - - 1 916.5 3 761.2
+Information 
+technology - - - - - - - - - - - - - 30.0 30.0
+Miscellaneous
+services 80.5 418.3 82.4 41.6 266.6 117.1 209.9 43.0 68.1 249.7 131.1 10.0 391.2 470.0 2 579.5
+
+Total, line 2 369.0 573.5 82.4 149.0 362.9 161.8 274.9 111.7 322.6 751.8 393.4 105.0 391.2 2 935.5 6 984.7
+
+Number of staff
+to be trained 145 1 331 63 105 143 26 192 19 45 94 57 161 107 - 2 488
+
+3. Estimates for the period from 1 July 2003 to 30 June 2004
+Consultants - - - - - - - - - - - - - 243.0 243.0
+General
+temporary
+assistance - - - - - - - - - - - - - 10.0 10.0
+Official travel 253.9 144.9 80.5 139.8 156.4 62.0 129.5 89.0 741.8 346.6 317.0 - 8.0 2 250.5 4 719.9
+Miscellaneous
+services 153.1 396.0 81.2 134.8 277.7 72.7 150.0 55.8 - 273.2 234.0 - 388.0 1 513.0 3 729.5
+
+Total, line 3 407.0 540.9 161.7 274.6 434.1 134.7 279.5 144.8 741.8 619.8 551.0 - 396.0 4 016.5 8 702.4
+
+Number of staff
+to be trained 191 524 116 128 371 32 159 32 120 651 307 - 216 - 2 847
+
+(Footnotes on following page)
+
+
+
+35
+
+A/57/772
+
+(Footnotes to table)
+
+______________
+a For 2002/03, travel costs were included under miscellaneous services.
+b For 2001/02, the number of staff included the within-mission training of staff.
+c For the 2001/02 period, expenditures for miscellaneous services were recorded under official
+
+travel. For the 2003/04 period, the estimate for miscellaneous services has been included
+under official travel.
+
+d For the 2003/04 period, includes 200 national staff to be trained in office automation,
+languages, etc.
+
+e Data on the number of military personnel and civilian staff trained are not currently
+available. For the 2001/02 period, the expenditure on official travel was recorded under
+miscellaneous services and was inadvertently overlooked in the crosswalk to the new class
+structure.
+
+
+
+A
+/57/772
+
+36 Annex II
+Summary of mission security resources by peacekeeping operation
+(Thousands of United States dollars)
+
+Class UNOMIG UNMIK UNFICYP UNDOF UNIFIL UNIKOM UNMISET MINURSO UNAMSIL MONUC UNMEE UNMIBH UNLB Total
+
+1. Expenditure for the period from 1 July 2001 to 30 June 2002
+
+International staff 2 489.4 4 575.6 - - 117.4 98.0 4 557.4 - 373.6 2 897.5 108.4 2 661.0 - 17 878.3
+
+National staff 494.3 4 961.3 - - - 185.0 554.4 - - 191.4 27.6 1 846.0 24.1 8 284.1
+
+Facilities and
+infrastructure 129.2 116.9 68.2 20.0 14.2 15.0 81.8 - - - 77.2 190.1 - 712.6
+
+Ground transportation - 76.1 - 21.0 3.6 332.0 - - - 13.2 612.7 717.0 - 1 775.6
+
+Miscellaneous
+supplies, services and
+equipment 72.8 619.7 25.2 26.0 3.0 8.0 212.5 - 168.9 2 408.2 1 200.0 74.7 20.0 4 839.0
+
+Total, line 1 3 185.7 10 349.6 93.4 67.0 138.2 638.0 5 406.1 - 542.5 5 510.3 2 025.9 5 488.8 44.1 33 489.6
+
+2. Requirements for the period from 1 July 2003 to 30 June 2004
+
+International staff 2 952.2 3 026.7 80.2 - 117.0 174.2 3 465.6 - 500.0 6 212.4 216.0 - 50.0 16 744.3
+
+National staff 494.3 2 794.5 - - 18.0 183.7 507.0 - - 593.7 24.9 - 24.1 4 616.1
+
+Facilities and
+infrastructure 131.4 2 842.7 153.5 369.0 36.0 9.0 - - - 585.7 51.2 - 210.0 4 178.5
+
+Ground transportation - 96.6 - 131.0 6.0 - - - - - 516.3 - 50.0 749.9
+
+Miscellaneous
+supplies, services and
+equipment 72.9 3 557.2 79.0 90.0 20.7 85.0 80.6 - 240.0 952.0 1 200.0 - - 6 377.4
+
+Total, line 2 3 650.8 12 317.7 312.7 590.0 197.7 451.9 4 053.2 - 740.0 8 343.8 2 008.4 - 334.1 32 666.2
+
+

@@ -1,0 +1,1941 @@
+[
+    {
+        "index": 1,
+        "DatePublish": "03-Aug-02",
+        "DocLabel": "A/60/7(SUPP)",
+        "Filename": "A_60_7(SUPP).txt",
+        "DocTitle": "First report on the proposed programme budget for the biennium 2006-2007",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 2,
+        "DatePublish": "10-Feb-03",
+        "DocLabel": "DP/FPA/2005/14",
+        "Filename": "DP_FPA_2005_14.txt",
+        "DocTitle": "United Nations Population Fund : estimates for the biennial support budget for 2006-2007",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2005/13", "AC/1574"],
+        "related_resolutions": []
+    },
+    {
+        "index": 3,
+        "DatePublish": "05-Jul-08",
+        "DocLabel": "A/59/708",
+        "Filename": "A_59_708.txt",
+        "DocTitle": "Reform of the procedures for determining reimbursement to Member States for contingent-owned equipment : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/292", "A/C.5/58/37", "A/C.5/58/37/Corr.1"],
+        "related_resolutions": ["A/RES/59/298"]
+    },
+    {
+        "index": 4,
+        "DatePublish": "24-Jan-12",
+        "DocLabel": "A/59/715",
+        "Filename": "A_59_715.txt",
+        "DocTitle": "Administration of justice in the Secretariat : interim report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/706"],
+        "related_resolutions": ["A/RES/59/283"]
+    },
+    {
+        "index": 5,
+        "DatePublish": "05-Sep-02",
+        "DocLabel": "A/59/722",
+        "Filename": "A_59_722.txt",
+        "DocTitle": "Procurement and contract management for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/761", "A/59/688"],
+        "related_resolutions": ["A/RES/59/296"]
+    },
+    {
+        "index": 6,
+        "DatePublish": "10-Jul-07",
+        "DocLabel": "A/59/728",
+        "Filename": "A_59_728.txt",
+        "DocTitle": "Financial arrangements for the period from 1 July 2004 to 30 June 2005 of the United Nations Interim Administration Mission in Kosovo : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/692"],
+        "related_resolutions": ["A/RES/59/286"]
+    },
+    {
+        "index": 7,
+        "DatePublish": "23-Jun-06",
+        "DocLabel": "A/59/735",
+        "Filename": "A_59_735.txt",
+        "DocTitle": "Revised budget for the United Nations Organization Mission in the Democratic Republic of the Congo for the period from 1 July 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/707"],
+        "related_resolutions": ["A/RES/59/285"]
+    },
+    {
+        "index": 8,
+        "DatePublish": "29-Sep-06",
+        "DocLabel": "E/CN.7/2005/13",
+        "Filename": "E_CN.7_2005_13.txt",
+        "DocTitle": "Consolidated budget for the biennium 2006-2007 for the United Nations Office on Drugs and Crime : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/CN.7/2005/12", "E/CN.7/2005/12/Add.1", "AC/1582"],
+        "related_resolutions": []
+    },
+    {
+        "index": 9,
+        "DatePublish": "24-Nov-11",
+        "DocLabel": "DP/2005/32",
+        "Filename": "DP_2005_32.txt",
+        "DocTitle": "Budget estimates for the biennium 2006-2007 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/2005/31", "AC/1573"],
+        "related_resolutions": []
+    },
+    {
+        "index": 10,
+        "DatePublish": "22-May-03",
+        "DocLabel": "A/59/768",
+        "Filename": "A_59_768.txt",
+        "DocTitle": "Financing of the United Nations Mission in the Sudan for the period from 1 July 2004 to 31 October 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/756"],
+        "related_resolutions": ["A/RES/59/292", "S/RES/1590(2005)"]
+    },
+    {
+        "index": 11,
+        "DatePublish": "29-Apr-01",
+        "DocLabel": "A/59/785",
+        "Filename": "A_59_785.txt",
+        "DocTitle": "Strengthened and unified security management system for the United Nations : standardized access control : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/776", "A/59/539"],
+        "related_resolutions": ["A/RES/59/294", "A/RES/59/276"]
+    },
+    {
+        "index": 12,
+        "DatePublish": "30-Sep-08",
+        "DocLabel": "A/59/786",
+        "Filename": "A_59_786.txt",
+        "DocTitle": "Gratis personnel provided by Governments and other entities : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/716", "A/57/735"],
+        "related_resolutions": ["A/RES/61/244", "A/RES/60/238", "A/RES/57/281B"]
+    },
+    {
+        "index": 13,
+        "DatePublish": "29-Apr-07",
+        "DocLabel": "A/59/790",
+        "Filename": "A_59_790.txt",
+        "DocTitle": "Updated financial position of closed peacekeeping missions : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/752"],
+        "related_resolutions": []
+    },
+    {
+        "index": 14,
+        "DatePublish": "18-Jan-07",
+        "DocLabel": "A/59/789",
+        "Filename": "A_59_789.txt",
+        "DocTitle": "Comprehensive review on a strategy to eliminate future sexual exploitation and sexual abuse in United Nations peacekeeping operations : programme budget implications of draft resolution A/C.4/59/L.20 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/28", "A/59/710", "A/59/19/Add.1"],
+        "related_resolutions": []
+    },
+    {
+        "index": 15,
+        "DatePublish": "27-Apr-05",
+        "DocLabel": "A/59/791",
+        "Filename": "A_59_791.txt",
+        "DocTitle": "Peacekeeping Reserve Fund : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/787"],
+        "related_resolutions": ["A/RES/59/297"]
+    },
+    {
+        "index": 16,
+        "DatePublish": "21-Apr-11",
+        "DocLabel": "A/59/734",
+        "Filename": "A_59_734.txt",
+        "DocTitle": "Financial arrangements for the United Nations Peacekeeping Force in Cyprus for the period from 1 July 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/718"],
+        "related_resolutions": ["A/RES/59/284"]
+    },
+    {
+        "index": 17,
+        "DatePublish": "05-May-05",
+        "DocLabel": "A/59/384",
+        "Filename": "A_59_384.txt",
+        "DocTitle": "Financial performance report for the period from 1 July 2002 to 30 June 2003 and proposed budget for the period from 1 July 2004 to 30 June 2005 of the United Nations Mission of Support in East Timor : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/290", "A/58/636"],
+        "related_resolutions": ["A/RES/59/13", "S/RES/1272(1999)", "S/RES/1392(2002)", "S/RES/1410(2002)", "S/RES/1543(2004)"]
+    },
+    {
+        "index": 18,
+        "DatePublish": "22-Jul-04",
+        "DocLabel": "A/59/736",
+        "Filename": "A_59_736.txt",
+        "DocTitle": "Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations : report of the Board of Auditors : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/5(Vol.II)", "A/59/68", "A/58/740", "A/59/703", "A/58/753", "A/59/265/Add.1", "A/57/787", "A/58/764", "A/58/765", "A/59/762", "A/59/763", "A/59/782"],
+        "related_resolutions": []
+    },
+    {
+        "index": 19,
+        "DatePublish": "12-Jan-05",
+        "DocLabel": "A/59/390",
+        "Filename": "A_59_390.txt",
+        "DocTitle": "Proposed budget for the United Nations Stabilization Mission in Haiti for the period from 1 May 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/288", "A/58/809"],
+        "related_resolutions": ["A/RES/59/17", "A/RES/58/311", "S/RES/1529(2004)", "S/RES/1542(2004)"]
+    },
+    {
+        "index": 20,
+        "DatePublish": "26-Sep-02",
+        "DocLabel": "A/58/794",
+        "Filename": "A_58_794.txt",
+        "DocTitle": "Financing arrangements for the United Nations Organization Mission in the Democratic Republic of the Congo for the period from 1 July 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/772"],
+        "related_resolutions": ["A/RES/58/259B", "S/RES/1258(1999)", "S/RES/1279(1999)\nS/RES/1493 (2003)"]
+    },
+    {
+        "index": 21,
+        "DatePublish": "03-Nov-09",
+        "DocLabel": "A/59/400",
+        "Filename": "A_59_400.txt",
+        "DocTitle": "Financial reports and audited financial statements and reports of the Board of Auditors for the period ended 31 December 2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/5", "A/59/5/Vol.I", "A/59/5/Vol.III", "A/59/5/Vol.IV", "A/59/5/Add.1", "A/59/5/Add.2", "A/59/5/Add.3", "A/59/5/Add.4", "A/59/5/Add.5", "A/59/5/Add.6", "A/59/5/Add.7", "A/59/5/Add.8", "A/59/5/Add.9", "A/59/5/Add.10", "A/59/5/Add.11", "A/59/5/Add.12", "A/59/161", "A/59/162", "A/59/318", "A/59/318/Add.1"],
+        "related_resolutions": []
+    },
+    {
+        "index": 22,
+        "DatePublish": "12-May-06",
+        "DocLabel": "A/59/446",
+        "Filename": "A_59_446.txt",
+        "DocTitle": "Human resources management : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/263", "A/59/263/Add.1", "A/59/263/Add.2", "A/59/211", "A/59/213", "A/59/213/Add.1", "A/59/217", "A/59/222", "A/59/291", "A/59/264", "A/59/357", "A/59/253", "A/59/388", "A/C.5/59/4"],
+        "related_resolutions": ["A/RES/59/266"]
+    },
+    {
+        "index": 23,
+        "DatePublish": "25-May-09",
+        "DocLabel": "A/59/447",
+        "Filename": "A_59_447.txt",
+        "DocTitle": "United Nations pension system : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/9(SUPP)", "A/59/9/Add.1(SUPP)", "A/C.5/59/11", "A/58/725"],
+        "related_resolutions": ["A/RES/59/269"]
+    },
+    {
+        "index": 24,
+        "DatePublish": "22-Apr-02",
+        "DocLabel": "A/59/572",
+        "Filename": "A_59_572.txt",
+        "DocTitle": "Construction of additional office facilities at the Economic Commission for Africa : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/444", "A/56/672", "A/58/154", "A/56/711"],
+        "related_resolutions": ["A/RES/56/270", "A/RES/57/578", "A/RES/58/272"]
+    },
+    {
+        "index": 25,
+        "DatePublish": "06-Oct-09",
+        "DocLabel": "E/CN.7/2005/9",
+        "Filename": "E_CN.7_2005_9.txt",
+        "DocTitle": "United Nations Office on Drugs and Crime : consolidated budget outline for 2006-2007 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/CN.7.2005/8", "AC/1564"],
+        "related_resolutions": []
+    },
+    {
+        "index": 26,
+        "DatePublish": "15-Sep-03",
+        "DocLabel": "A/59/573",
+        "Filename": "A_59_573.txt",
+        "DocTitle": "Standards of accommodation for air travel : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/523", "A/56/7"],
+        "related_resolutions": ["A/RES/57/589"]
+    },
+    {
+        "index": 27,
+        "DatePublish": "21-Dec-01",
+        "DocLabel": "A/59/597",
+        "Filename": "A_59_597.txt",
+        "DocTitle": "Situation of human rights in Myanmar : programme budget implications of draft resolution A/C.3/59/L.49 ; international convention against the reproductive cloning of human beings : programme budget implications arising from the decision of the 6th Committee at its 27th meeting, on 19 November 2004 ; International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families : programme budget implications of draft resolution A/C.3/59/L.31 ; rights of the child : programme budget implications of draft resolution A/C.3/59/L.29/Rev. 1 ; revised estimates resulting from resolutions and decisions adopted by the Economic and Social Council at its substantive and resumed sessions of 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/19", "A/C.5/59/20", "A/C.5/59/21", "A/59/393/Add.1"],
+        "related_resolutions": ["A/RES/59/276"]
+    },
+    {
+        "index": 28,
+        "DatePublish": "08-Mar-07",
+        "DocLabel": "A/59/579",
+        "Filename": "A_59_579.txt",
+        "DocTitle": "Report of the International Research and Training Institute for the Advancement of Women ; report of the Secretary-General on the financial situation of the International Research and Training Institute for the Advancement of Women ; future operations of the International Research and Training Institute for the Advancement of Women; programme budget implications of draft resolution A/C.3/59/L.26 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/560", "A/59/433", "A/C.5/59/16", "A/58/649"],
+        "related_resolutions": ["A/RES/58/244"]
+    },
+    {
+        "index": 29,
+        "DatePublish": "23-Apr-09",
+        "DocLabel": "A/59/600",
+        "Filename": "A_59_600.txt",
+        "DocTitle": "Proposed programme budget outline for the biennium 2006-2007 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/415", "A/59/578"],
+        "related_resolutions": ["A/RES/59/278"]
+    },
+    {
+        "index": 30,
+        "DatePublish": "23-Dec-11",
+        "DocLabel": "A/59/411",
+        "Filename": "A_59_411.txt",
+        "DocTitle": "Estimates in respect of special political missions, good offices and other political initiatives, authorized by the General Assembly and/or the Security Council : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/886", "A/C.5/58/20/Add.1"],
+        "related_resolutions": ["A/RES/59/12", "A/RES/58/294", "S/2004/298"]
+    },
+    {
+        "index": 31,
+        "DatePublish": "11-Sep-04",
+        "DocLabel": "A/59/417",
+        "Filename": "A_59_417.txt",
+        "DocTitle": "Proposed revised budget for the period from 1 July 2004 to 30 June 2005 of the United Nations Mission in Sierra Leone : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/286"],
+        "related_resolutions": ["A/RES/59/14", "S/RES/1270 (1999)", "S/RES/1562 (2004)"]
+    },
+    {
+        "index": 32,
+        "DatePublish": "18-Aug-05",
+        "DocLabel": "A/59/613",
+        "Filename": "A_59_613.txt",
+        "DocTitle": "Modalities, format and organization of the High-level Plenary Meeting of the 60th session of the General Assembly : programme budget implications of draft resolution A/59/L.53 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/25", "A/59/L.53"],
+        "related_resolutions": []
+    },
+    {
+        "index": 33,
+        "DatePublish": "16-Aug-03",
+        "DocLabel": "A/59/418",
+        "Filename": "A_59_418.txt",
+        "DocTitle": "Pattern of conferences : reform of the Department for General Assembly and Conference Management : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/159", "A/59/172", "A/59/133", "A/59/133/Corr.1"],
+        "related_resolutions": ["A/RES/59/265", "A/RSE/58/250"]
+    },
+    {
+        "index": 34,
+        "DatePublish": "06-Jul-01",
+        "DocLabel": "A/59/412",
+        "Filename": "A_59_412.txt",
+        "DocTitle": "Proposed budget of the United Nations Operation in Burundi for the period from 1 July 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/300"],
+        "related_resolutions": ["A/RES/59/15", "S/RES/1545(2004)"]
+    },
+    {
+        "index": 35,
+        "DatePublish": "16-Oct-03",
+        "DocLabel": "A/59/522",
+        "Filename": "A_59_522.txt",
+        "DocTitle": "Administrative and financial implications of the decisions and recommendations contained in the report of the International Civil Service Commission for 2004 : statement submitted by the Secretary-General in accordance with rule 153 of the rules of procedure of the General Assembly : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/429"],
+        "related_resolutions": ["A/RES/59/276"]
+    },
+    {
+        "index": 36,
+        "DatePublish": "03-Mar-09",
+        "DocLabel": "A/59/419",
+        "Filename": "A_59_419.txt",
+        "DocTitle": "Proposed budget for the United Nations Operation in Côte d'Ivoire for the period from 1 July 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/289"],
+        "related_resolutions": ["A/RES/59/16", "S/RES1528 (2004)"]
+    },
+    {
+        "index": 37,
+        "DatePublish": "04-Mar-05",
+        "DocLabel": "A/59/551",
+        "Filename": "A_59_551.txt",
+        "DocTitle": "Unforeseen and extraordinary expenses : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/90", "A/58/604"],
+        "related_resolutions": ["A/RES/59/276", "A/RES/58/273"]
+    },
+    {
+        "index": 38,
+        "DatePublish": "04-Oct-01",
+        "DocLabel": "A/59/553",
+        "Filename": "A_59_553.txt",
+        "DocTitle": "Request for a subvention to the United Nations Institute for Disarmament Research resulting from the recommendations of the Board of Trustees of the Institute on the work programme of the Institute for 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/3", "A/C.5/59/3/Corr.1", "A/C.5/59/3/Add.1"],
+        "related_resolutions": ["A/RES/59/276"]
+    },
+    {
+        "index": 39,
+        "DatePublish": "04-Nov-11",
+        "DocLabel": "A/59/542",
+        "Filename": "A_59_542.txt",
+        "DocTitle": "Revised estimates resulting from resolutions and decisions adopted by the Economic and Social Council at its substantive session of 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/393"],
+        "related_resolutions": ["A/RES/59/276"]
+    },
+    {
+        "index": 40,
+        "DatePublish": "29-May-04",
+        "DocLabel": "A/59/539",
+        "Filename": "A_59_539.txt",
+        "DocTitle": "Strengthened and unified security management system for the United Nations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/365", "A/59/365/Add.1", "A/59/365/Add.1/Corr.1", "A/56/848", "A/56/674", "A/56/674/Corr.1"],
+        "related_resolutions": ["A/RES/59/276", "A/RES/56/286"]
+    },
+    {
+        "index": 41,
+        "DatePublish": "03-Jan-12",
+        "DocLabel": "A/59/556",
+        "Filename": "A_59_556.txt",
+        "DocTitle": "Capital master plan : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/441", "A/58/729", "A/58/712", "A/58/556", "A/59/420", "A/59/161", "A/59/441"],
+        "related_resolutions": ["A/RES/61/251", "A/RES/60/282"]
+    },
+    {
+        "index": 42,
+        "DatePublish": "26-Sep-01",
+        "DocLabel": "DP/FPA/2004/17",
+        "Filename": "DP_FPA_2004_17.txt",
+        "DocTitle": "United Nations Population Fund : additional security requirements to safeguard UNFPA personnel and premises globally : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2004/14", "AC/1553"],
+        "related_resolutions": []
+    },
+    {
+        "index": 43,
+        "DatePublish": "29-Mar-07",
+        "DocLabel": "A/59/540",
+        "Filename": "A_59_540.txt",
+        "DocTitle": "Procurement reform : outsourcing practices : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/216", "A/59/227"],
+        "related_resolutions": ["A/RES/59/288", "A/RES/59/289", "A/RES/57/279"]
+    },
+    {
+        "index": 44,
+        "DatePublish": "21-Dec-09",
+        "DocLabel": "A/59/552",
+        "Filename": "A_59_552.txt",
+        "DocTitle": "Review of the structure and functions of all liaison offices or representation in New York of organizations headquartered elsewhere funded from the regular budget : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/395"],
+        "related_resolutions": ["A/RES/58/270"]
+    },
+    {
+        "index": 45,
+        "DatePublish": "03-Sep-08",
+        "DocLabel": "A/59/557",
+        "Filename": "A_59_557.txt",
+        "DocTitle": "Conditions of service and compensation for officials other than Secretariat officials : members of the International Court of Justice ; judges of the International Criminal Tribunal for the Former Yugoslavia ; judges of the International Criminal Tribunal for Rwanda ; ad litem judges of the International Criminal Tribunal for the Former Yugoslavia ; ad litem judges of the International Criminal Tribunal for Rwanda : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/2", "A/C.5/59/2/Corr.1"],
+        "related_resolutions": ["A/RES/59/282"]
+    },
+    {
+        "index": 46,
+        "DatePublish": "12-Feb-07",
+        "DocLabel": "A/59/561",
+        "Filename": "A_59_561.txt",
+        "DocTitle": "Financing of the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighbouring States between 1 January and 31 December 1994 for the biennium 2004-2005 ; financing of the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991 for the biennium 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/547", "A/59/139", "A/59/5/Add.12", "A/59/549", "A/59/139", "A/59/5/Add.11"],
+        "related_resolutions": ["A/RES/59/273", "A/RES/59/274"]
+    },
+    {
+        "index": 47,
+        "DatePublish": "25-Nov-12",
+        "DocLabel": "A/59/558",
+        "Filename": "A_59_558.txt",
+        "DocTitle": "Information and communications technology strategy : strengthening the Department of Public Information, within the existing capacity, in order to support and enhance the United Nations web site in all official languages of the organization : status of implementation : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/265", "A/59/336", "A/59/400"],
+        "related_resolutions": ["A/RES/58/270"]
+    },
+    {
+        "index": 48,
+        "DatePublish": "08-Jun-09",
+        "DocLabel": "A/59/569",
+        "Filename": "A_59_569.txt",
+        "DocTitle": "Estimates in respect of special political missions, good offices and other political initiatives, authorized by the General Assembly and/or the Security Council : United Nations advance team in the Sudan : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/534"],
+        "related_resolutions": ["A/RES/59/58", "A/RES/59/276", "A/RES/59/282", "A/RES/59/294", "S/RES/1547(2004)", "S/RES/1556(2004)"]
+    },
+    {
+        "index": 49,
+        "DatePublish": "10-Aug-03",
+        "DocLabel": "A/59/567",
+        "Filename": "A_59_567.txt",
+        "DocTitle": "Proposed strategic framework for the period 2006-2007. Part 2 : biennial programme plan : programme budget implications of recommendations contained in the report of the Committee for Programme and Coordination : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/59/13", "A/59/16"],
+        "related_resolutions": []
+    },
+    {
+        "index": 50,
+        "DatePublish": "03-Dec-11",
+        "DocLabel": "DP/FPA/2005/4",
+        "Filename": "DP_FPA_2005_4.txt",
+        "DocTitle": "United Nations Population Fund : revision of UNFPA financial regulations and recovery of indirect costs for co-financing : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2005/3", "DP/FPA/2005/5", "AC/1559"],
+        "related_resolutions": []
+    },
+    {
+        "index": 51,
+        "DatePublish": "31-Oct-10",
+        "DocLabel": "A/59/601",
+        "Filename": "A_59_601.txt",
+        "DocTitle": "First performance report on the programme budget for the biennium 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/59/578", "A/59/578/Add.1"],
+        "related_resolutions": ["A/RES/59/276"]
+    },
+    {
+        "index": 52,
+        "DatePublish": "05-Mar-07",
+        "DocLabel": "A/58/798",
+        "Filename": "A_58_798.txt",
+        "DocTitle": "Proposed budget of the United Nations Mission in Liberia for the period from 1 July 2004 to 30 June 2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/744", "A/58/792"],
+        "related_resolutions": ["A/RES/58/261B", "S/RES/1497(2003)", "S/RES/1509(2003)"]
+    },
+    {
+        "index": 53,
+        "DatePublish": "10-Sep-05",
+        "DocLabel": "A/58/796",
+        "Filename": "A_58_796.txt",
+        "DocTitle": "Analysis of establishing a global procurement hub for all peacekeeping missions in Brindisi, Italy : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/762"],
+        "related_resolutions": ["A/RES/58/297"]
+    },
+    {
+        "index": 54,
+        "DatePublish": "04-May-10",
+        "DocLabel": "A/58/799",
+        "Filename": "A_58_799.txt",
+        "DocTitle": "Updated financial position of closed peacekeeping missions : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/778"],
+        "related_resolutions": []
+    },
+    {
+        "index": 55,
+        "DatePublish": "17-Feb-06",
+        "DocLabel": "A/58/806",
+        "Filename": "A_58_806.txt",
+        "DocTitle": "Proposed budget for the period from 4 April 2004 to 30 June 2005 of the United Nations Operation in Côte d'Ivoire : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/788"],
+        "related_resolutions": ["A/RES/58/310", "S/RES/1528(2004)"]
+    },
+    {
+        "index": 56,
+        "DatePublish": "30-Dec-08",
+        "DocLabel": "A/58/811",
+        "Filename": "A_58_811.txt",
+        "DocTitle": "Interim budget for the United Nations Operation in Burundi for the period from 21 April to 31 December 2004: report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/802"],
+        "related_resolutions": ["A/RES/58/312", "S/RES/1545 (2004)"]
+    },
+    {
+        "index": 57,
+        "DatePublish": "13-Jul-01",
+        "DocLabel": "E/ICEF/2004/AB/L.3",
+        "Filename": "E_ICEF_2004_AB_L.3.txt",
+        "DocTitle": "UNICEF: Timing of the approval of the UNICEF biennial support budget for 2004-2005 (dated 17 May 2004)",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2004/AB/L.2", "AC/1545"],
+        "related_resolutions": []
+    },
+    {
+        "index": 58,
+        "DatePublish": "14-Feb-02",
+        "DocLabel": "A/58/732",
+        "Filename": "A_58_732.txt",
+        "DocTitle": "Implementation of paragraph 3 of General Assembly resolution 57/323 : Peacekeeping Reserve Fund : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/723", "A/58/724"],
+        "related_resolutions": ["A/RES/59/288", "A/RES/59/297", "A/RES/57/323"]
+    },
+    {
+        "index": 59,
+        "DatePublish": "01-Dec-06",
+        "DocLabel": "A/58/758",
+        "Filename": "A_58_758.txt",
+        "DocTitle": "Strengthening the security and safety of United Nations operations, staff and premises : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/756"],
+        "related_resolutions": ["A/RES/58/295"]
+    },
+    {
+        "index": 60,
+        "DatePublish": "13-Sep-10",
+        "DocLabel": "DP/2005/4",
+        "Filename": "DP_2005_4.txt",
+        "DocTitle": "Revision of UNDP financial regulations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/2005/3", "AC/1562"],
+        "related_resolutions": []
+    },
+    {
+        "index": 61,
+        "DatePublish": "16-Aug-10",
+        "DocLabel": "A/58/760",
+        "Filename": "A_58_760.txt",
+        "DocTitle": "Financial performance report for the period from 1 July 2002 to 30 June 2003 and proposed budget for the period from 1 July 2004 to 30 June 2005 for the support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/703", "A/58/703/Add.1", "A/58/715"],
+        "related_resolutions": ["A/RES/58/298"]
+    },
+    {
+        "index": 62,
+        "DatePublish": "05-Dec-00",
+        "DocLabel": "A/58/809",
+        "Filename": "A_58_809.txt",
+        "DocTitle": "Interim budget for the United Nations Mission of Support in East Timor for the period from 1 July to 31 December 2004 ; interim budget for the United Nations Stabilization Mission in Haiti for the period from 1 May to 31 December 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/795", "A/58/800"],
+        "related_resolutions": ["A/RES/58/260B\nS/RES/1272 (1999)\nS/RES/1392 (2002)", "A/RES/58/311", "S/RES/1529 (2004)", "S/RES/1542 (2004)"]
+    },
+    {
+        "index": 63,
+        "DatePublish": "13-Oct-05",
+        "DocLabel": "DP/2004/36",
+        "Filename": "DP_2004_36.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions on the report on UNDP strategic cost management and implications for cost recovery",
+        "DocType": 1,
+        "related_reports": ["DP/2004/35", "AC/1547"],
+        "related_resolutions": []
+    },
+    {
+        "index": 64,
+        "DatePublish": "17-Apr-10",
+        "DocLabel": "E/ICEF/2003/AB/L.15",
+        "Filename": "E_ICEF_2003_AB_L.15.txt",
+        "DocTitle": "United Nations Children's Fund biennial support budget for 2004-2005 and supplementary support budget for 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2003/AB/L.14", "AC/1526"],
+        "related_resolutions": []
+    },
+    {
+        "index": 65,
+        "DatePublish": "20-Jan-08",
+        "DocLabel": "A/57/813",
+        "Filename": "A_57_813.txt",
+        "DocTitle": "Financing of the United Nations Iraq-Kuwait Observation Mission : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/811"],
+        "related_resolutions": []
+    },
+    {
+        "index": 66,
+        "DatePublish": "14-Oct-10",
+        "DocLabel": "A/58/759",
+        "Filename": "A_58_759.txt",
+        "DocTitle": "Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations : report of the Board of Auditors : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/5(Vol.II)", "A/58/705", "A/58/737", "A/57/772", "A/58/661"],
+        "related_resolutions": ["A/RES/57/318"]
+    },
+    {
+        "index": 67,
+        "DatePublish": "17-Sep-04",
+        "DocLabel": "DP/2003/39",
+        "Filename": "DP_2003_39.txt",
+        "DocTitle": "Revised budget estimates for the biennium 2002-2003, budget estimates for the biennium 2004-2005, and report on the level of the operational reserve : [United Nations Office for Project Services] : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/2003/38", "AC/1517"],
+        "related_resolutions": []
+    },
+    {
+        "index": 68,
+        "DatePublish": "15-Sep-05",
+        "DocLabel": "DP/FPA/2003/12",
+        "Filename": "DP_FPA_2003_12.txt",
+        "DocTitle": "United Nations Population Fund : estimates for the biennial support budget for 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2003/11", "AC/1519"],
+        "related_resolutions": []
+    },
+    {
+        "index": 69,
+        "DatePublish": "26-Apr-07",
+        "DocLabel": "A/57/735",
+        "Filename": "A_57_735.txt",
+        "DocTitle": "Gratis personnel provided by Governments and other entities : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/721"],
+        "related_resolutions": []
+    },
+    {
+        "index": 70,
+        "DatePublish": "09-Mar-09",
+        "DocLabel": "A/57/736",
+        "Filename": "A_57_736.txt",
+        "DocTitle": "Administration of justice in the Secretariat : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/800", "A/57/441", "A/57/441/Add.1", "A/C.5/57/25"],
+        "related_resolutions": []
+    },
+    {
+        "index": 71,
+        "DatePublish": "09-Sep-10",
+        "DocLabel": "A/57/776",
+        "Filename": "A_57_776.txt",
+        "DocTitle": "Financial performance report for the period from 1 July 2001 to 30 June 2002 and proposed budget for the support account for peacekeeping operations for the period from 1 July 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/725", "A/57/732"],
+        "related_resolutions": []
+    },
+    {
+        "index": 72,
+        "DatePublish": "16-Jun-04",
+        "DocLabel": "E/ICEF/2003/AB/L.6",
+        "Filename": "E_ICEF_2003_AB_L.6.txt",
+        "DocTitle": "The UNICEF recovery policy and review of the issue of establishing and operational reserve : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2003/AB/L.5", "E/ICEF/2003/AB/L.4", "AC/1510"],
+        "related_resolutions": []
+    },
+    {
+        "index": 73,
+        "DatePublish": "20-Jan-02",
+        "DocLabel": "DP/FPA/2003/10",
+        "Filename": "DP_FPA_2003_10.txt",
+        "DocTitle": "United Nations Population Fund : delegation of formal authority to the Executive Director on UNFPA personnel matters : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2003/5", "AC/1512"],
+        "related_resolutions": []
+    },
+    {
+        "index": 74,
+        "DatePublish": "04-Aug-07",
+        "DocLabel": "DP/2003/29",
+        "Filename": "DP_2003_29.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions on biennial budget estimates 2004-2005",
+        "DocType": 1,
+        "related_reports": ["DP/2003/28", "AC/1520"],
+        "related_resolutions": []
+    },
+    {
+        "index": 75,
+        "DatePublish": "02-Jan-01",
+        "DocLabel": "A/57/434",
+        "Filename": "A_57_434.txt",
+        "DocTitle": "Reports of the Joint Inspection Unit : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/78", "A/57/78/Add.1", "A/57/442", "A/57/442/Add.1", "A/56/282", "A/56/282/Add.1", "A/57/58", "A/57/58/Add.1", "JIU/REP/2002/3", "JIU/REP/2002/5"],
+        "related_resolutions": []
+    },
+    {
+        "index": 76,
+        "DatePublish": "12-Nov-11",
+        "DocLabel": "A/57/439",
+        "Filename": "A_57_439.txt",
+        "DocTitle": "Financial reports and audited financial statements and reports of the Board of Auditors for the period ended 31 December 2001 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/5", "A/57/201", "A/57/416", "A/57/416/Add.1"],
+        "related_resolutions": []
+    },
+    {
+        "index": 77,
+        "DatePublish": "14-Jul-07",
+        "DocLabel": "A/57/469",
+        "Filename": "A_57_469.txt",
+        "DocTitle": "Human resources management reform, monitoring capacity in the Office of Human Resources Management, consultants and individual contractors, and employment of retired former staff : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/293", "A/57/276", "A/57/310", "A/57/413"],
+        "related_resolutions": ["A/RES/53/221"]
+    },
+    {
+        "index": 78,
+        "DatePublish": "30-May-00",
+        "DocLabel": "A/57/772",
+        "Filename": "A_57_772.txt",
+        "DocTitle": "Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/723", "A/57/5(Vol.II)(SUPP)", "A/C.5/56/41", "A/C.5/57/37", "A/C.5/56/43", "A/C.5/56/44", "A/56/939", "A/57/397", "A/57/494", "A/57/746"],
+        "related_resolutions": []
+    },
+    {
+        "index": 79,
+        "DatePublish": "08-Jun-10",
+        "DocLabel": "A/57/486",
+        "Filename": "A_57_486.txt",
+        "DocTitle": "Proposed donation of assets to the Government of Bosnia and Herzegovina : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/449"],
+        "related_resolutions": []
+    },
+    {
+        "index": 80,
+        "DatePublish": "21-Apr-00",
+        "DocLabel": "A/57/472",
+        "Filename": "A_57_472.txt",
+        "DocTitle": "Improving the performance of the Department of General Assembly Affairs and Conference Services : status of recruitment for the Interpretation Section at the United Nations Office at Nairobi : simultaneous availability of parliamentary documentation in the 6 official languages on the United Nations web site : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/228", "A/57/289", "A/56/901", "A/C.5/56/37"],
+        "related_resolutions": []
+    },
+    {
+        "index": 81,
+        "DatePublish": "18-Oct-03",
+        "DocLabel": "A/57/633",
+        "Filename": "A_57_633.txt",
+        "DocTitle": "Financing arrangements for the United Nations Mission in Sierra Leone for the period from 1 July 2002 to 30 June 2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/619"],
+        "related_resolutions": []
+    },
+    {
+        "index": 82,
+        "DatePublish": "09-Jul-00",
+        "DocLabel": "A/57/593",
+        "Filename": "A_57_593.txt",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 83,
+        "DatePublish": "07-Jun-05",
+        "DocLabel": "A/57/490",
+        "Filename": "A_57_490.txt",
+        "DocTitle": "United Nations pension system : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/9", "A/C.5/57/11"],
+        "related_resolutions": []
+    },
+    {
+        "index": 84,
+        "DatePublish": "10-Apr-00",
+        "DocLabel": "A/57/636",
+        "Filename": "A_57_636.txt",
+        "DocTitle": "Proposed programme budget outline for the biennium 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/85", "A/55/685"],
+        "related_resolutions": []
+    },
+    {
+        "index": 85,
+        "DatePublish": "18-Mar-10",
+        "DocLabel": "A/57/773",
+        "Filename": "A_57_773.txt",
+        "DocTitle": "Performance report on the budget of the United Nations Mission in Bosnia and Herzegovina for the period from 1 July 2001 to 30 June 2002 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/684"],
+        "related_resolutions": []
+    },
+    {
+        "index": 86,
+        "DatePublish": "12-Feb-07",
+        "DocLabel": "E/CN.7/2003/16",
+        "Filename": "E_CN.7_2003_16.txt",
+        "DocTitle": "Proposed revised budget for the biennium 2002-2003 and proposed outline for the biennium 2004-2005 for the Fund of the United Nations International Drug Control Programme : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/CN.7/2003/15", "AC/1506"],
+        "related_resolutions": []
+    },
+    {
+        "index": 87,
+        "DatePublish": "13-Feb-06",
+        "DocLabel": "A/57/453",
+        "Filename": "A_57_453.txt",
+        "DocTitle": "Procurement reform : outsourcing practices : proposed measures to improve the profitability of commercial activities of the United Nations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/57/187", "A/57/185", "A/57/398"],
+        "related_resolutions": []
+    },
+    {
+        "index": 88,
+        "DatePublish": "03-Apr-12",
+        "DocLabel": "DP/2002/34",
+        "Filename": "DP_2002_34.txt",
+        "DocTitle": "Revised budget estimates for the biennium 2002-2003 : [UNOPS] : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/2002/33", "AC/1496"],
+        "related_resolutions": []
+    },
+    {
+        "index": 89,
+        "DatePublish": "30-Mar-09",
+        "DocLabel": "DP/FPA/2002/10",
+        "Filename": "DP_FPA_2002_10.txt",
+        "DocTitle": "United Nations Population Fund : revised estimates for the biennial support budget for 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2002/9", "AC/1495"],
+        "related_resolutions": []
+    },
+    {
+        "index": 90,
+        "DatePublish": "18-Mar-07",
+        "DocLabel": "E/ICEF/2003/AB/L.2",
+        "Filename": "E_ICEF_2003_AB_L.2.txt",
+        "DocTitle": "The UNICEF recovery policy : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2003/AB/L.1", "AC/1502"],
+        "related_resolutions": []
+    },
+    {
+        "index": 91,
+        "DatePublish": "06-Dec-10",
+        "DocLabel": "A/57/7",
+        "Filename": "A_57_7.txt",
+        "DocTitle": "Activities of the Advisory Committee during the 56th session of the General Assembly : 1st report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 92,
+        "DatePublish": "01-Dec-12",
+        "DocLabel": "A/56/949",
+        "Filename": "A_56_949.txt",
+        "DocTitle": "Financial performance report of the United Nations Operation in Somalia II : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/915"],
+        "related_resolutions": []
+    },
+    {
+        "index": 93,
+        "DatePublish": "13-Dec-05",
+        "DocLabel": "E/ICEF/2002/AB/L.6",
+        "Filename": "E_ICEF_2002_AB_L.6.txt",
+        "DocTitle": "Cash assistance to Government in the context of UNICEF programme cooperation modalities : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2002/AB/L.5", "AC/1491"],
+        "related_resolutions": []
+    },
+    {
+        "index": 94,
+        "DatePublish": "04-Apr-02",
+        "DocLabel": "A/56/845",
+        "Filename": "A_56_845.txt",
+        "DocTitle": "Proposed budget of the United Nations Organization Mission in the Democratic Republic of the Congo : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/660"],
+        "related_resolutions": ["A/RES/56/252B"]
+    },
+    {
+        "index": 95,
+        "DatePublish": "06-Sep-07",
+        "DocLabel": "A/56/846",
+        "Filename": "A_56_846.txt",
+        "DocTitle": "Mandatory age of separation : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/701"],
+        "related_resolutions": ["A/RES/57/305"]
+    },
+    {
+        "index": 96,
+        "DatePublish": "20-Dec-10",
+        "DocLabel": "A/56/868",
+        "Filename": "A_56_868.txt",
+        "DocTitle": "Final appropriation for the biennium 2000-2001 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/866"],
+        "related_resolutions": ["A/RES/56/240C-E"]
+    },
+    {
+        "index": 97,
+        "DatePublish": "08-Nov-08",
+        "DocLabel": "A/58/384",
+        "Filename": "A_58_384.txt",
+        "DocTitle": "Financial reports and audited financial statements, and reports of the Board of Auditors : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/5/Add.5(SUPP)", "A/58/97", "A/58/97/Add.1", "A/58/321"],
+        "related_resolutions": ["A/RES/58/249"]
+    },
+    {
+        "index": 98,
+        "DatePublish": "28-Jun-06",
+        "DocLabel": "A/58/389",
+        "Filename": "A_58_389.txt",
+        "DocTitle": "Joint Inspection Unit : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/82", "A/58/82/Add.1", "A/58/92", "A/58/92/Add.1", "A/58/258", "A/58/258/Add.1"],
+        "related_resolutions": ["A/RES/58/272", "A/RES/58/277", "A/RES/58/278"]
+    },
+    {
+        "index": 99,
+        "DatePublish": "20-Sep-09",
+        "DocLabel": "A/56/887",
+        "Filename": "A_56_887.txt",
+        "DocTitle": "Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 100,
+        "DatePublish": "14-Sep-06",
+        "DocLabel": "A/58/441",
+        "Filename": "A_58_441.txt",
+        "DocTitle": "Financing of the United Nations Iraq-Kuwait Observation Mission for the period from 1 July to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/386", "A/57/811", "A/57/664", "A/57/664/Corr.1"],
+        "related_resolutions": ["A/RES/57/330", "S/RES/1490(2003)"]
+    },
+    {
+        "index": 101,
+        "DatePublish": "07-Nov-09",
+        "DocLabel": "A/56/869",
+        "Filename": "A_56_869.txt",
+        "DocTitle": "Comprehensive implementation of and follow-up to the World Conference against Racism, Racial Discrimination, Xenophobia and Related Intolerance : programme budget implications of draft resolution A/C.3/56/L.84/Rev.1 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 102,
+        "DatePublish": "16-Aug-03",
+        "DocLabel": "A/58/591",
+        "Filename": "A_58_591.txt",
+        "DocTitle": "Proposed budget of the United Nations Mission in Liberia for the period from 1 August 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/539"],
+        "related_resolutions": ["A/RES/58/261", "S/RES/1497(2003)", "S/RES/1509(2003)"]
+    },
+    {
+        "index": 103,
+        "DatePublish": "01-Aug-07",
+        "DocLabel": "A/58/604",
+        "Filename": "A_58_604.txt",
+        "DocTitle": "Second performance report on the programme budget for the biennium 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/558", "A/58/604/Add.1", "A/58/7", "A/57/616", "A/52/742"],
+        "related_resolutions": ["A/RES/58/267A-B"]
+    },
+    {
+        "index": 104,
+        "DatePublish": "24-Sep-00",
+        "DocLabel": "A/58/605",
+        "Filename": "A_58_605.txt",
+        "DocTitle": "Second performance report of the International Criminal Tribunal for the Former Yugoslavia for the biennium 2002-2003; second performance report of the International Criminal Tribunal for Rwanda for the biennium2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/593", "A/58/597"],
+        "related_resolutions": ["A/RES/58/252", "A/RES/58/254"]
+    },
+    {
+        "index": 105,
+        "DatePublish": "07-Aug-05",
+        "DocLabel": "A/58/609",
+        "Filename": "A_58_609.txt",
+        "DocTitle": "Transfer of buildings to the United Nations Logistics Base at Brindisi : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/596"],
+        "related_resolutions": []
+    },
+    {
+        "index": 106,
+        "DatePublish": "10-Oct-03",
+        "DocLabel": "A/58/610",
+        "Filename": "A_58_610.txt",
+        "DocTitle": "Improvements to the current process of planning and budgeting : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/600"],
+        "related_resolutions": ["A/RES/58/269"]
+    },
+    {
+        "index": 107,
+        "DatePublish": "21-Jan-06",
+        "DocLabel": "A/58/620",
+        "Filename": "A_58_620.txt",
+        "DocTitle": "Report of the Joint Inspection Unit on \"From the Optical Disk System to the Official Document System (ODS) : status of implementation and evaluation\" : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/435"],
+        "related_resolutions": ["A/RES/58/265"]
+    },
+    {
+        "index": 108,
+        "DatePublish": "11-Dec-02",
+        "DocLabel": "A/58/409",
+        "Filename": "A_58_409.txt",
+        "DocTitle": "Revised budget of the United Nations Mission of Support in East Timor for the period from 1 July 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/192", "A/58/192/Add.1"],
+        "related_resolutions": ["A/RES/58/260", "S/RES/1272(1999)", "S/RES/1392(2002)", "S/RES/1410(2002)", "S/RES/1480(2003)"]
+    },
+    {
+        "index": 109,
+        "DatePublish": "06-Apr-08",
+        "DocLabel": "A/58/447",
+        "Filename": "A_58_447.txt",
+        "DocTitle": "Proposed budget for the United Nations Organization Mission in the Democratic Republic of the Congo for the period from 1 July 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/381"],
+        "related_resolutions": ["A/RES/58/259", "S/RES/1258(1999)", "S/RES/1279(1999)", "S/RES/1493(2003)"]
+    },
+    {
+        "index": 110,
+        "DatePublish": "19-Jun-04",
+        "DocLabel": "A/58/537",
+        "Filename": "A_58_537.txt",
+        "DocTitle": "Repertory of Practice of United Nations Organs and the Repertoire of the Practice of the Security Council : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/347"],
+        "related_resolutions": ["A/RES/57/24"]
+    },
+    {
+        "index": 111,
+        "DatePublish": "09-Apr-07",
+        "DocLabel": "A/58/538",
+        "Filename": "A_58_538.txt",
+        "DocTitle": "Proposed budget of the United Nations Mission in Côte d'Ivoire for the period from 13 May 2003 to 30 June 2004 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/370", "A/57/772"],
+        "related_resolutions": ["A/RES/58/275", "S/RES/1479(2003)"]
+    },
+    {
+        "index": 112,
+        "DatePublish": "14-Oct-01",
+        "DocLabel": "A/58/449",
+        "Filename": "A_58_449.txt",
+        "DocTitle": "Financing of the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991 for the biennium 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/226", "A/58/288", "A/58/368"],
+        "related_resolutions": ["A/RES/58/255", "A/RES/57/288", "S/RES/1503(2003)"]
+    },
+    {
+        "index": 113,
+        "DatePublish": "11-Dec-07",
+        "DocLabel": "A/58/545",
+        "Filename": "A_58_545.txt",
+        "DocTitle": "Admission of the International Criminal Court to membership in the United Nations Joint Staff Pension Fund : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/58/13"],
+        "related_resolutions": ["A/RES/58/262"]
+    },
+    {
+        "index": 114,
+        "DatePublish": "28-Sep-07",
+        "DocLabel": "A/58/554",
+        "Filename": "A_58_554.txt",
+        "DocTitle": "Financing of the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighbouring States between 1 January and 31 December 1994 for the biennium 2004-2005 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/269", "A/58/368", "A/58/366", "A/58/550"],
+        "related_resolutions": ["A/RES/58/253", "S/RES/1503(2003)", "S/RES/1512(2003)"]
+    },
+    {
+        "index": 115,
+        "DatePublish": "27-Oct-11",
+        "DocLabel": "A/58/547",
+        "Filename": "A_58_547.txt",
+        "DocTitle": "Financial situation of the International Research and Training Institute for the Advancement of Women : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/58/426"],
+        "related_resolutions": ["A/RS/57/311"]
+    },
+    {
+        "index": 116,
+        "DatePublish": "01-Dec-07",
+        "DocLabel": "A/56/902",
+        "Filename": "A_56_902.txt",
+        "DocTitle": "The concept of strategic deployment stocks and its implementation : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/870"],
+        "related_resolutions": []
+    },
+    {
+        "index": 117,
+        "DatePublish": "30-Oct-03",
+        "DocLabel": "A/56/518",
+        "Filename": "A_56_518.txt",
+        "DocTitle": "Revised estimates resulting from resolutions and decisions adopted by the Economic and Social Council at its substantive session of 2001 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/4"],
+        "related_resolutions": ["A/RES/56/255"]
+    },
+    {
+        "index": 118,
+        "DatePublish": "26-May-06",
+        "DocLabel": "A/56/630",
+        "Filename": "A_56_630.txt",
+        "DocTitle": "Standards of accommodation for air travel : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/426"],
+        "related_resolutions": ["A/RES/56/273"]
+    },
+    {
+        "index": 119,
+        "DatePublish": "14-Jan-04",
+        "DocLabel": "A/56/621",
+        "Filename": "A_56_621.txt",
+        "DocTitle": "Financing of the United Nations Mission in Sierra Leone : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/487"],
+        "related_resolutions": ["A/RES/56/251", "A/RES/56/251A", "S/RES/1270(1999)\nS/RES/1370 (2001)"]
+    },
+    {
+        "index": 120,
+        "DatePublish": "27-Dec-09",
+        "DocLabel": "A/56/644",
+        "Filename": "A_56_644.txt",
+        "DocTitle": "The illicit trade in small arms and light weapons in all its aspects : programme budget implications of draft resolution A/C.1/56/L.47 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/13"],
+        "related_resolutions": []
+    },
+    {
+        "index": 121,
+        "DatePublish": "18-Jun-08",
+        "DocLabel": "A/56/661",
+        "Filename": "A_56_661.txt",
+        "DocTitle": "Budget for the United Nations Mission in Ethiopia and Eritrea for the period from 1 July 2001 to 30 June 2002 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/610"],
+        "related_resolutions": ["A/RES/56/250", "S/RES/1312(2000)", "S/RES/1320(2000)", "S/RES/1369(2001)"]
+    },
+    {
+        "index": 122,
+        "DatePublish": "19-Sep-11",
+        "DocLabel": "A/56/665",
+        "Filename": "A_56_665.txt",
+        "DocTitle": "Budget for the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991 for the biennium 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/501", "A/56/495", "A/56/495/Add.1"],
+        "related_resolutions": ["A/RES/56/247", "A/RES/56/247B"]
+    },
+    {
+        "index": 123,
+        "DatePublish": "09-May-04",
+        "DocLabel": "A/56/684",
+        "Filename": "A_56_684.txt",
+        "DocTitle": "Programme budget for the biennium 2000-2001 : Integrated Management Information System project : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/602"],
+        "related_resolutions": ["A/RES/56/271"]
+    },
+    {
+        "index": 124,
+        "DatePublish": "15-Jul-03",
+        "DocLabel": "A/56/685",
+        "Filename": "A_56_685.txt",
+        "DocTitle": "Budget for the United Nations Transitional Administration in East Timor for the period 1 July 2001 to 30 June 2002 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/624"],
+        "related_resolutions": ["A/RES/56/249", "S/RES/1272(1999)", "S/RES/1338(2001)"]
+    },
+    {
+        "index": 125,
+        "DatePublish": "01-Dec-04",
+        "DocLabel": "A/56/688",
+        "Filename": "A_56_688.txt",
+        "DocTitle": "Financing of the United Nations Organization Mission in the Democratic Republic of the Congo : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/660"],
+        "related_resolutions": ["A/RES/56/252", "S/RES/1258 (1999)"]
+    },
+    {
+        "index": 126,
+        "DatePublish": "29-Sep-02",
+        "DocLabel": "A/56/694",
+        "Filename": "A_56_694.txt",
+        "DocTitle": "Second performance report on the programme budget for the biennium 2000-2001 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/674"],
+        "related_resolutions": ["A/RES/56/240"]
+    },
+    {
+        "index": 127,
+        "DatePublish": "24-Sep-12",
+        "DocLabel": "A/56/705",
+        "Filename": "A_56_705.txt",
+        "DocTitle": "United Nations Verification Mission in Guatemala : programme budget implications of draft resolution A/56/L.42 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/26"],
+        "related_resolutions": []
+    },
+    {
+        "index": 128,
+        "DatePublish": "18-Jun-09",
+        "DocLabel": "A/56/709",
+        "Filename": "A_56_709.txt",
+        "DocTitle": "The situation in Central America : procedures for the establishment of firm and lasting peace and progress in fashioning a region of peace, freedom, democracy and development : programme budget implications of draft resolution A/56/L.45 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/27"],
+        "related_resolutions": []
+    },
+    {
+        "index": 129,
+        "DatePublish": "03-Oct-05",
+        "DocLabel": "A/56/710",
+        "Filename": "A_56_710.txt",
+        "DocTitle": "World summit on Sustainable Development : programme budget implications of draft resolution A/C.2/56/L.71 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/28"],
+        "related_resolutions": []
+    },
+    {
+        "index": 130,
+        "DatePublish": "17-May-06",
+        "DocLabel": "A/56/711",
+        "Filename": "A_56_711.txt",
+        "DocTitle": "Construction of additional office facilities at the Economic Commission for Africa in Addis Ababa : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/672"],
+        "related_resolutions": ["A/RES/56/270"]
+    },
+    {
+        "index": 131,
+        "DatePublish": "17-Jul-05",
+        "DocLabel": "A/56/716",
+        "Filename": "A_56_716.txt",
+        "DocTitle": "Third United Nations Conference on the Least Developed Countries : programme budget implications of draft resolution A/C.2/56/L.78 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/29"],
+        "related_resolutions": []
+    },
+    {
+        "index": 132,
+        "DatePublish": "26-Sep-05",
+        "DocLabel": "A/56/717",
+        "Filename": "A_56_717.txt",
+        "DocTitle": "Revised estimates resulting from the strengthening of the role of internal oversight services at the International Tribunals for the biennium 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/30"],
+        "related_resolutions": ["A/RES/56/247", "A/RES/56/247B", "A/RES/56/248", "A/RES/56/248B"]
+    },
+    {
+        "index": 133,
+        "DatePublish": "08-Feb-02",
+        "DocLabel": "A/56/720",
+        "Filename": "A_56_720.txt",
+        "DocTitle": "Emergency international assistance for peace, normalcy and reconstruction of war-stricken Afghanistan and the situation in Afghanistan and its implications for international peace and security : programme budget implications of draft resolution A/56/L.62 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/31"],
+        "related_resolutions": []
+    },
+    {
+        "index": 134,
+        "DatePublish": "20-Sep-03",
+        "DocLabel": "A/56/510",
+        "Filename": "A_56_510.txt",
+        "DocTitle": "United Nations Interim Force in Lebanon : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/431"],
+        "related_resolutions": ["A/RES/56/214", "S/RES/425(1978)", "S/RES/1365(2001)"]
+    },
+    {
+        "index": 135,
+        "DatePublish": "06-Apr-04",
+        "DocLabel": "A/56/436",
+        "Filename": "A_56_436.txt",
+        "DocTitle": "Financial reports and audited financial statements, and reports of the Board of Auditors : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/5/Add.5(SUPP)", "A/56/66", "A/56/66/Add.1", "A/56/132"],
+        "related_resolutions": ["A/RES/56/233", "A/RES/56/233A"]
+    },
+    {
+        "index": 136,
+        "DatePublish": "31-May-08",
+        "DocLabel": "A/56/478",
+        "Filename": "A_56_478.txt",
+        "DocTitle": "Implementation of the report of the Panel on United Nations Peace Operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/55/46", "A/C.5/55/46/Add.1", "A/55/977", "A/55/1024", "A/55/1024/Corr.1"],
+        "related_resolutions": ["A/RES/56/255"]
+    },
+    {
+        "index": 137,
+        "DatePublish": "17-Jun-11",
+        "DocLabel": "A/56/475",
+        "Filename": "A_56_475.txt",
+        "DocTitle": "Availability of documentation for the proper functioning of intergovernmental bodies : submission of documentation consistent with the 6-week rule : implementation of recommendations regarding the United Nations Choronicle : re-engineering of the optical disk system : remote interpretation : provision of interpretation services to meetings of regional and other major groupings : excessive vacancy rates in language services at some duty stations and issues related to recruitment of language staff : utilization of the United Nations conference centres in Bangkok and Addis Ababa : improved utilization of conference facilities at the United Nations Office at Nairobi : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": ["A/RES/56/242"]
+    },
+    {
+        "index": 138,
+        "DatePublish": "24-Jul-06",
+        "DocLabel": "A/56/511",
+        "Filename": "A_56_511.txt",
+        "DocTitle": "Request for a subvention to the United Nations Institute for Disarmament Research resulting from the recommendations of the Board of Trustees of the Institute on the work programme of the Institute for 2002 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/56/2"],
+        "related_resolutions": []
+    },
+    {
+        "index": 139,
+        "DatePublish": "14-May-03",
+        "DocLabel": "A/56/619",
+        "Filename": "A_56_619.txt",
+        "DocTitle": "Safety and security of United Nations personnel : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/384", "A/56/384/Corr.1", "A/56/469", "A/56/469/Corr.1"],
+        "related_resolutions": ["A/RES/56/255"]
+    },
+    {
+        "index": 140,
+        "DatePublish": "20-May-10",
+        "DocLabel": "DP/2001/29",
+        "Filename": "DP_2001_29.txt",
+        "DocTitle": "Revised budget estimates for the biennium 2000-2001, budget estimates for the biennium 2002-2003, and report on the level of the operational reserve : [UNPOS] : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/2001/28", "AC/1465"],
+        "related_resolutions": []
+    },
+    {
+        "index": 141,
+        "DatePublish": "15-Mar-03",
+        "DocLabel": "A/56/666",
+        "Filename": "A_56_666.txt",
+        "DocTitle": "Financing of the International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighbouring States between 1 January and 31 December 1994 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/500", "A/56/497", "A/56/497/Add.1"],
+        "related_resolutions": ["A/RES/56/248", "A/RES/56/248B"]
+    },
+    {
+        "index": 142,
+        "DatePublish": "17-May-01",
+        "DocLabel": "E/ICEF/2001/AB/L.11",
+        "Filename": "E_ICEF_2001_AB_L.11.txt",
+        "DocTitle": "United Nations Children's Fund biennial support budget for 2002-2003 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/ICEF/2001/AB/L.10", "E/ICEF/2001/AB/L.7", "AC/1477"],
+        "related_resolutions": []
+    },
+    {
+        "index": 143,
+        "DatePublish": "27-Oct-09",
+        "DocLabel": "E/CN.7/2003/21",
+        "Filename": "E_CN.7_2003_21.txt",
+        "DocTitle": "Consolidated budget for the biennium 2004-2005 for the United Nations Office on Drugs and Crime : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["E/CN.7/2003/20", "AC/1528"],
+        "related_resolutions": []
+    },
+    {
+        "index": 144,
+        "DatePublish": "10-Jan-08",
+        "DocLabel": "A/56/941",
+        "Filename": "A_56_941.txt",
+        "DocTitle": "Financial performance report for the period from 1 June 2000 to 30 June 2001 and proposed budget for the period from 1 July 2002 to 30 June 2003 for the support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetrary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/882", "A/56/885"],
+        "related_resolutions": ["A/RES/56/293"]
+    },
+    {
+        "index": 145,
+        "DatePublish": "28-Nov-01",
+        "DocLabel": "A/56/945",
+        "Filename": "A_56_945.txt",
+        "DocTitle": "Financial performance report of the United Nations Transitional Administration in East Timor for the period from 1 July 2000 to 30 June 2001 and proposed budget of the United Nations Mission of Support in East Timor for the period from 1 July 2002 to 30 June 2003 : report of the Advisory Committee on Administrative and Budgetrary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/922", "A/56/932"],
+        "related_resolutions": ["A/RES/56/296", "S/RES/1272(1999)", "S/RES/1392(2002)"]
+    },
+    {
+        "index": 146,
+        "DatePublish": "16-Aug-06",
+        "DocLabel": "A/56/946",
+        "Filename": "A_56_946.txt",
+        "DocTitle": "Financing of the United Nations Mission for the Referendum in Western Sahara : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/818", "A/56/826"],
+        "related_resolutions": []
+    },
+    {
+        "index": 147,
+        "DatePublish": "11-Nov-11",
+        "DocLabel": "A/56/948",
+        "Filename": "A_56_948.txt",
+        "DocTitle": "Financing of the United Nations Observer Mission in Angola : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/56/900"],
+        "related_resolutions": []
+    },
+    {
+        "index": 148,
+        "DatePublish": "01-Dec-00",
+        "DocLabel": "DP/FPA/2007/3",
+        "Filename": "DP_FPA_2007_3.txt",
+        "DocTitle": "United Nations Population Fund : report on UNFPA regionalization : towards a stronger field-centred and results-oriented organization : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["DP/FPA/2007/2"],
+        "related_resolutions": []
+    },
+    {
+        "index": 149,
+        "DatePublish": "26-May-05",
+        "DocLabel": "A/61/661",
+        "Filename": "A_61_661.txt",
+        "DocTitle": "Standards of accommodation for air travel : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/61/188", "A/61/188/Corr.1", "A/61/612", "A/61/612/Corr.1"],
+        "related_resolutions": ["A/RES/61/238", "A/RES/60/255"]
+    },
+    {
+        "index": 150,
+        "DatePublish": "31-Mar-07",
+        "DocLabel": "A/53/511",
+        "Filename": "A_53_511.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/53/3", "A/C.5/53/18", "A/53/9"],
+        "related_resolutions": ["A/RES/53/210"]
+    },
+    {
+        "index": 151,
+        "DatePublish": "24-Feb-06",
+        "DocLabel": "A/53/651",
+        "Filename": "A_53_651.txt",
+        "DocTitle": "Revised budget estimates for 1998 and proposed requirements for 1999 of the International Tribunal for the Former Yugoslavia : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/53/13"],
+        "related_resolutions": ["A/RES/53/212", "A/RES/53/213"]
+    },
+    {
+        "index": 152,
+        "DatePublish": "06-Nov-01",
+        "DocLabel": "A/52/890",
+        "Filename": "A_52_890.txt",
+        "DocTitle": "Gratis personnel provided by Governments and other entities : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/709", "A/53/854/Corr.1", "A/C.5/52/43", "A/52/698", "A/52/823"],
+        "related_resolutions": ["A/RES/52/234"]
+    },
+    {
+        "index": 153,
+        "DatePublish": "31-Jun-05",
+        "DocLabel": "A/53/417",
+        "Filename": "A_53_417.txt",
+        "DocTitle": "Gratis personnel provided by Governments and other entities : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/52/51", "A/C.5/52/56", "A/C.5/52/54/Rev.1"],
+        "related_resolutions": ["A/RES/53/218", "A/RES/53/11"]
+    },
+    {
+        "index": 154,
+        "DatePublish": "05-May-03",
+        "DocLabel": "A/53/474",
+        "Filename": "A_53_474.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/52/772/Add.2"],
+        "related_resolutions": ["A/RES/53/18", "A/RES/53/19"]
+    },
+    {
+        "index": 155,
+        "DatePublish": "07-Nov-12",
+        "DocLabel": "A/51/423",
+        "Filename": "A_51_423.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["(A/50/650/Add.4)"],
+        "related_resolutions": ["A/RES/51/3", "A/RES/51/3B", "A/RES/51/3C", "S/RES/866(1993)", "S/RES/1020(1995)", "S/RES/1071(1996)", "S/RES/1083(1996)", "S/RES/1100(1997)"]
+    },
+    {
+        "index": 156,
+        "DatePublish": "26-Jan-12",
+        "DocLabel": "A/53/481",
+        "Filename": "A_53_481.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/437"],
+        "related_resolutions": ["A/RES/53/20A", "S/RES/983(1995)", "S/RES/1186(1998)"]
+    },
+    {
+        "index": 157,
+        "DatePublish": "19-Dec-04",
+        "DocLabel": "A/53/418",
+        "Filename": "A_53_418.txt",
+        "DocTitle": "Support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/52/837"],
+        "related_resolutions": ["A/RES/53/12"]
+    },
+    {
+        "index": 158,
+        "DatePublish": "10-Mar-02",
+        "DocLabel": "A/53/507",
+        "Filename": "A_53_507.txt",
+        "DocTitle": "Interpretation and translation issues referred to in section 3, paragraphs 13 to 15, of General Assembly resolution 52/220, cost-accounting system for conference services and access to the optical disk system : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": ["A/RES/53/208"]
+    },
+    {
+        "index": 159,
+        "DatePublish": "11-Jun-03",
+        "DocLabel": "A/52/905",
+        "Filename": "A_52_905.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/833", "A/52/854", "A/52/869"],
+        "related_resolutions": ["A/RES/52/246", "S/RES/1063(1996)", "S/RES/1086(1996)", "S/RES/1123(1997)", "S/RES/1141(1997)"]
+    },
+    {
+        "index": 160,
+        "DatePublish": "11-Oct-02",
+        "DocLabel": "A/52/911",
+        "Filename": "A_52_911.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Qyestions.",
+        "DocType": 1,
+        "related_reports": ["A/52/895"],
+        "related_resolutions": ["A/RES/52/249", "S/RES/1159(1998)"]
+    },
+    {
+        "index": 161,
+        "DatePublish": "09-Jun-04",
+        "DocLabel": "A/53/508",
+        "Filename": "A_53_508.txt",
+        "DocTitle": "Guidelines for Internal Control Standards : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/52/867"],
+        "related_resolutions": []
+    },
+    {
+        "index": 162,
+        "DatePublish": "31-Aug-12",
+        "DocLabel": "A/52/865",
+        "Filename": "A_52_865.txt",
+        "DocTitle": "Comprehensive evaluation of all aspects of the administration and management of the United Nations Transitional Authority in Cambodia (UNTAC) : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/51/777", "A/52/819"],
+        "related_resolutions": ["A/RES/52/239", "S/RES/717(1991)", "S/RES/718(1991)", "S/RES/728(1992)", "S/RES/745 (1992)", "S/RES/766(1992)", "S/RES/783(1992)", "S/RES/792(1992)", "S/RES/810(1993)", "S/RES/826(1993)", "S/RES/835(1993)", "S/RES/840(1993)", "S/RES/860(1993)", "S/RES/880(1993)"]
+    },
+    {
+        "index": 163,
+        "DatePublish": "09-Feb-02",
+        "DocLabel": "A/53/645",
+        "Filename": "A_53_645.txt",
+        "DocTitle": "Revolving Credit Fund : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/52/822"],
+        "related_resolutions": []
+    },
+    {
+        "index": 164,
+        "DatePublish": "12-Feb-03",
+        "DocLabel": "A/53/513",
+        "Filename": "A_53_513.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": ["A/RES/53/204"]
+    },
+    {
+        "index": 165,
+        "DatePublish": "28-Jun-11",
+        "DocLabel": "A/52/892",
+        "Filename": "A_52_892.txt",
+        "DocTitle": "Support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/838", "A/52/837"],
+        "related_resolutions": ["A/RES/52/248", "A/RES/53/12"]
+    },
+    {
+        "index": 166,
+        "DatePublish": "11-Sep-07",
+        "DocLabel": "A/52/894",
+        "Filename": "A_52_894.txt",
+        "DocTitle": "Utilization of the development account : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/848"],
+        "related_resolutions": ["A/RES/52/235"]
+    },
+    {
+        "index": 167,
+        "DatePublish": "11-Apr-05",
+        "DocLabel": "A/52/860",
+        "Filename": "A_52_860.txt",
+        "DocTitle": "Financing of the United Nations peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": [],
+        "related_resolutions": []
+    },
+    {
+        "index": 168,
+        "DatePublish": "31-Apr-10",
+        "DocLabel": "A/67/837",
+        "Filename": "A_67_837.txt",
+        "DocTitle": "Updated financial position of closed peacekeeping missions as at 30 June 2012 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/67/739", "A/66/713", "A/60/846/Add.3"],
+        "related_resolutions": ["A/RES/65/293"]
+    },
+    {
+        "index": 169,
+        "DatePublish": "30-Aug-02",
+        "DocLabel": "A/67/782",
+        "Filename": "A_67_782.txt",
+        "DocTitle": "Report of the Board of Auditors on the accounts of the United Nations peacekeeping operations and report of the Secretary-General on the implementation of the recommendations of the Board of Auditors concerning United Nations peacekeeping operations for the financial period ended 30 June 2012 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/67/780", "A/67/5(Vol.II)", "A/67/741", "A/67/776", "A/67/801"],
+        "related_resolutions": []
+    },
+    {
+        "index": 170,
+        "DatePublish": "19-Nov-02",
+        "DocLabel": "A/52/897",
+        "Filename": "A_52_897.txt",
+        "DocTitle": "Financing of the United Nations Logistics Base at Brindisi : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/810", "A/52/858"],
+        "related_resolutions": ["A/RES/52/1B"]
+    },
+    {
+        "index": 171,
+        "DatePublish": "30-Feb-10",
+        "DocLabel": "A/67/848",
+        "Filename": "A_67_848.txt",
+        "DocTitle": "Budget performance for the period from 1 July 2011 to 30 June 2012, financing for the period from 1 July 2012 to 30 June 2013 and proposed budget for the period from 1 July 2013 to 30 June 2014 of the support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/67/756", "A/67/756/Add.1", "A/67/780", "A/67/756", "A/67/772", "A/67/751"],
+        "related_resolutions": []
+    },
+    {
+        "index": 172,
+        "DatePublish": "17-Jan-08",
+        "DocLabel": "A/53/940",
+        "Filename": "A_53_940.txt",
+        "DocTitle": "United Nations peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/5 Volume II"],
+        "related_resolutions": ["A/RES/54/13"]
+    },
+    {
+        "index": 173,
+        "DatePublish": "22-Dec-01",
+        "DocLabel": "A/53/901",
+        "Filename": "A_53_901.txt",
+        "DocTitle": "Support account for peacekeeping operations : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/854", "A/53/854/Add.1"],
+        "related_resolutions": ["A/RES/53/12B"]
+    },
+    {
+        "index": 174,
+        "DatePublish": "24-Mar-02",
+        "DocLabel": "A/53/897",
+        "Filename": "A_53_897.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/742", "A/53/838"],
+        "related_resolutions": ["A/RES/53/234", "S/RES/1037(1996)", "S/RES/1145(1997)"]
+    },
+    {
+        "index": 175,
+        "DatePublish": "12-Mar-07",
+        "DocLabel": "A/53/898",
+        "Filename": "A_53_898.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/775"],
+        "related_resolutions": ["A/RES/53/235", "S/RES/1094(1997)"]
+    },
+    {
+        "index": 176,
+        "DatePublish": "21-Sep-06",
+        "DocLabel": "A/52/868",
+        "Filename": "A_52_868.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/52/815", "A/52/792"],
+        "related_resolutions": []
+    },
+    {
+        "index": 177,
+        "DatePublish": "17-Apr-07",
+        "DocLabel": "A/53/943",
+        "Filename": "A_53_943.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/810", "A/53/820"],
+        "related_resolutions": ["A/RES/53/18B", "S/RES/690(1991)", "S/RES/1238(1999)"]
+    },
+    {
+        "index": 178,
+        "DatePublish": "19-Jun-10",
+        "DocLabel": "A/53/942",
+        "Filename": "A_53_942.txt",
+        "DocTitle": "Outsourcing practices : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/818"],
+        "related_resolutions": ["A/RES/54/256"]
+    },
+    {
+        "index": 179,
+        "DatePublish": "16-Nov-08",
+        "DocLabel": "A/53/654",
+        "Filename": "A_53_654.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/454"],
+        "related_resolutions": ["A/RES/53/29"]
+    },
+    {
+        "index": 180,
+        "DatePublish": "23-Oct-00",
+        "DocLabel": "A/53/655",
+        "Filename": "A_53_655.txt",
+        "DocTitle": "Results-based budgeting : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/500", "A/53/500/Add.1"],
+        "related_resolutions": ["A/RES/53/205"]
+    },
+    {
+        "index": 181,
+        "DatePublish": "21-Jan-02",
+        "DocLabel": "A/53/659",
+        "Filename": "A_53_659.txt",
+        "DocTitle": "Revised estimates for 1998 and estimates for 1999 : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/C.5/53/14", "A/C.5/53/15"],
+        "related_resolutions": ["A/RES/53/212", "A/RES/53/213"]
+    },
+    {
+        "index": 182,
+        "DatePublish": "06-Jan-06",
+        "DocLabel": "A/51/491",
+        "Filename": "A_51_491.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/51/389"],
+        "related_resolutions": ["A/RES/51/13"]
+    },
+    {
+        "index": 183,
+        "DatePublish": "09-Dec-12",
+        "DocLabel": "A/51/440",
+        "Filename": "A_51_440.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/50/655/Add.2"],
+        "related_resolutions": ["A/RES/51/2", "S/RES/690(1991)", "S/RES/1056(1996)"]
+    },
+    {
+        "index": 184,
+        "DatePublish": "14-Apr-04",
+        "DocLabel": "A/51/497",
+        "Filename": "A_51_497.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/50/696/Add.7", "A/50/696/Add.6"],
+        "related_resolutions": ["A/RES/51/12", "S/RES/727(1992)", "S/RES/740(1992)", "S/RES/743(1992)", "S/RES/981(1995)", "S/RES/983(1995)", "S/RES/1025(1995)", "S/RES/1031(1995)"]
+    },
+    {
+        "index": 185,
+        "DatePublish": "23-Jun-05",
+        "DocLabel": "A/51/910",
+        "Filename": "A_51_910.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/51/519/Add.4", "A/51/508/Add.3"],
+        "related_resolutions": ["A/RES/51/154B", "A/RES/51/152B", "S/RES983(1995)", "S/RES/1110(1997)", "S/RES/1035(1995)", "S/RES/1088(1996)", "S/RES/1093(1997)"]
+    },
+    {
+        "index": 186,
+        "DatePublish": "05-Apr-03",
+        "DocLabel": "A/53/944",
+        "Filename": "A_53_944.txt",
+        "DocTitle": "Report on the implementation of the reformed procedures for determining reimbursement to Member States for contingent-owned equipment : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/53/465", "A/C.5/52/39"],
+        "related_resolutions": ["A/RES/54/19"]
+    },
+    {
+        "index": 187,
+        "DatePublish": "11-Nov-00",
+        "DocLabel": "A/53/669",
+        "Filename": "A_53_669.txt",
+        "DocTitle": "United Nations publications : report of the Advisory Committee on Administrative and Budgetary Questions",
+        "DocType": 1,
+        "related_reports": ["A/51/946", "JIU/REP/97/2", "A/52/685"],
+        "related_resolutions": ["A/RES/53/208", "A/RES/53/259"]
+    },
+    {
+        "index": 188,
+        "DatePublish": "29-Oct-06",
+        "DocLabel": "A/50/802",
+        "Filename": "A_50_802.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/50/735", "A/50/655", "A/50/749", "A/50/731", "A/50/722"],
+        "related_resolutions": []
+    },
+    {
+        "index": 189,
+        "DatePublish": "05-Jun-00",
+        "DocLabel": "A/50/798",
+        "Filename": "A_50_798.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/50/319"],
+        "related_resolutions": []
+    },
+    {
+        "index": 190,
+        "DatePublish": "16-Nov-02",
+        "DocLabel": "A/48/517",
+        "Filename": "A_48_517.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/48/9 Corr.1", "A/46/9"],
+        "related_resolutions": ["A/RES/46/220", "A/RES/47/203"]
+    },
+    {
+        "index": 191,
+        "DatePublish": "24-Feb-00",
+        "DocLabel": "A/48/900",
+        "Filename": "A_48_900.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/48/592"],
+        "related_resolutions": ["A/RES/48/247", "S/RES/856(1993)", "S/RES/866(1993)"]
+    },
+    {
+        "index": 192,
+        "DatePublish": "13-Apr-02",
+        "DocLabel": "A/48/902",
+        "Filename": "A_48_902.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/48/836", "A/48/836/Corr.1", "A/48/836/Corr.2"],
+        "related_resolutions": ["A/RES/48/241", "S/RES/626(1988)", "S/RES/696(1991)", "S/RES/747(1992)", "S/RES/804(1993)", "S/RES/903(1994)"]
+    },
+    {
+        "index": 193,
+        "DatePublish": "12-May-01",
+        "DocLabel": "A/48/899",
+        "Filename": "A_48_899.txt",
+        "DocTitle": "Report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/48/850"],
+        "related_resolutions": ["A/RES/48/239", "S/RES/751(1992)", "S/RES/794(1992)", "S/RES/886(1993)", "S/RES/897(1994)"]
+    },
+    {
+        "index": 194,
+        "DatePublish": "22-Apr-08",
+        "DocLabel": "A/48/745",
+        "Filename": "A_48_745.txt",
+        "DocTitle": "Financing of the United Nations Observer Mission in South Africa : report of the Advisory Committee on Administrative and Budgetary Questions.",
+        "DocType": 1,
+        "related_reports": ["A/C.5/48/28"],
+        "related_resolutions": []
+    }
+]

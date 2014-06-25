@@ -1,0 +1,333 @@
+
+/*STYLES FOR TIME LINE HISTOGRAM*/
+.time-line-group{
+
+}
+
+.time-line-bg{
+    fill: white;
+}
+
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: lightgrey;
+    shape-rendering: crispEdges;
+}
+
+.timeline-info-text{
+    fill: #FFFFFF;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+}
+
+
+path {
+    /*fill: steelblue;*/
+}
+
+
+
+.brush .extent {
+    stroke: #474747;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+.new-keyword-edt{
+    border: 1px solid #EEEEEE;
+    border-radius: 10px 10px 10px 10px;
+    float: left;
+    padding: 0px 20px 0px 10px;
+    height: 24px;
+}
+
+.new-keyword-btn{
+    color: #999999;
+    float: left;
+    height: 24px;
+    margin-left: -20px;
+    line-height: 24px;
+    vertical-align: middle;
+    width: 20px;
+    cursor: pointer;
+    padding-left: 3px;
+}
+
+.new-keyword-btn:hover{
+    color : #222222;
+}
+
+.keyword-vis{
+    background-color: #bbb;
+    border: 1px solid #bbb;
+    border-radius: 10px 10px 10px 10px;
+    color: #eee;
+    /*font-weight: bold;*/
+    margin-right: 10px;
+    padding: 4px 5px 4px 10px;
+    cursor: default;
+}
+
+.keyword-vis .rem-keyword{
+    color : #ddd;
+}
+
+.keyword-vis:hover{
+    background-color: rgb(37, 80, 136);
+    border: 1px solid rgb(37, 80, 136);
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    /*font-weight: bold;*/
+    margin-right: 10px;
+    padding: 4px 5px 4px 10px;
+    cursor: pointer;
+}
+
+
+.rem-keyword{
+    float : right;
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.rem-keyword:hover{
+    color : lightsteelblue;
+}
+
+.rule{
+
+}
+
+.grid-text{
+}
+
+.document-circles{
+    /*fill : #EEE;*/
+    /*stroke : #999;*/
+    cursor: pointer;
+    /*opacity: .7;*/
+}
+
+.document-circles-selected{
+    fill : rgb(37,80,136);
+    stroke: white;
+}
+
+
+.brush rect.extent {
+    fill: #808080;
+    fill-opacity: .5;
+}
+
+.brush .resize path {
+    fill: #4D4D4D;
+    stroke: #4D4D4D;
+}
+
+.x1 path{
+    stroke : #EEEEEE;
+}
+
+.data-line {
+    /*stroke: #999999;*/
+    stroke-width: 1;
+    fill: none;
+    stroke-dasharray: 0;
+}
+
+path {
+    /*stroke: #eee;*/
+    /*stroke-width: 2;*/
+    stroke-dasharray: 0;
+    /*fill: none;*/
+}
+
+.area {
+    fill: #CCCCCC;
+    opacity: 0.05;
+}
+
+.axis text {
+    font-family: Arial;
+    font-size: 8pt;
+    fill: #B3B3B3;
+}
+
+line {
+    stroke: #CDCDCD;
+    stroke-width: 0.5;
+    /* stroke-dasharray: 3 3; */
+    fill: none;
+}
+
+.document-assos-line {
+    stroke: none;
+    stroke-width: 0.5;
+    fill: none;
+}
+
+.data-point {
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: #FFF;
+}
+
+#chart {
+    margin: 0;
+}
+
+.scale-circles{
+    fill : transparent;
+    stroke : #CDCDCD;
+    stroke-width : 2px;
+    stroke-dasharray:20,10,5,5,5,10;
+    opacity: .5;
+}
+
+
+.scatter-chart-line-1{
+    stroke:#595959;
+    stroke-width:1;
+}
+
+.scatter-chart-line-2{
+    stroke:lightgrey;
+    stroke-width:1;
+}
+
+.scatter-chart-text{
+    font-size: 2em;
+    fill: #4D4D4D;
+    font-family: "Helvetica Neue", arial;
+    font-weight: lighter;
+}
+
+.association-links{
+    stroke-width : 1px;
+    stroke : #FFF;
+    pointer-events: none;
+}
+
+.document-circles-assoc{
+    cursor: pointer;
+    /*fill: #EEEEEE;*/
+    opacity: 0.7;
+    /*stroke: #999999;*/
+}
+
+/*STYLES FOR THE CUSTOM SLIDEER*/
+.slider-axis {
+    font: 10px sans-serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.slider-axis .domain {
+    fill: none;
+    stroke: #4D4D4D;
+    stroke-width: 10px;
+}
+
+.slider .handle {
+    fill: #999999;
+    pointer-events: none;
+}
+
+.slider .handle-text {
+    fill: #FFFFFF;
+    stroke-width: 0px;
+    font-weight: bold;
+    pointer-events: none;
+    text-anchor:middle;
+}
+
+.slider-axis text{
+    display : none;
+}
+
+.doc-assoc-slider-lbl{
+    fill : #FFF;
+    font-size : 1.2em;
+    font-family: "Helvetica Neue", Arial;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+.svg-rect-btn{
+    fill : #999999;
+    cursor: pointer;
+}
+
+.svg-rect-btn text{
+    fill : #FFF;
+}
+
+.svg-rect-btn-txt{
+    fill : #FFF;
+    pointer-events: none;
+    text-anchor:middle;
+}
+
+
+/*STYLES FOR LEGEND*/
+.legend-doc-type-title{
+    fill : #FFFFFF;
+    font-size : 15px;
+}
+
+.doc-type-legend-rect{
+    fill : #CCCCCC;
+    stroke : #CCCCCC;
+    pointer-events: inherit;
+}
+
+.doc-type-legend-rect-unselected{
+    fill : transparent;
+    stroke : #CCCCCC;
+    pointer-events: inherit;
+}
+
+.doc-type-legend-txt{
+    fill : #CCCCCC;
+}
+
+.doc-type-legend-group{
+    cursor: pointer;
+}
+
+.doc-size-legend-circle{
+    stroke : #CCCCCC;
+    stroke-size : 1px;
+    fill : none;
+}
+
+.doc-size-legend-txt{
+    fill : #CCCCCC;
+}
+
+.scatter-chart-lines{
+    stroke: #474747;
+    stroke-width: 1;
+    shape-rendering: crispedges;
+}
+
+.scale-value-text{
+    fill: #D4BE56;
+    font-size : 12px;
+}
+
+.slider rect {
+    cursor: pointer !important;
+}
+
+#addNewKeywordEdt{
+    color:blueviolet;
+    border-radius: 0;
+}

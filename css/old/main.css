@@ -1,0 +1,261 @@
+body{
+    font-size : 13px;
+    font-family: arial;
+    background: white;
+    overflow-y: scroll;
+    margin:0;
+    width:100%;
+    padding:0;
+}
+
+.page-cntnr{
+
+    margin: 0px auto;
+    background: white; //rgb(37, 80, 136)
+    width : 100%;
+    min-width: 1066px;
+}
+
+svg {
+    font: 10px sans-serif;
+}
+
+.header-div{
+    color : rgb(37, 80, 136);
+    font-size : 1em;
+    line-height: 30px;
+    margin: 0px auto;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.header-div .title
+{
+    font-weight: bold;
+}
+
+.header-div .sub-title
+{
+
+}
+.header-div .titles-cntnr
+{
+    /*padding-left : 150px*/
+
+}
+
+.header-div .operation
+{
+    color : #B3B3B3;
+    font-size : 8px;
+    font-weight: bold;
+}
+
+.header-div .login
+{
+    text-align: right;
+    float:right;
+}
+
+
+#word-list-cntnr-chrt{
+    text-align: center;
+    background: white;
+    /*width: 100%;*/
+    /*height : 40px;*/
+    padding : 15px;
+    padding-left : 150px;
+    padding-right : 150px;
+    /*position : absolute;*/
+}
+
+
+#tooltip{
+    color:white;
+    padding:10px;
+    width : 300px;
+    background: #6999c9/*#CBB85A*/;
+    opacity: .8;
+    border-radius: 5px;
+    border : 1px solid #fff;
+}
+
+
+#tooltip .title{
+    color : #FFF;
+    font-size : 1.4em;
+    font-weight: bold;
+}
+
+#tooltip .doc-date{
+    color : #111;
+    font-size : 1em;
+}
+
+#tooltip .content-title{
+    margin-top : 5px;
+    color : #333;
+    font-size : .8em;
+    padding-top:1em;
+}
+
+#tooltip .content-keyword-str{
+    color : #FFF;
+    font-size : 1em;
+    padding-top:.5em;
+}
+
+#tooltip .content{
+    color : #666;
+    font-size : 11px;
+}
+
+#tooltip .open-link{
+    color : #444;
+    font-size : 12px;
+    text-align: right;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#tooltip .tail {
+    background: url("../img/tail_white.gif") repeat scroll 50% 0 rgba(0, 0, 0, 0);
+    bottom: -8px;
+    height: 8px;
+    left: 130px;
+    position: absolute;
+    width: 40px;
+}
+
+#tooltip a{
+    text-decoration: none;
+}
+
+
+#tooltip .TF{
+    color : #FFF;
+    float: left;
+}
+
+#tooltip .TTF{
+    color : #FFF;
+    float:right;
+}
+
+
+#document-click-trail{
+    position : absolute;
+}
+
+#document-click-trail .title{
+    color : #444;
+    font-size : 16px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+#document-click-trail .click-trail-content{
+    color : #666;
+    padding-left : 10px;
+    font-size: 12px;
+}
+
+
+#clicked-document-title{
+    width : 700px;
+    margin:auto;
+    margin-top : 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color : #666666;
+}
+#clicked-document-cntnt{
+    width : 700px;
+    margin:auto;
+    margin-top : 5px;
+    padding-top : 5px;
+    text-align: left;
+    font-size: 12px;
+    color : #444444;
+}
+
+#change-doc-assoc-view{
+    text-align: center;
+    border-radius: 10px;
+    background-color: #999999;
+    width : 120px;
+    padding-top : 2px;
+    padding-bottom : 2px;
+    font-size: 12px;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#doc-assoc-slider-value-lbl{
+    color: #FFFFFF;
+}
+
+#doc-detail-cntnr{
+    padding-left : 40px;
+    margin: auto;
+    margin-top:2em;
+    width : 800px;
+    background-size: 38px 38px;
+
+}
+
+#doc-title {
+    font-family: sans-serif;
+    font-size: 32px;
+    color : #6999c9;
+}
+
+#doc-info{
+    color : #6999c9;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#top-keywords{
+    margin-top : 5px;
+    color : #6999c9;
+}
+
+#doc-content{
+    margin-top : 5px;
+    color : #333;
+    margin-bottom: 10px;
+}
+
+#word-list-cntnr-chrt ul{
+    text-align: left;
+    padding : 0;
+    margin: 0;
+}
+
+#word-list-cntnr-chrt li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.app-hint{
+    background-color: #eee;
+    opacity: 0.7;
+    border : 1px solid #fff;
+    border-radius: 5px;
+    color: #888;
+
+    padding : 2em;
+    /*position: absolute;*/
+    position: fixed;
+    top : 0px;
+    left : 500px;
+    display: none;
+
+    font-size : 1em;
+    font-weight : lighter;
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ACABQ Document Explorer</title>
+
+    <!--Linked stylesheets-->
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/timeline.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
+    <!--<link href="css/d3.slider.css" rel="stylesheet">-->
+
+    <!--linked js libraries-->
+    <!--<script src="js/lib/d3.v3/d3.v3.min.js" type="text/javascript"></script>-->
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <!--<script src="js/lib/d3.slider.js" type="text/javascript"></script>-->
+
+    <!--visualization script js -->
+    <script src="js/library.js" type="text/javascript"></script>
+    <script src="js/timeLineGenerator.js" type="text/javascript"></script>
+    <script src="js/clsWordListGenerator.js" type="text/javascript"></script>
+    <script src="js/clsDocumentClickTrailMgr.js" type="text/javascript"></script>
+    <script src="js/clsDocumentAssociationChart.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+
+</head>
+
+<body onload="preBootstrap()">
+
+    <div class="page-cntnr">
+
+        <!--TITLE BAR OF THE PAGE-->
+        <div class="header-div">
+            <div class="titles-cntnr">
+                <span class="title">ACABQ Document Explorer</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+                <span class="sub-title">Helping you find related documents at the UN</span>&nbsp;&nbsp;
+                <span class="operation">POWERED BY OICT UNITE ANALYTICS</span>
+                <span class="login">Login</span>
+            </div>
+        </div>
+
+        <!--PAGE 1 CONTAINING THE MAIN DOCUMENT VISUALIZATION-->
+        <div id="chart1">
+
+            <!--KEYWORDS ENTERED BY USER-->
+          <!--  <div id="word-list-cntnr-chrt">
+                <ul>
+                </ul>
+            </div>-->
+
+            <!--CHART CONTAINER-->
+            <div class="word-freq-chart" style="margin : auto;">
+                <svg id="wordFreqFhrtSvg"></svg>
+            </div>
+
+            <!--DOCUMENT TRAIL CONTAINER-->
+            <!--<div id="document-click-trail">
+                <div class="title">Document Click Trail</div>
+                <div class="click-trail-content"></div>
+            </div>-->
+        </div>
+
+        <div id="doc-detail-cntnr" >
+            <div id="doc-title"></div>
+            <div id="doc-info"></div>
+            <div id="doc-url"></div>
+            <div id="top-keywords"></div>
+            <div id="doc-content"></div>
+        </div>
+        <!--PAGE 2 CONTAINING SUB VISUALIZATION FOR DOCUMENT ASSOCIATION-->
+        <!--<div id="chart2" style="display:none; margin: auto;text-align: center;">
+            <svg id="document-assoc-chart"></svg>
+            <div id="clicked-document-title" style=""></div>
+            <div id="clicked-document-cntnt" style=""></div>
+        </div>-->
+    </div>
+
+    <!--<div id="sliderScale"></div>
+    <table cellspacing="10">
+        <tr>
+            <td>
+                <div id="doc-assoc-slider-value-lbl">Document Association : <span id="doc-assoc-slider-value">0</span></div>
+            </td>
+            <td>
+                <div style="width:200px"><div id="doc-assoc-slider"></div></div>
+            </td>
+            <td>
+                <div id="change-doc-assoc-view">Association View</div>
+            </td>
+        </tr>
+    </table>-->
+
+<div id="tooltip" style="visibility: hidden;"></div>
+<div class="app-hint" onclick="slide()">The selected document has been filtered out.</div>
+<script>
+   function slide(){
+       d3.select(".app-hint").transition().duration(1000).style("top", "50px");
+   }
+</script>
+
+</body>
+</html>
