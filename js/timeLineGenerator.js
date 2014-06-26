@@ -2925,151 +2925,120 @@ function clsTimeLineGenerator(p_Config) {
     };
 
     //---------------------------------------------------------------
-    LMe.drawLegends = function () {
-        var LDocumentTypeLegendsCntnr = LMe.svg.append("g"),
-            LDocumentSizeLegendsCntnr = LMe.svg.append("g");
+//    LMe.drawLegends = function () {
+//        var LDocumentTypeLegendsCntnr = LMe.svg.append("g"),
+//            LDocumentSizeLegendsCntnr = LMe.svg.append("g");
 
-        var LDocTypeLegendHt = 20,
-            LDocTypeLegendWd = 60;
+//        var LDocTypeLegendHt = 20,
+//            LDocTypeLegendWd = 60;
 
-        LDocumentTypeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 50) + ")");
+//        LDocumentTypeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 50) + ")");
 
-        LDocumentTypeLegendsCntnr.append("rect")
-            .attr("height", 160)
-            .attr("width", 123)
-            .attr("fill", "#6B6B6B");
+//        LDocumentTypeLegendsCntnr.append("rect")
+//            .attr("height", 160)
+//            .attr("width", 123)
+//            .attr("fill", "#6B6B6B");
 
-        LDocumentTypeLegendsCntnr.append("text")
-            .attr("x", 10)
-            .attr("y", 22)
-            .attr("class", "legend-doc-type-title")
-            .text("Document")
-            .append("tspan")
-            .attr("x", 10)
-            .attr("y", 37)
-            .text("Type Filter");
+//        LDocumentTypeLegendsCntnr.append("text")
+//            .attr("x", 10)
+//            .attr("y", 22)
+//            .attr("class", "legend-doc-type-title")
+//            .text("Document")
+//            .append("tspan")
+//            .attr("x", 10)
+//            .attr("y", 37)
+//            .text("Type Filter");
 
-        //Create legends for document type
-        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(G_DOCUMENT_TYPE);
-        var LG = LLegends.enter().append("g")
-            .attr("class", "doc-type-legend-group")
-            .attr("transform", function (d, i) {
-                d.isSelected = true;
-                return "translate(0," + (45 + i * LDocTypeLegendHt) + ")";
-            })
-            .on("click", function (d) {
-                var LLegendGroup = d3.select(this);
-                if (d.isSelected) {
-                    //unselect the type
-                    d.isSelected = false;
-                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", true);
-                }
-                else {
-                    //select the type
-                    d.isSelected = true;
-                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", false);
-                }
+//        //Create legends for document type
+//        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(G_DOCUMENT_TYPE);
+//        var LG = LLegends.enter().append("g")
+//            .attr("class", "doc-type-legend-group")
+//            .attr("transform", function (d, i) {
+//                d.isSelected = true;
+//                return "translate(0," + (45 + i * LDocTypeLegendHt) + ")";
+//            })
+//            .on("click", function (d) {
+//                var LLegendGroup = d3.select(this);
+//                if (d.isSelected) {
+//                    //unselect the type
+//                    d.isSelected = false;
+//                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", true);
+//                }
+//                else {
+//                    //select the type
+//                    d.isSelected = true;
+//                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", false);
+//                }
 
-                if (LMe.documentViewMode == "timeline_view") {
-                    LMe.generateTimeLineViewForCentralCircle();
-                }
-                else if (LMe.documentViewMode == "association_view") {
-                    LMe.generateAssociationViewForCentralCircle();
-                }
+//                if (LMe.documentViewMode == "timeline_view") {
+//                    LMe.generateTimeLineViewForCentralCircle();
+//                }
+//                else if (LMe.documentViewMode == "association_view") {
+//                    LMe.generateAssociationViewForCentralCircle();
+//                }
+//            });
 
-                /*if(LMe.documentViewMode == "timeline_view")
-                {
-                LMe.ScatterPlotCircles.attr("display", function(d){
-                if(isDocTypeSelected(d.DocType))
-                {
-                //doc type is selected
-                return "block";
-                }
-                else
-                {
-                //doc type is not selected
-                return "none";
-                }
-                });
-                }
-                else if(LMe.documentViewMode == "association_view")
-                {
-                LMe.associationViewNodes.attr("display", function(d){
-                if(isDocTypeSelected(d.DocType))
-                {
-                //doc type is selected
-                return "block";
-                }
-                else
-                {
-                //doc type is not selected
-                return "none";
-                }
-                });
-                }*/
-            });
+//        LG.append("rect")
+//            .attr("width", 15)
+//            .attr("height", 15)
+//            .attr("rx", 5)
+//            .attr("ry", 5)
+//            .attr("x", 10)
+//            .attr("y", 5)
+//            .attr("class", "doc-type-legend-rect");
 
-        LG.append("rect")
-            .attr("width", 15)
-            .attr("height", 15)
-            .attr("rx", 5)
-            .attr("ry", 5)
-            .attr("x", 10)
-            .attr("y", 5)
-            .attr("class", "doc-type-legend-rect");
-
-        LG.append("text")
-            .text(function (d) {
-                return d.typeName
-            })
-            .attr("x", 30)
-            .attr("y", 15)
-            .attr("class", "doc-type-legend-txt");
+//        LG.append("text")
+//            .text(function (d) {
+//                return d.typeName
+//            })
+//            .attr("x", 30)
+//            .attr("y", 15)
+//            .attr("class", "doc-type-legend-txt");
 
 
-        //add the circle size legend box
-        LDocumentSizeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 220) + ")");
+//        //add the circle size legend box
+//        LDocumentSizeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 220) + ")");
 
-        LDocumentSizeLegendsCntnr.append("rect")
-            .attr("height", 160)
-            .attr("width", 119)
-            .attr("fill", "none")
-            .attr("stroke", "#6B6B6B");
+//        LDocumentSizeLegendsCntnr.append("rect")
+//            .attr("height", 160)
+//            .attr("width", 119)
+//            .attr("fill", "none")
+//            .attr("stroke", "#6B6B6B");
 
-        LDocumentSizeLegendsCntnr.append("text")
-            .attr("x", 10)
-            .attr("y", 22)
-            .attr("class", "legend-doc-type-title")
-            .text("Legend");
+//        LDocumentSizeLegendsCntnr.append("text")
+//            .attr("x", 10)
+//            .attr("y", 22)
+//            .attr("class", "legend-doc-type-title")
+//            .text("Legend");
 
-        var LDocSizeLegends = LDocumentSizeLegendsCntnr.selectAll(".doc-size-legend-group").data(G_DOCUMENT_CIRCLE_LEGENDS);
-        var LTop = 30;
-        var LSizeG = LDocSizeLegends.enter().append("g")
-            .attr("class", "doc-size-legend-group")
-            .attr("transform", function (d, i) {
-                var LPrevTop = LTop;
-                LTop = LTop + d.documentBubbleRadius + 20;
-                return "translate(0," + (LPrevTop) + ")";
-            });
+//        var LDocSizeLegends = LDocumentSizeLegendsCntnr.selectAll(".doc-size-legend-group").data(G_DOCUMENT_CIRCLE_LEGENDS);
+//        var LTop = 30;
+//        var LSizeG = LDocSizeLegends.enter().append("g")
+//            .attr("class", "doc-size-legend-group")
+//            .attr("transform", function (d, i) {
+//                var LPrevTop = LTop;
+//                LTop = LTop + d.documentBubbleRadius + 20;
+//                return "translate(0," + (LPrevTop) + ")";
+//            });
 
-        LSizeG.append("circle")
-        //            .attr("cx", function(d){ return d.documentBubbleRadius + 5; })
-            .attr("cx", function (d) { return 30; })
-            .attr("cy", function (d) { return d.documentBubbleRadius + 5; })
-            .attr("r", function (d) { return d.documentBubbleRadius; })
-            .attr("class", "doc-size-legend-circle");
+//        LSizeG.append("circle")
+//        //            .attr("cx", function(d){ return d.documentBubbleRadius + 5; })
+//            .attr("cx", function (d) { return 30; })
+//            .attr("cy", function (d) { return d.documentBubbleRadius + 5; })
+//            .attr("r", function (d) { return d.documentBubbleRadius; })
+//            .attr("class", "doc-size-legend-circle");
 
-        LSizeG.append("text")
-            .text(function (d) {
-                if (!d.max) {
-                    return d.min + "+";
-                }
-                return d.min + " - " + d.max;
-            })
-            .attr("x", 55)
-            .attr("y", function (d) { return d.documentBubbleRadius + 7; })
-            .attr("class", "doc-size-legend-txt");
-    };
+//        LSizeG.append("text")
+//            .text(function (d) {
+//                if (!d.max) {
+//                    return d.min + "+";
+//                }
+//                return d.min + " - " + d.max;
+//            })
+//            .attr("x", 55)
+//            .attr("y", function (d) { return d.documentBubbleRadius + 7; })
+//            .attr("class", "doc-size-legend-txt");
+//    };
 
     //---------------------------------------------------------------
     LMe.displayDocumentDetails = function (p_DocumentDetails) {

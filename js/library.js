@@ -31,6 +31,7 @@ function getDocumentAssociationMatrixData(fn) {
 
 //---------------------------------------------------------------
 function isDocTypeSelected(p_docTypeCode) {
+   
     for (var LLoopIndex = 0; LLoopIndex < G_DOCUMENT_TYPE.length; LLoopIndex++) {
         var LItem = G_DOCUMENT_TYPE[LLoopIndex];
         if (LItem.typeCode == p_docTypeCode && LItem.isSelected === true) {
@@ -42,6 +43,7 @@ function isDocTypeSelected(p_docTypeCode) {
 
 //---------------------------------------------------------------
 function getDocumentTypeTitle(p_docTypeCode) {
+   
     for (var LLoopIndex = 0; LLoopIndex < G_DOCUMENT_TYPE.length; LLoopIndex++) {
         var LItem = G_DOCUMENT_TYPE[LLoopIndex];
         if (LItem.typeCode == p_docTypeCode && LItem.isSelected === true) {
@@ -122,100 +124,6 @@ function checkForUndefined(Ent) {
     }
 }
 
-
-//test for association
-
-
-function checkAssocaition(event_ID) {
-    
-    var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
-            LScatterChartData,
-            LCompeleteChartData,
-            LMoreLikeThisforbubble,
-             MoreLikeTisDocBubble = [],
-        LPrevYVal = 0;
-
-    var dateparse = d3.time.format("%Y-%m-%dT%H:%M:%SZ");
-    LMoreLikeThisforbubble = LMTest.moreLikeThis;
-
-
-    var j = "czs9ix/node/" + event_ID;
-    for (var i in LMoreLikeThisforbubble) {
-        if (i == j) {
-            var iop = LMoreLikeThisforbubble[i].docs;
-
-            for (var LLoopIndex = 0; LLoopIndex < iop.length; LLoopIndex++) {
-                //MoreLikeTisDocBubble.push(iop[LLoopIndex]);
-
-                var LDoc = iop[LLoopIndex],
-                            LDocumentName = LDoc.label,
-                            LDocumentTitle = LDoc.teaser,
-                            LDocumentDate = dateparse.parse(LDoc.publicationDate),
-                            LSize = 5,
-                            LEntity_Id = LDoc.entity_id,
-                            LDocScore = LDoc.score;
-
-
-                var LDocumentCircleData = {
-
-                    Filename: LDocumentName,
-                    DatePublish: LDocumentDate,
-                    DocTitle: LDocumentTitle,
-                    DocLabel: LDocumentTitle,
-                    DocType: 1,
-                    index: 1,
-                    Size: LSize,
-                    Entity_Id: LEntity_Id,
-                    BubbleColor: 'grey',
-                    Score: LDocScore
-
-
-                };
-
-
-
-
-                //Add the frequency data to the date published
-                MoreLikeTisDocBubble.push(LDocumentCircleData);
-
-            }
-        }
-    }
-    var LUnorderedScatterChartData = MoreLikeTisDocBubble;
-    var LScatterChartData = [],
-                    LPrevYVal = 0;
-    for (var LLoopIndex = 0; LLoopIndex < LUnorderedScatterChartData.length; LLoopIndex++) {
-        var d = LUnorderedScatterChartData[LLoopIndex],
-                        LDocumentName = d.Filename,
-                        LObj = {};
-
-       
-
-        // bring in data from doc_data.json
-        LObj.id = LLoopIndex;
-        LObj.Filename = LDocumentName;
-        LObj.DatePublish = d.DatePublish;
-        LObj.DocType = d.DocType;
-        LObj.DocTitle = d.DocTitle;
-        LObj.keywords = [];
-        LObj.keywordOccurances = [];
-        
-        LObj.LSize = d.Size;
-        LObj.BubbleColor = d.BubbleColor;
-        LObj.Entity_Id = LEntity_Id;
-        LObj.Score = d.Score;
-        LScatterChartData.push(LObj);
-    }
-
-
-    return LScatterChartData;
-
-
-
-}
-
-
-
 //function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
 
 //  var AllDoc=  G_DATA_JSON.ResponceMoreLikeDoc;
@@ -257,20 +165,30 @@ function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
 
 
 function getDocumentAssociationData(entity_id, fn) {
-    $.ajax({
-        'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=true',
-        'data': { 'wt': 'json', 'q': 'your search goes here' },
-        'success': function (data) {
-            
-            var data = eval(data);
-            LoadjsonData(data)
-        },
-        'dataType': 'jsonp',
-        'jsonp': 'json.wrf'
-    });
-    function LoadjsonData(data) {
-       
-    }
+    
+  // use when get data from solr based on entity id
+//    $.ajax({
+
+//        //'url': 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=peace+entity_id:' + entity_id + '&fl=label,entity_id,score&mlt=true&mlt.fl=content&mlt.mindf=1&mlt.mintf=1&mlt.count=366&rows=1',
+//        'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=' + entity_id,
+//        'data': { 'entity_id': entity_id, 'q': 'your search goes here' },
+//        'success': function (data) {
+//            var data = eval(data);
+//            LoadjsonData(data)
+//        },
+//        'dataType': 'jsonp',
+//        'jsonp': 'json.wrf'
+//    });
+
+
+//    function LoadjsonData(data) {
+//       
+//        G_DATA_JSON.DOC_ASSOC_MATRIX_New = data.moreLikeThis["czs9ix/node/"+entity_id+""].docs;
+//        fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
+//    }
+
+
+    // for local use
     if (!G_DATA_JSON.DOC_ASSOC_MATRIX_New) {
 
         //The data is not loaded load the function
