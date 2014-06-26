@@ -146,8 +146,8 @@ function checkForUndefined(Ent) {
 
 
 
-function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
-   
+function getDissimilarityAssocBetwnDoc(p_doc1, count) {
+    
     //getDocumentAssociationData();
     //var AllDoc = G_DATA_JSON.ResponceMoreLikeDoc;
     //Get document index for both the items
@@ -157,10 +157,10 @@ function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
     //var LDocData = AllDoc["czs9ix/node/10192"].docs;
     var LDocData = G_DATA_JSON.DOC_ASSOC_MATRIX_New;
 
-    for (var LLoopIndex = 0; LLoopIndex < LDocData.length; LLoopIndex++) {
-        var LObj = LDocData[LLoopIndex];
+    //for (var LLoopIndex = 0; LLoopIndex < LDocData.length; LLoopIndex++) {
+    var LObj = LDocData[count];
             return LObj.score;
-    }
+    //}
 }
 
 

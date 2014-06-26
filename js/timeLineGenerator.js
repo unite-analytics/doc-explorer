@@ -16,14 +16,9 @@ d3.selection.prototype.moveToFront = function () {
 
 
 function clsTimeLineGenerator(p_Config) {
-
-
     var LMe = this;
-
     LMe.svgId = "";
-
     LMe.dateFormat = d3.time.format("%e-%b-%y");
-
     LMe.scaleDateDisplayFormat = d3.time.format("%b %Y");
 
     //Object to format Y axis to percentage
@@ -106,19 +101,7 @@ function clsTimeLineGenerator(p_Config) {
         LMe.drawGraphScales();
         LMe.drawKeywordFreqChartForKeyword('test');
         LMe.scatterChartTextGroup = LMe.scatterChartGroup.append("g");
-        /*LMe.scatterChartTextGroup.append("line")
-        .attr("x1", 0)
-        .attr("y1", 0)
-        .attr("x2", 0)
-        .attr("y2", 100)
-        .attr("class", "scatter-chart-line-1");
-
-        LMe.scatterChartTextGroup.append("line")
-        .attr("x1", 0)
-        .attr("y1", 100)
-        .attr("x2", 0)
-        .attr("y2", 150)
-        .attr("class", "scatter-chart-line-2");*/
+       
 
         var LY = LMe.height - LMe.timelineHeight - LMe.margin.top - LMe.margin.bottom - 150;
 
@@ -159,22 +142,6 @@ function clsTimeLineGenerator(p_Config) {
         LMe.prepareScatterChart();
 
         //LMe.drawLegends();
-
-        //prepare the slider
-        /*$( "#doc-assoc-slider" ).slider({
-        value:0.0,
-        min: 0.0,
-        max: 1.0,
-        step: 0.1,
-        slide: function( event, ui ) {
-        G_DOC_ASSOCIATION_THREASHOLD = ui.value;
-        $( "#doc-assoc-slider-value" ).html( ui.value );
-        LMe.onChangeAssociationsVisibleRange(ui.value);
-        }
-        });*/
-
-        // initialize date value
-
 
     };
 
@@ -356,6 +323,7 @@ function clsTimeLineGenerator(p_Config) {
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
+    //-----Load more like this doc
     LMe.LoadMoreLikethisDoc = function () {
 
         //var LUnorderedScatterChartData122 = G_DATA_JSON.DOC_DATA;
@@ -697,9 +665,9 @@ function clsTimeLineGenerator(p_Config) {
 
         var LCenterCircleData = LMe.focussedCircle;
         var DocEntity_ID = LCenterCircleData.Entity_Id;
-        
+
         getDocumentAssociationData(DocEntity_ID, function (fn) {
-           
+
             var LDocCol;
             var LCenterCircleData = LMe.focussedCircle,
                 LCenterCircle;
@@ -718,7 +686,8 @@ function clsTimeLineGenerator(p_Config) {
                 LAssociationDataArr = [],
                 LX1 = d3.select(LCenterCircle).attr("cx"),
                 LY1 = d3.select(LCenterCircle).attr("cy");
-
+            var count = 0;
+            
             //Travers all document circles and associate them with clicked circle
             LMe.ScatterPlotCircles.each(function (d) {
 
@@ -759,12 +728,12 @@ function clsTimeLineGenerator(p_Config) {
 
 
                 console.log(LCentralDocName + " vs " + d.Filename);
-
-                var LAssocValue = getDissimilarityAssocBetwnDoc(LCentralDocNameTest, d.Filename),
+               
+                var LAssocValue = getDissimilarityAssocBetwnDoc(LCentralDocNameTest, count),
 
                     LObj = {};
 
-
+                count = count + 1;
                 var LDispVal = "block",
                     LLinkVisible = true;
 
@@ -1056,16 +1025,19 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.generateAssociationViewForCentralCircle = function () {
 
-
-        getDocumentAssociationMatrixData(function (p_assocData) {
+       
+        var LCenterCircleData = LMe.focussedCircle;
+        var DocEntity_ID = LCenterCircleData.Entity_Id;
+        getDocumentAssociationData(DocEntity_ID, function (p_assocData) {
             //-------------------------------
-
+           
             var LAssociationViewData = [],
                 LLinks = [],
                 LIndex = 0,
                 LSourceIndex = 0,
                 LfoccusedDocData = LMe.focussedCircle,
-                LFocussedCircle;
+                LFocussedCircle,
+                LFocusedDocEntityID = LfoccusedDocData.Entity_Id;
 
             //var LForceHt = (LMe.timelineHeight + (LMe.height - LMe.timelineHeight)/2) * 2,
             var LForceHt = ((LMe.height - LMe.timelineHeight) / 2) * 2,
@@ -1124,20 +1096,8 @@ function clsTimeLineGenerator(p_Config) {
             for (var LLoopIndex = 0; LLoopIndex < LAssociationViewData.length; LLoopIndex++) {
                 var LDocCol,
                     LBubble = LAssociationViewData[LLoopIndex];
-                //Get column for the document
-                /*for(var LLoopIndex1 = 0; LLoopIndex1 < G_DATA_JSON.DOC_ASSOC_MATRIX.length; LLoopIndex1++)
-                {
-                var LColumn = G_DATA_JSON.DOC_ASSOC_MATRIX[LLoopIndex1];
-                if(LColumn[""] == LfoccusedDocData.Filename)
-                {
-                LDocCol = LColumn;
-                break;
-                }
-                }*/
-
-                //var LValue = LDocCol[LBubble.Filename];
-
-                var LValue = LAssocValue = getDissimilarityAssocBetwnDoc(LfoccusedDocData.Filename, LBubble.Filename);
+               
+                var LValue = LAssocValue = getDissimilarityAssocBetwnDoc(LFocusedDocEntityID, LLoopIndex);
                 LBubble.associationVal = LValue;
                 var LObj = { "source": LSourceIndex, "target": LLoopIndex, "value": LValue };
                 LLinks.push(LObj);
@@ -1279,36 +1239,6 @@ function clsTimeLineGenerator(p_Config) {
     };
 
     //---------------------------------------------------------------
-    LMe.addKeyWordToGraph = function (p_Keyword) {
-
-        //Draw the frequency data line for a keyword
-        LMe.drawKeywordFreqChartForKeyword(p_Keyword);
-
-        //add documents circle contaning the keyword
-        LMe.addDocumentCirclesForKeyword(p_Keyword);
-
-        LMe.keywordList.push(p_Keyword);
-        console.log(LMe.keywordList);
-
-        /*if(! LMe.focussedCircle)
-        {
-        //There is no centered circle
-        return;
-        }*/
-
-        //There is a centered circle
-        if (LMe.documentViewMode == "timeline_view") {
-            //Documents are in timeline view
-            //update the timeline view
-            LMe.generateTimeLineViewForCentralCircle();
-        }
-        else if (LMe.documentViewMode == "association_view") {
-            //Documents are in association view
-            LMe.generateAssociationViewForCentralCircle();
-        }
-    };
-
-    //---------------------------------------------------------------
     LMe.removeKeywordFromGraph = function (p_Keyword) {
         //Draw the frequency data line for a keyword
         //LMe.drawKeywordFreqChartForKeyword(p_Keyword);
@@ -1349,190 +1279,7 @@ function clsTimeLineGenerator(p_Config) {
             //Documents are in association view
             LMe.generateAssociationViewForCentralCircle();
         }
-    };
-
-    //---------------------------------------------------------------
-    LMe.addDocumentCirclesForKeyword = function (p_Keyword) {
-        //-----
-
-
-        var LDocsData = G_DATA_JSON.DOC_DATA,
-            LWordsTotalFreqData = G_DATA_JSON.WORD_TOTAL,
-            LWordsFreqPerDocData = G_DATA_JSON.WORD_FREQ_PER_DOC,
-        //new addded
-            LMTest = G_DATA_JSON.WORD_DOC_LOAD,
-            LScatterChartData,
-            LCompeleteChartData;
-
-
-        var dateparse = d3.time.format("%Y-%m-%dT%H:%M:%SZ");
-
-
-        var dataArrayTest = [];
-
-        for (var LLoopIndex = 0; LLoopIndex < LMTest.response.docs.length; LLoopIndex++) {
-            var LDoc = LMTest.response.docs[LLoopIndex],
-                    LDocumentName = LDoc.label,
-                    LDocumentTitle = LDoc.teaser,
-                    LDocumentDate = dateparse.parse(LDoc.publicationDate);
-
-
-            var LDocumentCircleData = {
-
-                Filename: LDocumentName,
-                DatePublish: LDocumentDate,
-                DocTitle: LDocumentTitle,
-                DocType: LDocumentType
-
-            };
-
-            //Add the frequency data to the date published
-
-
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        function L_GetYValueForDocumentFromCompleteChartData(p_Filename) {
-            for (var LLoopIndex = 0; LLoopIndex < LCompeleteChartData.length; LLoopIndex++) {
-                var LObj = LCompeleteChartData[LLoopIndex];
-                if (LObj.Filename == p_Filename) {
-                    return LObj.__y;
-                }
-            }
-        }
-
-        function L_GetDataForGeneratingCircles() {
-            var LResult = [];
-
-            function L_L_GetDocumentIndexFromVisibleCircles(p_DocumentName) {
-                var LResult = -1;
-                for (var LLoopIndex1 = 0; LLoopIndex1 < LScatterChartData.length; LLoopIndex1++) {
-                    var LDocData = LScatterChartData[LLoopIndex1],
-                        LDocumentName = LDocData.Filename;
-
-                    //LDocumentName = LDocumentName.replace(/\//g, '_');
-                    //LDocumentName = '[' + (LLoopIndex + 1) + ']_' + LDocumentName + '.txt';
-
-                    if (LDocumentName == p_DocumentName) {
-                        return LLoopIndex1;
-                    }
-                }
-                return LResult;
-            }
-
-            //Traverse all documents to get data for a keyword per doc
-            var LPrevYVal = 0;
-            for (var LLoopIndex = 0; LLoopIndex < LDocsData.length; LLoopIndex++) {
-                var LDoc = LDocsData[LLoopIndex],
-                    LDocumentName = LDoc.Filename,
-                    LDocumentTitle = LDoc.DocTitle,
-                    LDocumentDate = LDoc.DatePublish,
-                    LDocumentType = LDoc.DocType;
-
-
-                if (!LWordsFreqPerDocData[LDocumentName]) {
-                    //Data was not found
-                    alert('This alert is the result of the inconsitant data.');
-                    continue;
-                }
-
-                //Generate proper document name
-                /*LDocumentName = LDocumentName.replace(/\//g, '_');
-                LDocumentName = */
-                /*'[' + (LLoopIndex + 1) + ']_' +*//* LDocumentName + '.txt';*/
-
-                //Get keyword occurances for this document
-                //Get index of the keyword
-                var LKeywordIndex = libGetIndexOfWord(LWordsFreqPerDocData.FIELD1, p_Keyword),
-                //Get keyword Occurances
-                    LKeywordOccurance = LWordsFreqPerDocData[LDocumentName][LKeywordIndex];
-
-                if (LKeywordIndex < 0) {
-                    continue;
-                }
-
-                if (LKeywordOccurance < 1) {
-                    //The keyword is not present in the current document.
-                    continue;
-                }
-
-                //check if the circle is already visible
-                var LFrequencyDataIndex = L_L_GetDocumentIndexFromVisibleCircles(LDocumentName);
-                if (LFrequencyDataIndex == -1) {
-                    //Get Y co-ordinate for the document
-                    var LHeightRange = LMe.height - LMe.timelineHeight - LMe.margin.bottom - LMe.margin.top - 30;
-                    var LY = Math.floor((Math.random() * (LHeightRange)) + 1);
-                    if (LY < (50)) {
-                        LY = 50;
-                    }
-
-                    if ((LY < (LPrevYVal + 30)) && (LY > (LPrevYVal - 30))) {
-                        //The previous circle and this circle might overlap
-                        LY = LY + 100;
-
-                        if (LHeightRange < LY) {
-                            LY = LY - 100;
-                        }
-
-                    }
-
-                    LPrevYVal = LY;
-
-                    if (LCompeleteChartData) {
-                        LY = L_GetYValueForDocumentFromCompleteChartData(LDocumentName);
-                    }
-                    //document was not found
-                    var LDocumentCircleData = {
-                        id: LLoopIndex,
-                        Filename: LDocumentName,
-                        DatePublish: LDocumentDate,
-                        DocTitle: LDocumentTitle,
-                        DocType: LDocumentType,
-                        keywords: [],
-                        keywordOccurances: [],
-                        __y: LY
-                    };
-
-                    LDocumentCircleData.keywords.push(p_Keyword);
-                    LDocumentCircleData.keywordOccurances.push(LKeywordOccurance);
-                    LScatterChartData.push(LDocumentCircleData);
-                }
-                else {
-                    //Document was found
-                    var LDocumentCircleData = LScatterChartData[LFrequencyDataIndex];
-                    LDocumentCircleData.keywords.push(p_Keyword);
-                    LDocumentCircleData.keywordOccurances.push(LKeywordOccurance);
-                }
-            }
-        }
-        //-----
-
-        LScatterChartData = LMe.ScatterPlotCircles.data();
-        if (LMe.keywordList.length == 0) {
-            LCompeleteChartData = LScatterChartData;
-            LScatterChartData = [];
-        }
-
-        L_GetDataForGeneratingCircles();
-        LMe.addScatterChartCircle(LScatterChartData); // used to be LMe.addScatterChartCircle(LScatterChartData);
-        //LMe.frequencyChartLinesData[p_Keyword] = LLineData;
-        //LMe.updateKeywordFrequencyLines();
-    };
+    }; 
 
     //---------------------------------------------------------------
     LMe.removeDocumentCirclesForKeyword = function (p_Keyword) {
@@ -1570,10 +1317,8 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.drawKeywordFreqChartForKeyword = function (p_Keyword) {
-        //-----de
 
         function L_GetDataForGeneratingLine() {
-
 
             var LDocsData = G_DATA_JSON.DOC_DATA,
                 LWordsTotalFreqData = G_DATA_JSON.WORD_TOTAL,
@@ -1618,78 +1363,7 @@ function clsTimeLineGenerator(p_Config) {
                 dataArrayTest.push(LFreqDataTest);
 
             }
-
             return dataArrayTest;
-            //             
-            //            function L_L_GetFrequencyDataIndexOnDate(p_Date) {
-
-            //                var LResult = -1;
-            //                for (var LLoopIndex1 = 0; LLoopIndex1 < LResult.length; LLoopIndex1++) {
-            //                    var LDocData = LResult[LLoopIndex1];
-            //                    if (LDocData.datePublish == p_Date) {
-            //                        Result = LLoopIndex1;
-            //                        return LResult;
-            //                    }
-            //                }
-
-            //                return LResult;
-            //            }
-
-            //            //Traverse all documents to get data for a keyword per doc
-            //            for (var LLoopIndex = 0; LLoopIndex < LDocsData.length; LLoopIndex++) {
-            //                var LDoc = LDocsData[LLoopIndex],
-            //                    LDocumentName = LDoc.Filename,
-            //                    LDocumentDate = LDoc.DatePublish;
-
-            //                //Generate proper document name
-            //                /*LDocumentName = LDocumentName.replace(/\//g, '_');
-            //                LDocumentName = */
-            //                /*'[' + (LLoopIndex + 1) + ']_' +*//* LDocumentName + '.txt';*/
-
-            //                if (!LWordsFreqPerDocData[LDocumentName]) {
-            //                    //Data was not found
-            //                    alert('This alert is the result of the inconsitant data.');
-            //                    continue;
-            //                }
-
-            //                //Get keyword occurances for this document
-            //                //Get index of the keyword
-
-
-            //                var LKeywordIndex = libGetIndexOfWord(LWordsFreqPerDocData.FIELD1, p_Keyword),
-            //                //Get keyword Occurances
-            //                    LKeywordOccurance = LWordsFreqPerDocData[LDocumentName][LKeywordIndex];
-
-            //                //Consider the case where two documents are created on the same date
-            //                //and the keyword exists in both
-            //                var LFrequencyDataIndex = L_L_GetFrequencyDataIndexOnDate(LDocumentDate);
-            //                if (LFrequencyDataIndex == -1) {
-            //                    //Get total occurances
-            //                    var LKeywordTotalOccuranceIndex = libGetIndexOfWord(LWordsTotalFreqData.FIELD1, p_Keyword),
-            //                        LKeywordTotalOccurance = LWordsTotalFreqData.total[LKeywordTotalOccuranceIndex];
-
-            //                    //Any entry on the same date does not exist
-            //                    //Create a new entry and add to the data
-            //                    var LFreqData = {
-            //                        keywordOccurance: LKeywordOccurance,
-            //                        datePublish: LDocumentDate,
-            //                        keywordTotalOccurance: LKeywordTotalOccurance,
-            //                        keyword: p_Keyword,
-            //                        noOfDocsOnThatDay: 1
-            //                    };
-            //                     
-            //                    //Add the frequency data to the date published
-            //                    LResult.push(LFreqData);
-            //                }
-            //                else {
-            //                    //The entry already exists
-            //                    var LFreqData = Result[LFrequencyDataIndex];
-            //                    LFreqData.keywordOccurance += LKeywordOccurance;
-            //                    LFreqData.noOfDocsOnThatDay++;
-            //                }
-            //            }
-
-            //            return LResult;
         }
 
 
@@ -3054,59 +2728,6 @@ function clsTimeLineGenerator(p_Config) {
 				'<a href= ' + p_DocumentDetails.DocumentURL + ' target="_blank">' +
 				p_DocumentDetails.DocumentURL +
 				"</a>");
-
-        //Get top 5 keywords from the document
-        //        var LWordPerDoc = G_DATA_JSON.WORD_FREQ_PER_DOC,
-        //            LDocOccuranceArr = LWordPerDoc[p_DocumentDetails.Filename],
-        //            LDocKeywordArr = LWordPerDoc.FIELD1,
-        //            LSortedArray,
-        //            LKeywordIndexArray = [];
-        //        LSortedArray = LDocOccuranceArr.slice(0);
-        //        LSortedArray.sort(function (a, b) { return b - a });
-
-        //        for (var LLoopIndex = 0; LLoopIndex < 5; LLoopIndex++) {
-        //            var LVal = LSortedArray[LLoopIndex];
-        //            for (var LLoopIndex1 = 0; LLoopIndex1 < LDocOccuranceArr.length; LLoopIndex1++) {
-        //                var ArrayEl = LDocOccuranceArr[LLoopIndex1];
-        //                if (ArrayEl == LVal) {
-        //                    var LFound = false;
-        //                    //check if the index already exists in the keyword array
-        //                    for (var LLoopIndex2 = 0; LLoopIndex2 < LKeywordIndexArray.length; LLoopIndex2++) {
-        //                        var LKeywordIndex = LKeywordIndexArray[LLoopIndex2];
-        //                        if (LKeywordIndex == LLoopIndex1) {
-        //                            LFound = true;
-        //                            break;
-        //                        }
-        //                    }
-
-        //                    if (!LFound) {
-        //                        LKeywordIndexArray.push(LLoopIndex1);
-        //                    }
-        //                }
-        //            }
-        //        }
-
-        //Get comma seperated keywords
-        //        var LKeyowrdsStr = '';
-        //        for (var LLoopIndex = 0; LLoopIndex < 5; LLoopIndex++) {
-        //            var LWordIndex = LKeywordIndexArray[LLoopIndex];
-        //            LKeyowrdsStr += LDocKeywordArr[LWordIndex];
-
-        //            if (LLoopIndex < LKeywordIndexArray.length - 1) {
-        //                LKeyowrdsStr += ', ';
-        //            }
-        //        }
-
-        //display top 5 keyword
-        //d3.select("#top-keywords").text(LKeyowrdsStr);
-
-        //load and display the text document
-        //        d3.select("#doc-content").text("Loading..");
-
-        //        var LURL = "data/txt/" + p_DocumentDetails.Filename;
-        //        d3.text(LURL, function (p_content) {
-        //            d3.select("#doc-content").text(p_content);
-        //        });
     }
 
     //---------------------------------------------------------------
