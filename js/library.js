@@ -16,7 +16,7 @@ function libGetIndexOfWord(p_Array, p_Word) {
 
 //---------------------------------------------------------------
 function getDocumentAssociationMatrixData(fn) {
-    debugger;
+  
     if (!G_DATA_JSON.DOC_ASSOC_MATRIX) {
         //The data is not loaded load the function
         d3.csv("data/docAssocMatrix_SIMILARITY.csv", function (p_data) {
@@ -261,7 +261,7 @@ function getDocumentAssociationData(entity_id, fn) {
         'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=true',
         'data': { 'wt': 'json', 'q': 'your search goes here' },
         'success': function (data) {
-           
+            
             var data = eval(data);
             LoadjsonData(data)
         },
