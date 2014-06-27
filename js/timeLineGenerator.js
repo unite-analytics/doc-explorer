@@ -176,7 +176,7 @@ function clsTimeLineGenerator(p_Config) {
                     LDocument_Subject = LDoc.sm_vid_Document_Subject,
                     LDocumentURL = LDoc.url,
                     LDocScore = LDoc.score,
-                    LDocTermFreq = LDoc["tf(content,'" + SearchWord + "')"],
+                    LDocTermFreq = LDoc["termfreq(content,'" + SearchWord + "')"],
                     LDOCTF = LDoc["tf(content,'" + SearchWord + "')"];
             //LDocumentkeywordOccurances = LDoc.tf(content, 'peace');
 
@@ -790,7 +790,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.documentBubbleHover = function (d) {
-
+     
         console.log(d);
         var LHTML = '';
 
@@ -802,7 +802,7 @@ function clsTimeLineGenerator(p_Config) {
             d.DocumentType[0] +
             '</div>';
 
-          
+
         //Get comma seperated keywords
 
         if (d.Document_Subject != undefined) {
@@ -817,8 +817,8 @@ function clsTimeLineGenerator(p_Config) {
 
             LHTML += '<div class="doc-date"></br>' + LKeyowrdsStr + '</div>';
         }
-//        LHTML += '<div class="TF"></br>' + d.TF + '</div>';
-//        LHTML += '<div class="TTF"></br>' + d.TTF + '</div>';
+        //        LHTML += '<div class="TF"></br>' + d.TF + '</div>';
+        //        LHTML += '<div class="TTF"></br>' + d.TTF + '</div>';
 
         LHTML += '  <div id="textbox"><p class="alignleft">' + d.TF + '</p><p class="alignright">' + d.TTF + '</p></div>';
 
@@ -1320,11 +1320,7 @@ function clsTimeLineGenerator(p_Config) {
 
         function L_GetDataForGeneratingLine() {
 
-            var LDocsData = G_DATA_JSON.DOC_DATA,
-                LWordsTotalFreqData = G_DATA_JSON.WORD_TOTAL,
-                LWordsFreqPerDocData = G_DATA_JSON.WORD_FREQ_PER_DOC,
-
-                LMTest = G_DATA_JSON.WORD_DOC_LOAD,
+              var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
                 LResult = [];
 
 
@@ -1474,100 +1470,6 @@ function clsTimeLineGenerator(p_Config) {
                 });
                 return LMe.line(d)
             });
-    };
-
-    //---------------------------------------------------------------
-    LMe.drawTimelineForWords = function (p_WordArr) {
-        var LDocumentsArr, //Document arry in which the words exists
-            LOcurrances, //Occurrance of each word in documents
-            LChartData = [];
-
-        /*d3.select("#" + LMe.svgId).selectAll('*').remove();
-
-        var LTimeLineX = 0,
-        LTimeLineY = LMe.height - LMe.timelineHeight;
-        //This group will contain the graph
-        LMe.timelineGroup = d3.select("#" + LMe.svgId)
-        .append('g')
-        .attr("transform", "translate(" + LTimeLineX + "," + LTimeLineY + ")"); */
-
-        for (var LLoopIndex1 = 0; LLoopIndex1 < p_WordArr.length; LLoopIndex1++) {
-            //Draw the chart for each word
-            var LDocuments = [],
-                LKeyWord = p_WordArr[LLoopIndex1],
-                LKeywordIndex = -1,
-                LKeywordData = {
-                    "keyword": "",
-                    "data": []
-                };
-
-
-            LKeywordIndex = libGetIndexOfWord(G_DATA_JSON.WORD_FREQ_PER_DOC.FIELD1, LKeyWord);
-            if (LKeywordIndex < 0) {
-                //The keyword has no record in the present document
-                //alert('The keyword is not present');
-                return;
-            }
-
-            LKeywordData["keyword"] = LKeyWord;
-
-            //document keyword is present
-            //costruct arry of document in which it is present
-            for (var LDocumentName in G_DATA_JSON.WORD_FREQ_PER_DOC) {
-                if (LDocumentName == "FIELD1") {
-                    continue;
-                }
-
-                var LKeywordOccuranceArr = G_DATA_JSON.WORD_FREQ_PER_DOC[LDocumentName],
-                    LNoOfOccurrances,
-                    LDate,
-                    LDocumentOccuranceData = {
-                        documentName: "",
-                        keywordOccurance: 0,
-                        datePublish: ""
-                    };
-
-                LDocumentOccuranceData.documentName = LDocumentName;
-                var LFound = false;
-                if ((LKeywordOccuranceArr[LKeywordIndex] > 0) || (LKeywordOccuranceArr[LKeywordIndex] != "0")) {
-                    //Keyword has occurance
-                    LDocumentOccuranceData.keywordOccurance = LNoOfOccurrances = LKeywordOccuranceArr[LKeywordIndex];
-                    for (var LLoopIndex2 = 0; LLoopIndex2 < G_DATA_JSON.DOC_DATA.length; LLoopIndex2++) {
-                        var LDocData = G_DATA_JSON.DOC_DATA[LLoopIndex2],
-                            LDocName = LDocData.Filename;
-                        /*LDocName = LDocData.Filename.replace(/\//g, '_');
-                        LDocName = */
-                        /*'[' + (LLoopIndex2 + 1) + ']_' +*//* LDocName + '.txt';*/
-                        if (LDocName == LDocumentName) {
-                            LDate = LDocData.DatePublish;
-                            LDocumentOccuranceData.datePublish = LDate;
-                            LFound = true;
-                            break;
-                        }
-                    }
-                }
-                if (LFound) {
-                    LKeywordData.data.push(LDocumentOccuranceData);
-                }
-            }
-
-            LChartData.push(LKeywordData);
-        }
-
-        d3.select("#" + LMe.svgId).selectAll('*').remove();
-
-        var LTimeLineX = 0,
-            LTimeLineY = LMe.height - LMe.timelineHeight;
-        //This group will contain the graph
-        LMe.timelineGroup = d3.select("#" + LMe.svgId)
-            .append('g')
-            .attr("transform", "translate(" + LTimeLineX + "," + LTimeLineY + ")");
-
-        //We have all the required data to generate the graph
-        //draw graph
-        LMe.drawGraph(LChartData);
-
-        LMe.drawDocumentScatterChart(LChartData);
     };
 
     //---------------------------------------------------------------
