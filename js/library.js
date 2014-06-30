@@ -169,8 +169,8 @@ function getDocumentAssociationData(entity_id, fn) {
   // use when get data from solr based on entity id
 //    $.ajax({
 
-//        //'url': 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=peace+entity_id:' + entity_id + '&fl=label,entity_id,score&mlt=true&mlt.fl=content&mlt.mindf=1&mlt.mintf=1&mlt.count=366&rows=1',
-//        'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=' + entity_id,
+//        'url': 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=peace+entity_id:' + entity_id + '&fl=label,entity_id,score&mlt=true&mlt.fl=content&mlt.mindf=1&mlt.mintf=1&mlt.count=366&rows=1',
+//        //'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=' + entity_id,
 //        'data': { 'entity_id': entity_id, 'q': 'your search goes here' },
 //        'success': function (data) {
 //            var data = eval(data);
@@ -188,6 +188,7 @@ function getDocumentAssociationData(entity_id, fn) {
 //    }
 
 
+
     // for local use
     if (!G_DATA_JSON.DOC_ASSOC_MATRIX_New) {
 
@@ -201,6 +202,38 @@ function getDocumentAssociationData(entity_id, fn) {
     else {
         fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
     }
+}
+
+
+function LoadJsonData(search_word, fn) {
+    //data for slor search
+//        $.ajax({
+
+//                'url': 'http://int-srch.un.org:8983/solr/acabq/un_search/?q='+search_word+'&fl=label,entity_id,url,teaser,publicationDate,score,sm_field_document_type,sm_vid_Document_Subject,termfreq%28content,%27'+search_word+'%27%29,tf%28content,%27'+search_word+'%27%29,ttf%28content,%27'+search_word+'%27%29&facet=true&facet.date=publicationDate&facet.date.start=NOW/DAY-40YEARS&facet.date.end=NOW/DAY%2B1DAY&facet.date.gap=%2B1DAY&rows=366',
+//            'data': { 'entity_id': 'entity_id', 'q': 'your search goes here' },
+//            'success': function (data) {
+//                var data = eval(data);
+//                LoadData(data)
+//            },
+//            'dataType': 'jsonp',
+//            'jsonp': 'json.wrf'
+//        });
+
+//            function LoadData(data) {
+
+//                G_DATA_JSON.WORD_DOC_LOAD = p_data;
+//                //LMe.DateValue();
+//                fn(G_DATA_JSON.WORD_DOC_LOAD);
+           // }
+
+           
+    d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
+
+        G_DATA_JSON.WORD_DOC_LOAD = p_data;
+        //LMe.DateValue();
+        //G_DATA_JSON.DOCAssoc = 1;
+        fn(G_DATA_JSON.WORD_DOC_LOAD);
+    });
 }
 
 

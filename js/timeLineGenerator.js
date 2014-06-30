@@ -95,13 +95,13 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.initializeTimeLine = function () {
-
-        LMe.DateValue();
+        
+        //LMe.DateValue();
         //Draw the scales
         LMe.drawGraphScales();
-        LMe.drawKeywordFreqChartForKeyword('test');
+        //LMe.drawKeywordFreqChartForKeyword('test');
         LMe.scatterChartTextGroup = LMe.scatterChartGroup.append("g");
-       
+
 
         var LY = LMe.height - LMe.timelineHeight - LMe.margin.top - LMe.margin.bottom - 150;
 
@@ -139,10 +139,13 @@ function clsTimeLineGenerator(p_Config) {
         LMe.brushg = brushg;
 
         //Prepare data to display document details
-        LMe.prepareScatterChart();
+        //LMe.prepareScatterChart();
 
         //LMe.drawLegends();
 
+//        if (G_DATA_JSON.DOCAssoc != null) {
+//            //LMe.drawKeywordFreqChartForKeyword('test');
+//        }
     };
 
     //---------------------------------------------------------------
@@ -157,7 +160,7 @@ function clsTimeLineGenerator(p_Config) {
             LMoreLikeThis,
             SearchWord,
             LPrevYVal = 0;
-       
+
         var dateparse = d3.time.format("%Y-%m-%dT%H:%M:%SZ");
         LMoreLikeThis = LMJsonData.moreLikeThis;
         SearchWord = LMJsonData.responseHeader.params.q;
@@ -319,7 +322,7 @@ function clsTimeLineGenerator(p_Config) {
         //G_DATA_JSON.ResponceDoc = LScatterChartData;
 
         // LMe.LoadMoreLikethisDoc();
-
+       
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
@@ -403,16 +406,17 @@ function clsTimeLineGenerator(p_Config) {
         var responceDoc = G_DATA_JSON.ResponceDoc;
         var morelikethisdoc = LScatterChartData;
         var AllDoc = arrayUnique(responceDoc.concat(morelikethisdoc));
-        
+
         // var AllDoc = responceDoc.concat(morelikethisdoc);
         G_DATA_JSON.ResponceMoreLikeDoc = AllDoc;
+       
         LMe.addScatterChartCircle(AllDoc);
     }
 
     //---------------------------------------------------------------
     LMe.addScatterChartCircle = function (p_data) {
 
-
+       
         //Remove association lines if any
         LMe.removeAssociationLines();
         LMe.currentDataChart = p_data;
@@ -788,9 +792,48 @@ function clsTimeLineGenerator(p_Config) {
     
     };
 
+
+
+    //---------------------------------------------------------------
+    LMe.addKeyWordToGraph = function (p_Keyword) {
+
+        LoadJsonData(p_Keyword, function (p_assocData) {
+            
+            LMe.DateValue();
+            LMe.initializeTimeLine();
+            //Draw the frequency data line for a keyword
+            LMe.drawKeywordFreqChartForKeyword(p_Keyword);
+
+            //add documents circle contaning the keyword
+            //LMe.addDocumentCirclesForKeyword(p_Keyword);
+            LMe.prepareScatterChart();
+            LMe.keywordList.push(p_Keyword);
+            console.log(LMe.keywordList);
+
+            /*if(! LMe.focussedCircle)
+            {
+            //There is no centered circle
+            return;
+            }*/
+
+            //There is a centered circle
+            if (LMe.documentViewMode == "timeline_view") {
+                //Documents are in timeline view
+                //update the timeline view
+                LMe.generateTimeLineViewForCentralCircle();
+            }
+            else if (LMe.documentViewMode == "association_view") {
+                //Documents are in association view
+                LMe.generateAssociationViewForCentralCircle();
+            }
+        });
+    };
+
+
+
     //---------------------------------------------------------------
     LMe.documentBubbleHover = function (d) {
-     
+
         console.log(d);
         var LHTML = '';
 
@@ -836,6 +879,14 @@ function clsTimeLineGenerator(p_Config) {
             //tooltip is going out of screen
             LToolTipTop = LPageY;
         }
+       
+
+        if (LToolTipLeft < 0) {
+            LToolTipLeft = 30;
+        }
+        if (LToolTipLeft > 900) {
+            LToolTipLeft = 850;
+        }
         LMe.tooltip.style("top", LToolTipTop + "px")
             .style("left", LToolTipLeft + "px");
 
@@ -876,7 +927,7 @@ function clsTimeLineGenerator(p_Config) {
                     //The visualization is in timeline view
                     //Remove all the associations
                     //LMe.removeAssociationLines();
-
+                  
                     LMe.addScatterChartCircle(LMe.currentDataChart);
 
                     //LMe.onBubbleChnage(d.Entity_Id);
@@ -916,10 +967,12 @@ function clsTimeLineGenerator(p_Config) {
     LMe.generateTimeLineViewForCentralCircle = function (p_recomputedata) {
 
         if (p_recomputedata == true) {
+           
             //compute the data and also draw the chart again
             LMe.prepareScatterChart();
         }
         else {
+           
             //Redraw the data with current data
             LMe.addScatterChartCircle(LMe.currentDataChart);
         }
@@ -1241,12 +1294,15 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.removeKeywordFromGraph = function (p_Keyword) {
         //Draw the frequency data line for a keyword
+
+        G_DATA_JSON.WORD_DOC_LOAD = null;
         //LMe.drawKeywordFreqChartForKeyword(p_Keyword);
-
-
+       
+        //LMe.initializeTimeLine();
         delete LMe.frequencyChartLinesData[p_Keyword];
+        //LMe.frequencyChartLinesData= null;
         LMe.updateKeywordFrequencyLines();
-
+      
         //add documents circle contaning the keyword
         LMe.removeDocumentCirclesForKeyword(p_Keyword);
 
@@ -1259,7 +1315,8 @@ function clsTimeLineGenerator(p_Config) {
             if (LMe.documentViewMode == "association_view") {
                 LMe.switchViewToTimelineView();
             }
-            LMe.prepareScatterChart();
+
+            //LMe.prepareScatterChart();
             return;
         }
         if (!LMe.focussedCircle) {
@@ -1294,7 +1351,7 @@ function clsTimeLineGenerator(p_Config) {
         for (var LLoopIndex = 0; LLoopIndex < LScatterChartData.length; LLoopIndex++) {
             var d = LScatterChartData[LLoopIndex],
                 LIndexOfKeyword = libGetIndexOfWord(d.keywords, p_Keyword);
-            if (LIndexOfKeyword == -1) {
+            if (LIndexOfKeyword != -1) {
                 //Keyword did not exist in the current document
                 continue;
             }
@@ -1311,16 +1368,16 @@ function clsTimeLineGenerator(p_Config) {
                 LLoopIndex--;
             }
         }
-
+       
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
     //---------------------------------------------------------------
     LMe.drawKeywordFreqChartForKeyword = function (p_Keyword) {
-
+       
         function L_GetDataForGeneratingLine() {
 
-              var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
+            var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
                 LResult = [];
 
 
@@ -1370,7 +1427,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.updateKeywordFrequencyLines = function () {
-
+       
         var LMin = 0,
             LMax = 0;
         //-----
@@ -1455,7 +1512,7 @@ function clsTimeLineGenerator(p_Config) {
 
                     //                    var LDate1 = LMe.dateFormat.parse(a.datePublish),
                     //                        LDate2 = LMe.dateFormat.parse(b.datePublish);
-
+                    
                     var LDate1 = a.datePublish,
                         LDate2 = b.datePublish;
                     if (LDate1 < LDate2) {
@@ -2128,7 +2185,7 @@ function clsTimeLineGenerator(p_Config) {
         var LCircle = d3.select(this);
         LCircle.style("display", "block");
         });*/
-
+        
         LMe.addScatterChartCircle(LMe.currentDataChart);
     };
 

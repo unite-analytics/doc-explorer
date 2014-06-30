@@ -1,4 +1,5 @@
-function clsWordListGenerator(p_Config){
+function clsWordListGenerator(p_Config) {
+  
     var LMe = this;
 
     LMe.divId = "";
@@ -8,10 +9,10 @@ function clsWordListGenerator(p_Config){
 
 
     //---------------------------------------------------------------
-    LMe.constructor = function(p_Config){
+    LMe.constructor = function (p_Config) {
+      
         //Assign the configuration attributes
-        for (p_Name in p_Config)
-        {
+        for (p_Name in p_Config) {
             var LValue = null;
             LValue = p_Config[p_Name];
             LMe[p_Name] = LValue;
@@ -23,9 +24,8 @@ function clsWordListGenerator(p_Config){
     };
 
     //---------------------------------------------------------------
-    LMe.displayKeywordsFromList = function(p_ClearAll){
-        if(p_ClearAll === true)
-        {
+    LMe.displayKeywordsFromList = function (p_ClearAll) {
+        if (p_ClearAll === true) {
             LMe.container.html('');
 
             var LI = LMe.container.append("li");
@@ -33,26 +33,26 @@ function clsWordListGenerator(p_Config){
             LMe.addNewKeywordEdt = LI.append('input')
                 .attr("class", "new-keyword-edt")
                 .attr("id", "addNewKeywordEdt")
-                .on("keypress", function(e){
+                .on("keypress", function (e) {
                     if (d3.event.keyCode == 13) {
                         LMe.addNewKeywordToList();
                     }
                 });
 
-            var autocomp = $("#addNewKeywordEdt").autocomplete({
-                source: G_DATA_JSON.WORD_FREQ_PER_DOC.FIELD1,
-                search: function( event, ui ) {
-                    //console.log('serach event');
+            //            var autocomp = $("#addNewKeywordEdt").autocomplete({
+            //                source: G_DATA_JSON.WORD_FREQ_PER_DOC.FIELD1,
+            //                search: function( event, ui ) {
+            //                    //console.log('serach event');
 
-                    /*setTimeout(function(){
-                        $( "#addNewKeywordEdt" ).autocomplete( "search", "x" );
-                    }, 500);*/
-                    //return false;
-                },
-                formatItem: function(item){
-                    return item.text;
-                }
-            });
+            //                    /*setTimeout(function(){
+            //                        $( "#addNewKeywordEdt" ).autocomplete( "search", "x" );
+            //                    }, 500);*/
+            //                    //return false;
+            //                },
+            //                formatItem: function(item){
+            //                    return item.text;
+            //                }
+            //            });
 
             LMe.addNewKeywordBtn = LI.append('div')
                 .attr("id", "addNewKeywordBtn")
@@ -61,23 +61,16 @@ function clsWordListGenerator(p_Config){
                 .on("click", LMe.addNewKeywordToList);
         }
 
-        for(var LLoopIndex=0; LLoopIndex < LMe.keywordList.length; LLoopIndex++)
-        {
+        for (var LLoopIndex = 0; LLoopIndex < LMe.keywordList.length; LLoopIndex++) {
             var Lkeyword = LMe.keywordList[LLoopIndex];
             LMe.addNewKeywordToVisualList(Lkeyword);
         }
     };
 
     //---------------------------------------------------------------
-    LMe.addNewKeywordToVisualList = function(p_keyword){
+    LMe.addNewKeywordToVisualList = function (p_keyword) {
+      
         var LI = LMe.container.append("li");
-
-        var LIndex = libGetIndexOfWord(G_DATA_JSON.WORD_TOTAL.FIELD1,p_keyword),
-            LTotalOccurances = 0;
-        if(LIndex > -1)
-        {
-            LTotalOccurances = G_DATA_JSON.WORD_TOTAL.total[LIndex];
-        }
 
         //Get total occurances of keyword
         var LKeyword = LI.append('div')
@@ -88,12 +81,12 @@ function clsWordListGenerator(p_Config){
             .on('click', LMe.HandleOnWordClick);
 
         LKeyword.append("span")
-            .text(p_keyword + " (" + LTotalOccurances + ")");
+            .text(p_keyword);
 
         LKeyword.append("span")
             .attr('class', 'rem-keyword')
             .text('x')
-            .on('click', function(){
+            .on('click', function () {
                 var index = LMe.keywordList.indexOf(p_keyword);    // <-- Not supported in <IE9
                 if (index !== -1) {
                     LMe.keywordList.splice(index, 1);
@@ -103,46 +96,55 @@ function clsWordListGenerator(p_Config){
             });
 
         /*LKeyword
-            .append('div')
-            .attr('class', 'rem-keyword')
-            .text('x')
+        .append('div')
+        .attr('class', 'rem-keyword')
+        .text('x')
 
-            .on('click', function(){
-                var index = LMe.keywordList.indexOf(p_keyword);    // <-- Not supported in <IE9
-                if (index !== -1) {
-                    LMe.keywordList.splice(index, 1);
-                }
-                LTD.remove();
+        .on('click', function(){
+        var index = LMe.keywordList.indexOf(p_keyword);    // <-- Not supported in <IE9
+        if (index !== -1) {
+        LMe.keywordList.splice(index, 1);
+        }
+        LTD.remove();
 
-                LMe.onRemoveKeyWord(p_keyword);
-            });*/
+        LMe.onRemoveKeyWord(p_keyword);
+        });*/
     };
 
     //---------------------------------------------------------------
-    LMe.addNewKeywordToList = function(){
+    LMe.addNewKeywordToList = function () {
+        var LTimeLineGenerator = new clsTimeLineGenerator(LConfig);
         var LNewKeyword = LMe.addNewKeywordEdt[0][0].value;
         LNewKeyword = LNewKeyword.trim();
 
-        if(LNewKeyword == "")
-        {
+        if (LNewKeyword == "") {
             alert('Please enter a keyword');
             return;
         }
-
+        if (keywordList.length > 0) {
+          
+            LTimeLineGenerator.drawKeywordFreqChartForKeyword('test');
+            
+            alert('Please remove previous search word.');
+            return;
+        }
         //Check if the keyword is already in the list
-        for(var LLoopIndex=0; LLoopIndex < LMe.keywordList.length; LLoopIndex++){
+        for (var LLoopIndex = 0; LLoopIndex < LMe.keywordList.length; LLoopIndex++) {
             var LKeyword = LMe.keywordList[LLoopIndex];
-            if(LNewKeyword.toUpperCase() == LKeyword.toUpperCase())
-            {
+            if (LNewKeyword.toUpperCase() == LKeyword.toUpperCase()) {
                 //The entered keyword already exists can not add it
                 alert('The keyword entered by you is already selected.');
                 return;
             }
+
         }
+
         LMe.keywordList.push(LNewKeyword);
         LMe.addNewKeywordToVisualList(LNewKeyword);
-        LMe.addNewKeywordEdt[0][0].value = '';
-        LMe.onAddKeyWord(LNewKeyword);
+        //LMe.addNewKeywordEdt[0][0].value = '';
+        if (keywordList.length > 0) {
+            LMe.onAddKeyWord(LNewKeyword);
+        }
     };
 
     //---------------------------------------------------------------

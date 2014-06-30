@@ -85,13 +85,27 @@ function bootstrap() {
         top: LTop + 'px',
         left: LLeft + 'px'
     });
-   
 
-    d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
-   
-     //The json has been loaded
-        G_DATA_JSON.WORD_DOC_LOAD = p_data;
 
+//    d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
+
+//        //The json has been loaded
+//        G_DATA_JSON.WORD_DOC_LOAD = p_data;
+
+        //create the word list
+    var LwordListConfig = {
+        divId: "word-list-cntnr-chrt",
+        onAddKeyWord: function (p_Keyword) {
+
+            LTimeLineGenerator.addKeyWordToGraph(p_Keyword);
+        },
+        onRemoveKeyWord: function (p_Keyword) {
+            LTimeLineGenerator.removeKeywordFromGraph(p_Keyword);
+        }
+    };
+        var LWordList = clsWordListGenerator(LwordListConfig);
+
+        //create the time line
         //The json has been loaded
         var Lw = $(".word-freq-chart").width();
         LConfig = {
@@ -106,9 +120,13 @@ function bootstrap() {
                 bottom: 20,
                 left: 15
             },
+            onDocumentBubbleClick: function (p_Document) {
+                //LDocumentClickTrailMgr.addDocumentClick(p_Document.documentName);
+                //LDocumentAssocChart.drawDocumentAssociationChart(LTimeLineGenerator.brush.extent(), p_Document);
+            }
         };
         var LTimeLineGenerator = new clsTimeLineGenerator(LConfig);
-        
-    });
+
+   // });
     //Prepare the word list
 }
