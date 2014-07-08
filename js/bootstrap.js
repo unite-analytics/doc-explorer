@@ -96,8 +96,15 @@ function bootstrap() {
     var LwordListConfig = {
         divId: "word-list-cntnr-chrt",
         onAddKeyWord: function (p_Keyword) {
-
+            d3.selectAll("line").remove();
+            d3.selectAll("circle").remove();
+            //d3.select("#wordFreqFhrtSvg").remove();
+            LTimeLineGenerator.clearLoadedDocument();
+            LTimeLineGenerator.hideSlider();
+            LTimeLineGenerator.documentViewMode = "timeline_view";
+            LTimeLineGenerator.focussedCircle = null;
             LTimeLineGenerator.addKeyWordToGraph(p_Keyword);
+
         },
         onRemoveKeyWord: function (p_Keyword) {
             LTimeLineGenerator.removeKeywordFromGraph(p_Keyword);

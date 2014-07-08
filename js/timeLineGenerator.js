@@ -137,15 +137,6 @@ function clsTimeLineGenerator(p_Config) {
 
         LMe.brush = brush;
         LMe.brushg = brushg;
-
-        //Prepare data to display document details
-        //LMe.prepareScatterChart();
-
-        //LMe.drawLegends();
-
-//        if (G_DATA_JSON.DOCAssoc != null) {
-//            //LMe.drawKeywordFreqChartForKeyword('test');
-//        }
     };
 
     //---------------------------------------------------------------
@@ -212,59 +203,6 @@ function clsTimeLineGenerator(p_Config) {
             ducumentID.push(ii);
         }
 
-        //        for (var LLoopIndex = 0; LLoopIndex < ducumentID.length; LLoopIndex++) {
-        //            var ii = ducumentID[LLoopIndex];
-        //            var node;
-        //            for (var i in LMoreLikeThis) {
-        //                var iop = LMoreLikeThis[i].docs;
-
-        //                for (var LLoopIndex = 0; LLoopIndex < iop.length; LLoopIndex++) {
-        //                    MoreLikeTisDoc.push(iop[LLoopIndex]);
-        //                }
-
-        //            }
-        //        }
-
-        //        for (var LLoopIndex = 0; LLoopIndex < MoreLikeTisDoc.length; LLoopIndex++) {
-        //            var LDoc = MoreLikeTisDoc[LLoopIndex],
-        //                                    LDocumentName = LDoc.label,
-        //                                    LDocumentTitle = LDoc.teaser,
-        //                                    LDocumentDate = dateparse.parse(LDoc.publicationDate),
-        //                                    LSize = LDoc["tf(content,'peace')"],
-        //                                    LEntity_Id = LDoc.entity_id,
-        //                                    LDocScore = LDoc.score,
-        //                                    LDocument_Subject = LDoc.sm_vid_Document_Subject,
-        //                                    LDocument_Type = LDoc.sm_field_document_type,
-        //                                    LDocumentURL = LDoc.url,
-        //                                     LDocTermFreq = LDoc["termfreq(content,'peace')"],
-        //                    LDOCTF = LDoc["tf(content,'peace')"];
-
-
-
-
-        //            var LDocumentCircleData = {
-
-        //                Filename: LDocumentName,
-        //                DatePublish: LDocumentDate,
-        //                DocTitle: LDocumentTitle,
-        //                DocLabel: LDocumentTitle,
-        //                DocType: 1,
-        //                index: 1,
-        //                Size: LSize,
-        //                Entity_Id: LEntity_Id,
-        //                BubbleColor: 'grey',
-        //                Score: LDocScore,
-        //                DocumentType: LDocument_Type,
-        //                Document_Subject: LDocument_Subject,
-        //                DocumentURL: LDocumentURL,
-        //                TF: LDOCTF,
-        //                TTF: LDocTermFreq
-        //            };
-
-        //            //Add the frequency data to the date published
-        //            G_DATA_JSON.MoreLikeThisDoc.push(LDocumentCircleData);
-
-        //        }
 
         var LUnorderedScatterChartData = docArrayofResponce;
         var LScatterChartData = [],
@@ -416,7 +354,7 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.addScatterChartCircle = function (p_data) {
 
-       
+
         //Remove association lines if any
         LMe.removeAssociationLines();
         LMe.currentDataChart = p_data;
@@ -623,7 +561,7 @@ function clsTimeLineGenerator(p_Config) {
         //var LTxt = LSortedDocumentData.length + " document results";
         var LTxt = "";
         LMe.scatterChartText.text(LTxt);
-
+       
         //Check if there is central document selected
         //LMe.generateTimeLineViewForCentralCircle()
         if (!LMe.focussedCircle) {
@@ -662,7 +600,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.timeLineViewDrawAssociationLines = function () {
-
+      
         //getDocumentAssociationData();
         //Central circle is present so draw time lines
         // getDocumentAssociationMatrixData123(function (p_assocData) {
@@ -691,7 +629,7 @@ function clsTimeLineGenerator(p_Config) {
                 LX1 = d3.select(LCenterCircle).attr("cx"),
                 LY1 = d3.select(LCenterCircle).attr("cy");
             var count = 0;
-            
+
             //Travers all document circles and associate them with clicked circle
             LMe.ScatterPlotCircles.each(function (d) {
 
@@ -732,7 +670,7 @@ function clsTimeLineGenerator(p_Config) {
 
 
                 console.log(LCentralDocName + " vs " + d.Filename);
-               
+                
                 var LAssocValue = getDissimilarityAssocBetwnDoc(LCentralDocNameTest, count),
 
                     LObj = {};
@@ -798,7 +736,6 @@ function clsTimeLineGenerator(p_Config) {
     LMe.addKeyWordToGraph = function (p_Keyword) {
 
         LoadJsonData(p_Keyword, function (p_assocData) {
-            
             LMe.DateValue();
             LMe.initializeTimeLine();
             //Draw the frequency data line for a keyword
@@ -810,22 +747,26 @@ function clsTimeLineGenerator(p_Config) {
             LMe.keywordList.push(p_Keyword);
             console.log(LMe.keywordList);
 
+            LMe.switchViewToTimelineView();
+            //LMe.addScatterChartCircle(p_Keyword);
+            //LMe.generateTimeLineViewForCentralCircle();
             /*if(! LMe.focussedCircle)
             {
             //There is no centered circle
             return;
             }*/
-
-            //There is a centered circle
-            if (LMe.documentViewMode == "timeline_view") {
-                //Documents are in timeline view
-                //update the timeline view
-                LMe.generateTimeLineViewForCentralCircle();
-            }
-            else if (LMe.documentViewMode == "association_view") {
-                //Documents are in association view
-                LMe.generateAssociationViewForCentralCircle();
-            }
+            //            debugger;
+            //            LMe.documentViewMode == "timeline_view";
+            //            //There is a centered circle
+            //            if (LMe.documentViewMode == "timeline_view") {
+            //                //Documents are in timeline view
+            //                //update the timeline view
+            //                LMe.generateTimeLineViewForCentralCircle();
+            //            }
+            //            else if (LMe.documentViewMode == "association_view") {
+            //                //Documents are in association view
+            //                LMe.generateAssociationViewForCentralCircle();
+            //            }
         });
     };
 
@@ -903,12 +844,6 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.documentBubbleClick = function (d) {
 
-
-        //        if (G_DATA_JSON.ResponceMoreLikeDoc.length == 0) {
-
-        //            LMe.LoadMoreLikethisDoc();
-        //        }
-
         var LSlider = d3.select(".doc-assoc-slider-cntnr");
 
         if (LMe.focussedCircle) {
@@ -922,12 +857,12 @@ function clsTimeLineGenerator(p_Config) {
 
                 //hide the slider
                 LMe.hideSlider();
-
+               
                 if (LMe.documentViewMode == "timeline_view") {
                     //The visualization is in timeline view
                     //Remove all the associations
                     //LMe.removeAssociationLines();
-                  
+
                     LMe.addScatterChartCircle(LMe.currentDataChart);
 
                     //LMe.onBubbleChnage(d.Entity_Id);
@@ -965,14 +900,14 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.generateTimeLineViewForCentralCircle = function (p_recomputedata) {
-
+        
         if (p_recomputedata == true) {
-           
+
             //compute the data and also draw the chart again
             LMe.prepareScatterChart();
         }
         else {
-           
+
             //Redraw the data with current data
             LMe.addScatterChartCircle(LMe.currentDataChart);
         }
@@ -2381,10 +2316,12 @@ function clsTimeLineGenerator(p_Config) {
                 var LButtonText = LBtnTxt.text();
                 if (LButtonText == "Association View") {
                     LBtnTxt.text("Timeline View");
+                   
                     LMe.switchViewToAssociationView();
                 }
                 else {
                     LBtnTxt.text("Association View");
+                  
                     LMe.switchViewToTimelineView();
                 }
             });
@@ -2437,7 +2374,7 @@ function clsTimeLineGenerator(p_Config) {
 
         var LPrevBrushExt = Lbrush.extent();
         function L_brushed() {
-         
+
             var value = Lbrush.extent()[0];
             var value1 = Lbrush.extent()[1];
 

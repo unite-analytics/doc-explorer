@@ -54,113 +54,18 @@ function getDocumentTypeTitle(p_docTypeCode) {
 
 //---------------------------------------------------------------
 
-//---------------------------------------------------------------
-//function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
-
-
-//    G_DATA_JSON.DOC_ASSOC_MATRIX;
-//    //Get document index for both the items
-//    var LDocData = G_DATA_JSON.DOC_DATA,
-//        Ldoc1Index = -1,
-//        Ldoc2Index = -1;
-
-//    for (var LLoopIndex = 0; LLoopIndex < LDocData.length; LLoopIndex++) {
-//        var LObj = LDocData[LLoopIndex];
-//        //        console.log(LLoopIndex);
-
-//        if (LObj.Filename == p_doc1) {
-//            //index for first doc
-//            try {
-//                Ldoc1Index = LObj.index;
-//            } catch (e) {
-//                console.log("There is a problem assigning the index of LObj:" + e.message);
-//            }
-//            //            console.log("hi");
-//        }
-
-//        if (LObj.Filename == p_doc2) {
-//            try {
-//                //Index for second doc
-//                Ldoc2Index = LObj.index;
-//            } catch (e) {
-//                console.log("There is a problem assigning the index of LObj:" + e.message);
-//            }
-//            //            console.log("bye");
-//        }
-//        if ((Ldoc1Index > -1) && (Ldoc2Index > -1)) {
-//            //both indexes are found
-//            break;
-//        }
-//    }
-
-//    var LRowNo = Ldoc1Index,
-//        LColNo = Ldoc2Index,
-//        LSimillarityAssoc;
-
-//    if (checkForUndefined(LRowNo) || checkForUndefined(LColNo)) {
-//        console.log("The index for left and right document is undefined - no set");
-//        return 0;
-//    }
-//    else {
-//        if (Ldoc1Index < Ldoc2Index) {
-//            LRowNo = Ldoc2Index;
-//            LColNo = Ldoc1Index;
-//        }
-
-//        LRowNo = LRowNo - 2;
-//        LSimillarityAssoc = G_DATA_JSON.DOC_ASSOC_MATRIX[LRowNo][LColNo];
-//        //    console.log(G_DATA_JSON.DOC_ASSOC_MATRIX);
-//        //    console.log(LSimillarityAssoc);
-//        return (1 - LSimillarityAssoc);
-//    }
-
-//}
-
-//---------------------------------------------------------------
-
 function checkForUndefined(Ent) {
     if ((typeof value === 'undefined')) {
         return true;
     }
 }
 
-//function getDissimilarityAssocBetwnDoc(p_doc1, p_doc2) {
-
-//  var AllDoc=  G_DATA_JSON.ResponceMoreLikeDoc;
-//    //Get document index for both the items
-//    var LDocData =AllDoc,
-//        Ldoc1Index = -1,
-//        Ldoc2Index = -1;
-
-//    for (var LLoopIndex = 0; LLoopIndex < LDocData.length; LLoopIndex++) {
-//        var LObj = LDocData[LLoopIndex];
-
-//        if (LObj.Filename == p_doc2) {
-//     
-//        return LObj.Score;
-//            
-//        }
-//      }
-//}
-
-
 
 
 function getDissimilarityAssocBetwnDoc(p_doc1, count) {
-    
-    //getDocumentAssociationData();
-    //var AllDoc = G_DATA_JSON.ResponceMoreLikeDoc;
-    //Get document index for both the items
-
-    //var AllDoc = G_DATA_JSON.DOC_ASSOC_MATRIX_New;
-    //    var LDocData = AllDoc["czs9ix/node/"+p_doc1+""].docs,
-    //var LDocData = AllDoc["czs9ix/node/10192"].docs;
     var LDocData = G_DATA_JSON.DOC_ASSOC_MATRIX_New;
-
-    //for (var LLoopIndex = 0; LLoopIndex < LDocData.length; LLoopIndex++) {
     var LObj = LDocData[count];
             return LObj.score;
-    //}
 }
 
 
@@ -226,7 +131,7 @@ function LoadJsonData(search_word, fn) {
 //                fn(G_DATA_JSON.WORD_DOC_LOAD);
            // }
 
-           
+   
     d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
 
         G_DATA_JSON.WORD_DOC_LOAD = p_data;
