@@ -159,7 +159,6 @@ function clsTimeLineGenerator(p_Config) {
         var ducumentID = [];
         var MoreLikeTisDoc = [];
         for (var LLoopIndex = 0; LLoopIndex < LMJsonData.response.docs.length; LLoopIndex++) {
-
             var LDoc = LMJsonData.response.docs[LLoopIndex],
                     LDocumentName = LDoc.label,
                     LDocumentTitle = LDoc.teaser,
@@ -173,7 +172,7 @@ function clsTimeLineGenerator(p_Config) {
                     LDocTermFreq = LDoc["termfreq(content,'" + SearchWord + "')"],
                     LDOCTF = LDoc["tf(content,'" + SearchWord + "')"];
             //LDocumentkeywordOccurances = LDoc.tf(content, 'peace');
-
+          
 
             var LDocumentCircleData = {
                 Filename: LDocumentName,
@@ -260,7 +259,7 @@ function clsTimeLineGenerator(p_Config) {
         //G_DATA_JSON.ResponceDoc = LScatterChartData;
 
         // LMe.LoadMoreLikethisDoc();
-       
+
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
@@ -725,9 +724,9 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     //---------------------------------------------------------------
     LMe.getRadiusOfScatterBubble = function (d, p_ForKeyword) {
-
+        
         return d.LSize;
-    
+
     };
 
 
@@ -736,13 +735,17 @@ function clsTimeLineGenerator(p_Config) {
     LMe.addKeyWordToGraph = function (p_Keyword) {
 
         LoadJsonData(p_Keyword, function (p_assocData) {
+
             LMe.DateValue();
+
             LMe.initializeTimeLine();
             //Draw the frequency data line for a keyword
-            LMe.drawKeywordFreqChartForKeyword(p_Keyword);
 
+            LMe.drawKeywordFreqChartForKeyword(p_Keyword);
+            delete LMe.frequencyChartLinesData[p_Keyword];
             //add documents circle contaning the keyword
             //LMe.addDocumentCirclesForKeyword(p_Keyword);
+           
             LMe.prepareScatterChart();
             LMe.keywordList.push(p_Keyword);
             console.log(LMe.keywordList);
@@ -1309,9 +1312,9 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.drawKeywordFreqChartForKeyword = function (p_Keyword) {
-       
+      
         function L_GetDataForGeneratingLine() {
-
+           
             var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
                 LResult = [];
 
@@ -1354,7 +1357,7 @@ function clsTimeLineGenerator(p_Config) {
             return dataArrayTest;
         }
 
-
+      
         var LLineData = L_GetDataForGeneratingLine();
         LMe.frequencyChartLinesData[p_Keyword] = LLineData;
         LMe.updateKeywordFrequencyLines();
@@ -1362,7 +1365,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.updateKeywordFrequencyLines = function () {
-       
+     
         var LMin = 0,
             LMax = 0;
         //-----
@@ -1388,7 +1391,7 @@ function clsTimeLineGenerator(p_Config) {
                     //return x(i);
 
                     // return LMe.x(LMe.dateFormat.parse(d.datePublish));
-
+                   
                     return LMe.x(d.datePublish);
                 })
                 .y(function (d) {
@@ -1447,7 +1450,7 @@ function clsTimeLineGenerator(p_Config) {
 
                     //                    var LDate1 = LMe.dateFormat.parse(a.datePublish),
                     //                        LDate2 = LMe.dateFormat.parse(b.datePublish);
-                    
+
                     var LDate1 = a.datePublish,
                         LDate2 = b.datePublish;
                     if (LDate1 < LDate2) {

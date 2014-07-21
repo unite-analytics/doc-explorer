@@ -96,6 +96,7 @@ function bootstrap() {
     var LwordListConfig = {
         divId: "word-list-cntnr-chrt",
         onAddKeyWord: function (p_Keyword) {
+           
             d3.selectAll("line").remove();
             d3.selectAll("circle").remove();
             //d3.select("#wordFreqFhrtSvg").remove();
@@ -103,6 +104,9 @@ function bootstrap() {
             LTimeLineGenerator.hideSlider();
             LTimeLineGenerator.documentViewMode = "timeline_view";
             LTimeLineGenerator.focussedCircle = null;
+            //LTimeLineGenerator.frequencyChartLinesData[p_Keyword]=null;
+            //LMe.frequencyChartLinesData= null;
+           // LTimeLineGenerator.updateKeywordFrequencyLines();
             LTimeLineGenerator.addKeyWordToGraph(p_Keyword);
 
         },
