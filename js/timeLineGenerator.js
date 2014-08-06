@@ -95,7 +95,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.initializeTimeLine = function () {
-        
+
         //LMe.DateValue();
         //Draw the scales
         LMe.drawGraphScales();
@@ -158,11 +158,11 @@ function clsTimeLineGenerator(p_Config) {
         var docArrayofResponce = [];
         var ducumentID = [];
         var MoreLikeTisDoc = [];
+
         for (var LLoopIndex = 0; LLoopIndex < LMJsonData.response.docs.length; LLoopIndex++) {
             var LDoc = LMJsonData.response.docs[LLoopIndex],
                     LDocumentName = LDoc.label,
                     LDocumentTitle = LDoc.teaser,
-                    LDocumentDate = dateparse.parse(LDoc.publicationDate),
                     LSize = LDoc["tf(content,'" + SearchWord + "')"],
                     LEntity_Id = LDoc.entity_id,
                     LDocument_Type = LDoc.sm_field_document_type,
@@ -171,8 +171,14 @@ function clsTimeLineGenerator(p_Config) {
                     LDocScore = LDoc.score,
                     LDocTermFreq = LDoc["termfreq(content,'" + SearchWord + "')"],
                     LDOCTF = LDoc["tf(content,'" + SearchWord + "')"];
-            //LDocumentkeywordOccurances = LDoc.tf(content, 'peace');
-          
+            try {
+                var LDocumentDate = dateparse.parse(LDoc.publicationDate);
+
+            } catch (e) {
+                
+
+            }
+
 
             var LDocumentCircleData = {
                 Filename: LDocumentName,
@@ -256,17 +262,13 @@ function clsTimeLineGenerator(p_Config) {
             LScatterChartData.push(LObj);
 
         }
-        //G_DATA_JSON.ResponceDoc = LScatterChartData;
 
-        // LMe.LoadMoreLikethisDoc();
 
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
     //-----Load more like this doc
     LMe.LoadMoreLikethisDoc = function () {
-
-        //var LUnorderedScatterChartData122 = G_DATA_JSON.DOC_DATA;
 
         var LUnorderedScatterChartData = G_DATA_JSON.MoreLikeThisDoc;
         var LScatterChartData = [],
@@ -346,7 +348,7 @@ function clsTimeLineGenerator(p_Config) {
 
         // var AllDoc = responceDoc.concat(morelikethisdoc);
         G_DATA_JSON.ResponceMoreLikeDoc = AllDoc;
-       
+
         LMe.addScatterChartCircle(AllDoc);
     }
 
@@ -560,7 +562,7 @@ function clsTimeLineGenerator(p_Config) {
         //var LTxt = LSortedDocumentData.length + " document results";
         var LTxt = "";
         LMe.scatterChartText.text(LTxt);
-       
+
         //Check if there is central document selected
         //LMe.generateTimeLineViewForCentralCircle()
         if (!LMe.focussedCircle) {
@@ -599,7 +601,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.timeLineViewDrawAssociationLines = function () {
-      
+
         //getDocumentAssociationData();
         //Central circle is present so draw time lines
         // getDocumentAssociationMatrixData123(function (p_assocData) {
@@ -669,7 +671,7 @@ function clsTimeLineGenerator(p_Config) {
 
 
                 console.log(LCentralDocName + " vs " + d.Filename);
-                
+
                 var LAssocValue = getDissimilarityAssocBetwnDoc(LCentralDocNameTest, count),
 
                     LObj = {};
@@ -724,7 +726,6 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     //---------------------------------------------------------------
     LMe.getRadiusOfScatterBubble = function (d, p_ForKeyword) {
-        
         return d.LSize;
 
     };
@@ -745,7 +746,7 @@ function clsTimeLineGenerator(p_Config) {
             delete LMe.frequencyChartLinesData[p_Keyword];
             //add documents circle contaning the keyword
             //LMe.addDocumentCirclesForKeyword(p_Keyword);
-           
+
             LMe.prepareScatterChart();
             LMe.keywordList.push(p_Keyword);
             console.log(LMe.keywordList);
@@ -823,7 +824,7 @@ function clsTimeLineGenerator(p_Config) {
             //tooltip is going out of screen
             LToolTipTop = LPageY;
         }
-       
+
 
         if (LToolTipLeft < 0) {
             LToolTipLeft = 30;
@@ -860,7 +861,7 @@ function clsTimeLineGenerator(p_Config) {
 
                 //hide the slider
                 LMe.hideSlider();
-               
+
                 if (LMe.documentViewMode == "timeline_view") {
                     //The visualization is in timeline view
                     //Remove all the associations
@@ -903,7 +904,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.generateTimeLineViewForCentralCircle = function (p_recomputedata) {
-        
+
         if (p_recomputedata == true) {
 
             //compute the data and also draw the chart again
@@ -1016,12 +1017,12 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.generateAssociationViewForCentralCircle = function () {
 
-       
+
         var LCenterCircleData = LMe.focussedCircle;
         var DocEntity_ID = LCenterCircleData.Entity_Id;
         getDocumentAssociationData(DocEntity_ID, function (p_assocData) {
             //-------------------------------
-           
+
             var LAssociationViewData = [],
                 LLinks = [],
                 LIndex = 0,
@@ -1087,7 +1088,7 @@ function clsTimeLineGenerator(p_Config) {
             for (var LLoopIndex = 0; LLoopIndex < LAssociationViewData.length; LLoopIndex++) {
                 var LDocCol,
                     LBubble = LAssociationViewData[LLoopIndex];
-               
+
                 var LValue = LAssocValue = getDissimilarityAssocBetwnDoc(LFocusedDocEntityID, LLoopIndex);
                 LBubble.associationVal = LValue;
                 var LObj = { "source": LSourceIndex, "target": LLoopIndex, "value": LValue };
@@ -1235,12 +1236,12 @@ function clsTimeLineGenerator(p_Config) {
 
         G_DATA_JSON.WORD_DOC_LOAD = null;
         //LMe.drawKeywordFreqChartForKeyword(p_Keyword);
-       
+
         //LMe.initializeTimeLine();
         delete LMe.frequencyChartLinesData[p_Keyword];
         //LMe.frequencyChartLinesData= null;
         LMe.updateKeywordFrequencyLines();
-      
+
         //add documents circle contaning the keyword
         LMe.removeDocumentCirclesForKeyword(p_Keyword);
 
@@ -1274,7 +1275,7 @@ function clsTimeLineGenerator(p_Config) {
             //Documents are in association view
             LMe.generateAssociationViewForCentralCircle();
         }
-    }; 
+    };
 
     //---------------------------------------------------------------
     LMe.removeDocumentCirclesForKeyword = function (p_Keyword) {
@@ -1306,15 +1307,15 @@ function clsTimeLineGenerator(p_Config) {
                 LLoopIndex--;
             }
         }
-       
+
         LMe.addScatterChartCircle(LScatterChartData);
     };
 
     //---------------------------------------------------------------
     LMe.drawKeywordFreqChartForKeyword = function (p_Keyword) {
-      
+
         function L_GetDataForGeneratingLine() {
-           
+
             var LMTest = G_DATA_JSON.WORD_DOC_LOAD,
                 LResult = [];
 
@@ -1332,8 +1333,11 @@ function clsTimeLineGenerator(p_Config) {
                     Date: dateparse.parse(key),
                     Value: LKeywordIndexTest[key]
                 }
-
-                dataArray.push(test);
+                if (test.Date != null) {
+                   
+                    dataArray.push(test);
+                }
+                //                dataArray.push(test);
             }
 
 
@@ -1357,7 +1361,7 @@ function clsTimeLineGenerator(p_Config) {
             return dataArrayTest;
         }
 
-      
+
         var LLineData = L_GetDataForGeneratingLine();
         LMe.frequencyChartLinesData[p_Keyword] = LLineData;
         LMe.updateKeywordFrequencyLines();
@@ -1365,7 +1369,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.updateKeywordFrequencyLines = function () {
-     
+
         var LMin = 0,
             LMax = 0;
         //-----
@@ -1391,7 +1395,7 @@ function clsTimeLineGenerator(p_Config) {
                     //return x(i);
 
                     // return LMe.x(LMe.dateFormat.parse(d.datePublish));
-                   
+
                     return LMe.x(d.datePublish);
                 })
                 .y(function (d) {
@@ -1743,7 +1747,7 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.handleOnBrush = function () {
         ///var LBrushExtend = LMe.brush.extend();
-       
+
         var LBrushExtend = LMe.brush.extent(),
         LLowerDate = LBrushExtend[0],
         LUpperDate = LBrushExtend[1];
@@ -1817,7 +1821,7 @@ function clsTimeLineGenerator(p_Config) {
     LMe.drawDocumentScatterChart = function (p_Data) {
         //Generate data for scatter chart
         var LScatterChartData = LMe.generateDataForScatterChart(p_Data); //LMe.ScatterPlotCircles.data();
-     
+
         LMe.ScatterPlot = d3.select("#" + LMe.svgId).append('g');
         LMe.ScatterPlotCircles = LMe.ScatterPlot.selectAll('circle')
             .data(LScatterChartData)
@@ -2123,7 +2127,7 @@ function clsTimeLineGenerator(p_Config) {
         var LCircle = d3.select(this);
         LCircle.style("display", "block");
         });*/
-        
+
         LMe.addScatterChartCircle(LMe.currentDataChart);
     };
 
@@ -2258,7 +2262,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.removeAssociationViewData = function () {
-        LMe.force.stop();
+        //LMe.force.stop();
 
         LMe.svg.selectAll(".link")
             .data([]).exit().remove();
@@ -2319,12 +2323,12 @@ function clsTimeLineGenerator(p_Config) {
                 var LButtonText = LBtnTxt.text();
                 if (LButtonText == "Association View") {
                     LBtnTxt.text("Timeline View");
-                   
+
                     LMe.switchViewToAssociationView();
                 }
                 else {
                     LBtnTxt.text("Association View");
-                  
+
                     LMe.switchViewToTimelineView();
                 }
             });
@@ -2498,124 +2502,124 @@ function clsTimeLineGenerator(p_Config) {
     };
 
     //---------------------------------------------------------------
-//    LMe.drawLegends = function () {
-//        var LDocumentTypeLegendsCntnr = LMe.svg.append("g"),
-//            LDocumentSizeLegendsCntnr = LMe.svg.append("g");
+    //    LMe.drawLegends = function () {
+    //        var LDocumentTypeLegendsCntnr = LMe.svg.append("g"),
+    //            LDocumentSizeLegendsCntnr = LMe.svg.append("g");
 
-//        var LDocTypeLegendHt = 20,
-//            LDocTypeLegendWd = 60;
+    //        var LDocTypeLegendHt = 20,
+    //            LDocTypeLegendWd = 60;
 
-//        LDocumentTypeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 50) + ")");
+    //        LDocumentTypeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 50) + ")");
 
-//        LDocumentTypeLegendsCntnr.append("rect")
-//            .attr("height", 160)
-//            .attr("width", 123)
-//            .attr("fill", "#6B6B6B");
+    //        LDocumentTypeLegendsCntnr.append("rect")
+    //            .attr("height", 160)
+    //            .attr("width", 123)
+    //            .attr("fill", "#6B6B6B");
 
-//        LDocumentTypeLegendsCntnr.append("text")
-//            .attr("x", 10)
-//            .attr("y", 22)
-//            .attr("class", "legend-doc-type-title")
-//            .text("Document")
-//            .append("tspan")
-//            .attr("x", 10)
-//            .attr("y", 37)
-//            .text("Type Filter");
+    //        LDocumentTypeLegendsCntnr.append("text")
+    //            .attr("x", 10)
+    //            .attr("y", 22)
+    //            .attr("class", "legend-doc-type-title")
+    //            .text("Document")
+    //            .append("tspan")
+    //            .attr("x", 10)
+    //            .attr("y", 37)
+    //            .text("Type Filter");
 
-//        //Create legends for document type
-//        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(G_DOCUMENT_TYPE);
-//        var LG = LLegends.enter().append("g")
-//            .attr("class", "doc-type-legend-group")
-//            .attr("transform", function (d, i) {
-//                d.isSelected = true;
-//                return "translate(0," + (45 + i * LDocTypeLegendHt) + ")";
-//            })
-//            .on("click", function (d) {
-//                var LLegendGroup = d3.select(this);
-//                if (d.isSelected) {
-//                    //unselect the type
-//                    d.isSelected = false;
-//                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", true);
-//                }
-//                else {
-//                    //select the type
-//                    d.isSelected = true;
-//                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", false);
-//                }
+    //        //Create legends for document type
+    //        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(G_DOCUMENT_TYPE);
+    //        var LG = LLegends.enter().append("g")
+    //            .attr("class", "doc-type-legend-group")
+    //            .attr("transform", function (d, i) {
+    //                d.isSelected = true;
+    //                return "translate(0," + (45 + i * LDocTypeLegendHt) + ")";
+    //            })
+    //            .on("click", function (d) {
+    //                var LLegendGroup = d3.select(this);
+    //                if (d.isSelected) {
+    //                    //unselect the type
+    //                    d.isSelected = false;
+    //                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", true);
+    //                }
+    //                else {
+    //                    //select the type
+    //                    d.isSelected = true;
+    //                    LLegendGroup.select("rect").classed("doc-type-legend-rect-unselected", false);
+    //                }
 
-//                if (LMe.documentViewMode == "timeline_view") {
-//                    LMe.generateTimeLineViewForCentralCircle();
-//                }
-//                else if (LMe.documentViewMode == "association_view") {
-//                    LMe.generateAssociationViewForCentralCircle();
-//                }
-//            });
+    //                if (LMe.documentViewMode == "timeline_view") {
+    //                    LMe.generateTimeLineViewForCentralCircle();
+    //                }
+    //                else if (LMe.documentViewMode == "association_view") {
+    //                    LMe.generateAssociationViewForCentralCircle();
+    //                }
+    //            });
 
-//        LG.append("rect")
-//            .attr("width", 15)
-//            .attr("height", 15)
-//            .attr("rx", 5)
-//            .attr("ry", 5)
-//            .attr("x", 10)
-//            .attr("y", 5)
-//            .attr("class", "doc-type-legend-rect");
+    //        LG.append("rect")
+    //            .attr("width", 15)
+    //            .attr("height", 15)
+    //            .attr("rx", 5)
+    //            .attr("ry", 5)
+    //            .attr("x", 10)
+    //            .attr("y", 5)
+    //            .attr("class", "doc-type-legend-rect");
 
-//        LG.append("text")
-//            .text(function (d) {
-//                return d.typeName
-//            })
-//            .attr("x", 30)
-//            .attr("y", 15)
-//            .attr("class", "doc-type-legend-txt");
+    //        LG.append("text")
+    //            .text(function (d) {
+    //                return d.typeName
+    //            })
+    //            .attr("x", 30)
+    //            .attr("y", 15)
+    //            .attr("class", "doc-type-legend-txt");
 
 
-//        //add the circle size legend box
-//        LDocumentSizeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 220) + ")");
+    //        //add the circle size legend box
+    //        LDocumentSizeLegendsCntnr.attr("transform", "translate(" + (LMe.width - 120) + "," + (LMe.timelineHeight + 220) + ")");
 
-//        LDocumentSizeLegendsCntnr.append("rect")
-//            .attr("height", 160)
-//            .attr("width", 119)
-//            .attr("fill", "none")
-//            .attr("stroke", "#6B6B6B");
+    //        LDocumentSizeLegendsCntnr.append("rect")
+    //            .attr("height", 160)
+    //            .attr("width", 119)
+    //            .attr("fill", "none")
+    //            .attr("stroke", "#6B6B6B");
 
-//        LDocumentSizeLegendsCntnr.append("text")
-//            .attr("x", 10)
-//            .attr("y", 22)
-//            .attr("class", "legend-doc-type-title")
-//            .text("Legend");
+    //        LDocumentSizeLegendsCntnr.append("text")
+    //            .attr("x", 10)
+    //            .attr("y", 22)
+    //            .attr("class", "legend-doc-type-title")
+    //            .text("Legend");
 
-//        var LDocSizeLegends = LDocumentSizeLegendsCntnr.selectAll(".doc-size-legend-group").data(G_DOCUMENT_CIRCLE_LEGENDS);
-//        var LTop = 30;
-//        var LSizeG = LDocSizeLegends.enter().append("g")
-//            .attr("class", "doc-size-legend-group")
-//            .attr("transform", function (d, i) {
-//                var LPrevTop = LTop;
-//                LTop = LTop + d.documentBubbleRadius + 20;
-//                return "translate(0," + (LPrevTop) + ")";
-//            });
+    //        var LDocSizeLegends = LDocumentSizeLegendsCntnr.selectAll(".doc-size-legend-group").data(G_DOCUMENT_CIRCLE_LEGENDS);
+    //        var LTop = 30;
+    //        var LSizeG = LDocSizeLegends.enter().append("g")
+    //            .attr("class", "doc-size-legend-group")
+    //            .attr("transform", function (d, i) {
+    //                var LPrevTop = LTop;
+    //                LTop = LTop + d.documentBubbleRadius + 20;
+    //                return "translate(0," + (LPrevTop) + ")";
+    //            });
 
-//        LSizeG.append("circle")
-//        //            .attr("cx", function(d){ return d.documentBubbleRadius + 5; })
-//            .attr("cx", function (d) { return 30; })
-//            .attr("cy", function (d) { return d.documentBubbleRadius + 5; })
-//            .attr("r", function (d) { return d.documentBubbleRadius; })
-//            .attr("class", "doc-size-legend-circle");
+    //        LSizeG.append("circle")
+    //        //            .attr("cx", function(d){ return d.documentBubbleRadius + 5; })
+    //            .attr("cx", function (d) { return 30; })
+    //            .attr("cy", function (d) { return d.documentBubbleRadius + 5; })
+    //            .attr("r", function (d) { return d.documentBubbleRadius; })
+    //            .attr("class", "doc-size-legend-circle");
 
-//        LSizeG.append("text")
-//            .text(function (d) {
-//                if (!d.max) {
-//                    return d.min + "+";
-//                }
-//                return d.min + " - " + d.max;
-//            })
-//            .attr("x", 55)
-//            .attr("y", function (d) { return d.documentBubbleRadius + 7; })
-//            .attr("class", "doc-size-legend-txt");
-//    };
+    //        LSizeG.append("text")
+    //            .text(function (d) {
+    //                if (!d.max) {
+    //                    return d.min + "+";
+    //                }
+    //                return d.min + " - " + d.max;
+    //            })
+    //            .attr("x", 55)
+    //            .attr("y", function (d) { return d.documentBubbleRadius + 7; })
+    //            .attr("class", "doc-size-legend-txt");
+    //    };
 
     //---------------------------------------------------------------
     LMe.displayDocumentDetails = function (p_DocumentDetails) {
-   
+
 
         //Display document title
         d3.select("#doc-title").text(p_DocumentDetails.DocTitle);
@@ -2640,7 +2644,7 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.showSlider = function () {
-       
+
         d3.select(".doc-assoc-slider-cntnr").style("display", "block");
         if (!LMe.btnSwitchGraphViewTxt) return;
         if (LMe.documentViewMode == "timeline_view") {
@@ -2853,10 +2857,10 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.hideAssociationLines = function () {
-        LMe.leftAssocScaleLine.attr("display", "none");
-        LMe.rightAssocScaleLine.attr("display", "none");
-        LMe.horizontantalSliderAdjustor.attr("display", "none");
-        LMe.vericalSliderAdjustor.attr("display", "none");
+        //LMe.leftAssocScaleLine.attr("display", "none");
+        //LMe.rightAssocScaleLine.attr("display", "none");
+        //LMe.horizontantalSliderAdjustor.attr("display", "none");
+        //LMe.vericalSliderAdjustor.attr("display", "none");
     };
 
     //---------------------------------------------------------------

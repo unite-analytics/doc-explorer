@@ -111,16 +111,16 @@ function getDocumentAssociationData(entity_id, fn) {
 
 
 function LoadJsonData(search_word, fn) {
-    var uri = 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=' + search_word + '&fl=label,entity_id,url,teaser,publicationDate,score,sm_field_document_type,sm_vid_Document_Subject,termfreq%28content,%27' + search_word + '%27%29,tf%28content,%27' + search_word + '%27%29,ttf%28content,%27' + search_word + '%27%29&facet=true&facet.date=publicationDate&facet.date.start=NOW/DAY-40YEARS&facet.date.end=NOW/DAY%2B1DAY&facet.date.gap=%2B1DAY&rows=366';
-
-    var SolrURL = encodeURI(uri);
-
+    //var uri = 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=' + search_word + '&fl=label,entity_id,url,teaser,publicationDate,score,sm_field_document_type,sm_vid_Document_Subject,termfreq%28content,%27' + search_word + '%27%29,tf%28content,%27' + search_word + '%27%29,ttf%28content,%27' + search_word + '%27%29&facet=true&facet.date=publicationDate&facet.date.start=NOW/DAY-40YEARS&facet.date.end=NOW/DAY%2B1DAY&facet.date.gap=%2B1DAY&rows=366';
+    
+    //var SolrURL = encodeURI(uri);
+   
     //data for slor search
     //        $.ajax({
 
     //               'url': SolrURL,
 
-    //         //   url: 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=true',
+    //         
     //            //'data': { 'entity_id': 'entity_id', 'q': 'your search goes here' },
     //            'success': function (data) {
     //                var data = eval(data);
@@ -131,13 +131,15 @@ function LoadJsonData(search_word, fn) {
     //        });
 
     //        function LoadData(data) {
-    //            debugger;
+    //          
     //            G_DATA_JSON.WORD_DOC_LOAD = data;
     //                //LMe.DateValue();
     //            fn(G_DATA_JSON.WORD_DOC_LOAD);
-    //            debugger;
+    
     //            }
 
+
+   
     if (search_word == 'budget') {
         d3.json("data/un_search-budget.json", function (p_data) {
 
