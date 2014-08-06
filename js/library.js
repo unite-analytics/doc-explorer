@@ -139,6 +139,26 @@ function LoadJsonData(search_word, fn) {
     //            }
 
 
+
+   
+//    var surl = "http://drupal.trigyn.com/ptd/d726/drupal/unpd-ws/eoi/getEOICommodityGroups.json";
+//    $.ajax({
+//        type: 'GET',
+//        url: surl,
+//        crossDomain: true,
+//        contentType: "application/json; charset=utf-8",
+//        data: {  },
+//        dataType: "jsonp",
+//        success: function (msg) {
+//            $.each(msg, function (name, value) {
+//                alert(value);
+//            });
+//        },
+//        error: function (xhr, status, error) { alert('Servidor de error 404 !!'); },
+//        async: false,
+//        cache: false
+//    });
+
    
     if (search_word == 'budget') {
         d3.json("data/un_search-budget.json", function (p_data) {
