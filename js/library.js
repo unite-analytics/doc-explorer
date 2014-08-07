@@ -70,132 +70,112 @@ function getDissimilarityAssocBetwnDoc(p_doc1, count) {
 
 
 function getDocumentAssociationData(entity_id, fn) {
+    var surl = 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=peace+entity_id:' + entity_id + '&fl=label,entity_id,score&mlt=true&mlt.fl=content&mlt.mindf=1&mlt.mintf=1&mlt.count=366&rows=1';
 
-    // use when get data from solr based on entity id
-    //    $.ajax({
+    $.ajax({
+        type: 'GET',
+        url: surl,
+        crossDomain: true,
+        data: {},
+        dataType: "jsonp",
+        jsonp: 'json.wrf',
+        success: function (data) {
+            var data = eval(data);
+            LoadjsonData(data)
+        },
+        error: function (xhr, status, error) {
+            // alert('Servidor de error 404 !!');
+        },
+        async: false,
+        cache: false
+    });
 
-    //        'url': 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=peace+entity_id:' + entity_id + '&fl=label,entity_id,score&mlt=true&mlt.fl=content&mlt.mindf=1&mlt.mintf=1&mlt.count=366&rows=1',
-    //        //'url': 'http://tgn254:8088/solr/collection1/select?q=*%3A*&wt=json&indent=' + entity_id,
-    //        'data': { 'entity_id': entity_id, 'q': 'your search goes here' },
-    //        'success': function (data) {
-    //            var data = eval(data);
-    //            LoadjsonData(data)
-    //        },
-    //        'dataType': 'jsonp',
-    //        'jsonp': 'json.wrf'
-    //    });
 
-
-    //    function LoadjsonData(data) {
-    //       
-    //        G_DATA_JSON.DOC_ASSOC_MATRIX_New = data.moreLikeThis["czs9ix/node/"+entity_id+""].docs;
-    //        fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
-    //    }
+    function LoadjsonData(data) {
+            G_DATA_JSON.DOC_ASSOC_MATRIX_New = data.moreLikeThis["czs9ix/node/"+entity_id+""].docs;
+            fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
+        }
 
 
 
     // for local use
-    if (!G_DATA_JSON.DOC_ASSOC_MATRIX_New) {
+//    if (!G_DATA_JSON.DOC_ASSOC_MATRIX_New) {
 
-        //The data is not loaded load the function
-        d3.json("data/acabq-query-onlyMoreLikeThis_new.json", function (p_data) {
-            //            G_DATA_JSON.DOC_ASSOC_MATRIX_New = p_data.moreLikeThis["czs9ix/node/" + entity_id + ""].docs;
-            G_DATA_JSON.DOC_ASSOC_MATRIX_New = p_data.moreLikeThis["czs9ix/node/10192"].docs;
-            fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
-        });
-    }
-    else {
-        fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
-    }
+//        //The data is not loaded load the function
+//        d3.json("data/acabq-query-onlyMoreLikeThis_new.json", function (p_data) {
+//            //            G_DATA_JSON.DOC_ASSOC_MATRIX_New = p_data.moreLikeThis["czs9ix/node/" + entity_id + ""].docs;
+//            G_DATA_JSON.DOC_ASSOC_MATRIX_New = p_data.moreLikeThis["czs9ix/node/10192"].docs;
+//            fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
+//        });
+//    }
+//    else {
+//        fn(G_DATA_JSON.DOC_ASSOC_MATRIX_New);
+//    }
 }
 
 
 function LoadJsonData(search_word, fn) {
-    //var uri = 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=' + search_word + '&fl=label,entity_id,url,teaser,publicationDate,score,sm_field_document_type,sm_vid_Document_Subject,termfreq%28content,%27' + search_word + '%27%29,tf%28content,%27' + search_word + '%27%29,ttf%28content,%27' + search_word + '%27%29&facet=true&facet.date=publicationDate&facet.date.start=NOW/DAY-40YEARS&facet.date.end=NOW/DAY%2B1DAY&facet.date.gap=%2B1DAY&rows=366';
+    search_word = encodeURI(search_word);
+   var surl = 'http://int-srch.un.org:8983/solr/acabq/un_search/?q=' + search_word + '&fl=label,entity_id,url,teaser,publicationDate,score,sm_field_document_type,sm_vid_Document_Subject,termfreq%28content,%27' + search_word + '%27%29,tf%28content,%27' + search_word + '%27%29,ttf%28content,%27' + search_word + '%27%29&facet=true&facet.date=publicationDate&facet.date.start=NOW/DAY-40YEARS&facet.date.end=NOW/DAY%2B1DAY&facet.date.gap=%2B1DAY&rows=366';
+      $.ajax({
+          type: 'GET',
+          url: surl,
+          crossDomain: true,   
+          data: {},
+          dataType: "jsonp",
+          jsonp: 'json.wrf',
+          success: function (data) {
+              var data = eval(data);
+              LoadData(data)
+          },
+          error: function (xhr, status, error) {
+             // alert('Servidor de error 404 !!');
+          },
+          async: false,
+          cache: false
+      });
+       function LoadData(data) {
+                G_DATA_JSON.WORD_DOC_LOAD = data;
+                fn(G_DATA_JSON.WORD_DOC_LOAD);
     
-    //var SolrURL = encodeURI(uri);
+                }
    
-    //data for slor search
-    //        $.ajax({
+//    if (search_word == 'budget') {
+//        d3.json("data/un_search-budget.json", function (p_data) {
 
-    //               'url': SolrURL,
+//            G_DATA_JSON.WORD_DOC_LOAD = p_data;
+//            //LMe.DateValue();
+//            //G_DATA_JSON.DOCAssoc = 1;
+//            fn(G_DATA_JSON.WORD_DOC_LOAD);
+//        });
+//    }
+//    else if (search_word == 'war') {
+//        d3.json("data/un_search-war.json", function (p_data) {
 
-    //         
-    //            //'data': { 'entity_id': 'entity_id', 'q': 'your search goes here' },
-    //            'success': function (data) {
-    //                var data = eval(data);
-    //                LoadData(data)
-    //            },
-    //            'dataType': 'jsonp',
-    //            'jsonp': 'json.wrf'
-    //        });
+//            G_DATA_JSON.WORD_DOC_LOAD = p_data;
+//            //LMe.DateValue();
+//            //G_DATA_JSON.DOCAssoc = 1;
+//            fn(G_DATA_JSON.WORD_DOC_LOAD);
+//        });
+//    }
+//    else if (search_word == 'armed conflict') {
+//        d3.json("data/Armed.json", function (p_data) {
 
-    //        function LoadData(data) {
-    //          
-    //            G_DATA_JSON.WORD_DOC_LOAD = data;
-    //                //LMe.DateValue();
-    //            fn(G_DATA_JSON.WORD_DOC_LOAD);
-    
-    //            }
+//            G_DATA_JSON.WORD_DOC_LOAD = p_data;
+//            //LMe.DateValue();
+//            //G_DATA_JSON.DOCAssoc = 1;
+//            fn(G_DATA_JSON.WORD_DOC_LOAD);
+//        });
+//    }
+//    else if (search_word == 'peace') {
+//        d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
 
-
-
-   
-//    var surl = "http://drupal.trigyn.com/ptd/d726/drupal/unpd-ws/eoi/getEOICommodityGroups.json";
-//    $.ajax({
-//        type: 'GET',
-//        url: surl,
-//        crossDomain: true,
-//        contentType: "application/json; charset=utf-8",
-//        data: {  },
-//        dataType: "jsonp",
-//        success: function (msg) {
-//            $.each(msg, function (name, value) {
-//                alert(value);
-//            });
-//        },
-//        error: function (xhr, status, error) { alert('Servidor de error 404 !!'); },
-//        async: false,
-//        cache: false
-//    });
-
-   
-    if (search_word == 'budget') {
-        d3.json("data/un_search-budget.json", function (p_data) {
-
-            G_DATA_JSON.WORD_DOC_LOAD = p_data;
-            //LMe.DateValue();
-            //G_DATA_JSON.DOCAssoc = 1;
-            fn(G_DATA_JSON.WORD_DOC_LOAD);
-        });
-    }
-    else if (search_word == 'war') {
-        d3.json("data/un_search-war.json", function (p_data) {
-
-            G_DATA_JSON.WORD_DOC_LOAD = p_data;
-            //LMe.DateValue();
-            //G_DATA_JSON.DOCAssoc = 1;
-            fn(G_DATA_JSON.WORD_DOC_LOAD);
-        });
-    }
-    else if (search_word == 'armed conflict') {
-        d3.json("data/Armed.json", function (p_data) {
-
-            G_DATA_JSON.WORD_DOC_LOAD = p_data;
-            //LMe.DateValue();
-            //G_DATA_JSON.DOCAssoc = 1;
-            fn(G_DATA_JSON.WORD_DOC_LOAD);
-        });
-    }
-    else if (search_word == 'peace') {
-        d3.json("data/acabq-query-peace-loadLineAndScatter.json", function (p_data) {
-
-            G_DATA_JSON.WORD_DOC_LOAD = p_data;
-            //LMe.DateValue();
-            //G_DATA_JSON.DOCAssoc = 1;
-            fn(G_DATA_JSON.WORD_DOC_LOAD);
-        });
-    }
+//            G_DATA_JSON.WORD_DOC_LOAD = p_data;
+//            //LMe.DateValue();
+//            //G_DATA_JSON.DOCAssoc = 1;
+//            fn(G_DATA_JSON.WORD_DOC_LOAD);
+//        });
+//    }
 
 }
 

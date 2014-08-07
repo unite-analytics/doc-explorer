@@ -751,7 +751,9 @@ function clsTimeLineGenerator(p_Config) {
             LMe.keywordList.push(p_Keyword);
             console.log(LMe.keywordList);
 
+            
             LMe.switchViewToTimelineView();
+            
             //LMe.addScatterChartCircle(p_Keyword);
             //LMe.generateTimeLineViewForCentralCircle();
             /*if(! LMe.focussedCircle)
@@ -2857,10 +2859,10 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.hideAssociationLines = function () {
-        //LMe.leftAssocScaleLine.attr("display", "none");
-        //LMe.rightAssocScaleLine.attr("display", "none");
-        //LMe.horizontantalSliderAdjustor.attr("display", "none");
-        //LMe.vericalSliderAdjustor.attr("display", "none");
+        LMe.leftAssocScaleLine.attr("display", "none");
+        LMe.rightAssocScaleLine.attr("display", "none");
+        LMe.horizontantalSliderAdjustor.attr("display", "none");
+        LMe.vericalSliderAdjustor.attr("display", "none");
     };
 
     //---------------------------------------------------------------
