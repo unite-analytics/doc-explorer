@@ -254,3 +254,15 @@ svg {
     font-size : 1em;
     font-weight : lighter;
 }
+
+#screen-mask{
+    height: 100%;
+    width: 100%;
+    opacity: 0.75;
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    background: #000000 url(../img/page-loading.gif) no-repeat center center;
+}

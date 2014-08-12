@@ -21,7 +21,8 @@ var G_DATA_JSON = {
     DOCAssoc: null,
     MoreLikeThisDoc: [],
     ResponceDoc: [],
-    ResponceMoreLikeDoc: []
+    ResponceMoreLikeDoc: [],
+    DOC_RADIUS_DATA: []
 
 }
 

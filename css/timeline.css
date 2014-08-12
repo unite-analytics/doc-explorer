@@ -274,7 +274,8 @@ by rizwan
 
 /*STYLES FOR LEGEND*/
 .legend-doc-type-title{
-    fill : #FFFFFF;
+   /* fill : #FFFFFF;*/
+   fill : grey;
     font-size : 15px;
 }
 

@@ -23,6 +23,12 @@ function clsWordListGenerator(p_Config) {
         LMe.displayKeywordsFromList(true);
     };
 
+    function showMask() {
+        d3.select("#screen-mask").style("display", "block");
+    }
+    function hideMask() {
+        d3.select("#screen-mask").style("display", "none");
+    }
     //---------------------------------------------------------------
     LMe.displayKeywordsFromList = function (p_ClearAll) {
         if (p_ClearAll === true) {
@@ -36,7 +42,9 @@ function clsWordListGenerator(p_Config) {
                 .attr("Placeholder", "Search...")
                 .on("keypress", function (e) {
                     if (d3.event.keyCode == 13) {
+                        //showMask();
                         LMe.addNewKeywordToList();
+                        
                     }
                 });
 
@@ -122,7 +130,7 @@ function clsWordListGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.addNewKeywordToList = function () {
-       
+
         //var LTimeLineGenerator = new clsTimeLineGenerator(LConfig);
         var LNewKeyword = LMe.addNewKeywordEdt[0][0].value;
         LNewKeyword = LNewKeyword.trim();
@@ -131,7 +139,10 @@ function clsWordListGenerator(p_Config) {
             alert('Please enter a keyword');
             return;
         }
+        //debugger;
+        showMask();
         LMe.onAddKeyWord(LNewKeyword);
+       
     };
 
     //---------------------------------------------------------------
