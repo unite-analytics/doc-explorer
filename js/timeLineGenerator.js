@@ -179,8 +179,8 @@ function clsTimeLineGenerator(p_Config) {
 
 
             }
-
-
+            Radius = LDoc["tf(content,'" + SearchWord + "')"];
+            Radius = (Radius * 3 / 5) + 3;
             var LDocumentCircleData = {
                 Filename: LDocumentName,
                 DatePublish: LDocumentDate,
@@ -196,7 +196,8 @@ function clsTimeLineGenerator(p_Config) {
                 Document_Subject: LDocument_Subject,
                 DocumentURL: LDocumentURL,
                 TF: LDOCTF,
-                TTF: LDocTermFreq
+                TTF: LDocTermFreq,
+                DocRadius: Radius
             };
 
             //Add the frequency data to the date published
@@ -205,7 +206,7 @@ function clsTimeLineGenerator(p_Config) {
         }
 
 
-       
+
         for (var LLoopIndex = 0; LLoopIndex < docArrayofResponce.length; LLoopIndex++) {
             var ii = docArrayofResponce[LLoopIndex].Entity_Id;
             ducumentID.push(ii);
@@ -262,11 +263,12 @@ function clsTimeLineGenerator(p_Config) {
             LObj.DocumentURL = d.DocumentURL;
             LObj.TF = d.TF;
             LObj.TTF = d.TTF;
+            LObj.DocRadius = d.DocRadius;
             LScatterChartData.push(LObj);
 
         }
 
-
+       
         var docRadius = [];
         var data = LScatterChartData;
         data.forEach(function (d) {
@@ -764,13 +766,14 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     //---------------------------------------------------------------
     LMe.getRadiusOfScatterBubble = function (d, p_ForKeyword) {
-
-        if (d.LSize < 3) {
-            return 3;
-        }
-        else {
-            return d.LSize;
-        }
+        //debugger;
+        return d.DocRadius
+        //        if (d.LSize < 3) {
+        //            return 3;
+        //        }
+        //        else {
+        //            return d.LSize;
+        //        }
 
     };
 
@@ -799,7 +802,7 @@ function clsTimeLineGenerator(p_Config) {
             //            console.log(LMe.keywordList);
 
             hideMask();
-            debugger;
+            
             if (LMe.documentViewMode == "timeline_view") {
                 LMe.switchViewToTimelineView();
             }
@@ -2696,7 +2699,8 @@ function clsTimeLineGenerator(p_Config) {
                             .text("");
 
         //Create legends for document type
-        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(G_DATA_JSON.DOC_RADIUS_DATA);
+        var legendArray = [0, 5, 10];
+        var LLegends = LDocumentTypeLegendsCntnr.selectAll(".doc-type-legend-group").data(legendArray);
         var LG = LLegends.enter().append("g")
                             .attr("class", "doc-type-legend-group")
                             .attr("transform", function (d, i) {
@@ -2713,7 +2717,12 @@ function clsTimeLineGenerator(p_Config) {
                         return d + 5;
                     })
                     .attr("r", function (d) {
-                        return d;
+                        if (d == 0) {
+                            return 3;
+                        }
+                        else {
+                            return d;
+                        }
                     })
                     .attr("class", "doc-size-legend-circle");
 
