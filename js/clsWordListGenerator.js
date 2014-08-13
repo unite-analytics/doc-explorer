@@ -139,7 +139,7 @@ function clsWordListGenerator(p_Config) {
             alert('Please enter a keyword');
             return;
         }
-        //debugger;
+       
         showMask();
         LMe.onAddKeyWord(LNewKeyword);
        
