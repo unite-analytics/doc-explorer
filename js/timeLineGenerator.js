@@ -205,7 +205,7 @@ function clsTimeLineGenerator(p_Config) {
         }
 
 
-        //debugger;
+       
         for (var LLoopIndex = 0; LLoopIndex < docArrayofResponce.length; LLoopIndex++) {
             var ii = docArrayofResponce[LLoopIndex].Entity_Id;
             ducumentID.push(ii);
@@ -799,7 +799,7 @@ function clsTimeLineGenerator(p_Config) {
             //            console.log(LMe.keywordList);
 
             hideMask();
-           
+            debugger;
             if (LMe.documentViewMode == "timeline_view") {
                 LMe.switchViewToTimelineView();
             }
@@ -3047,10 +3047,12 @@ function clsTimeLineGenerator(p_Config) {
 
     //---------------------------------------------------------------
     LMe.hideAssociationLines = function () {
-        LMe.leftAssocScaleLine.attr("display", "none");
-        LMe.rightAssocScaleLine.attr("display", "none");
-        LMe.horizontantalSliderAdjustor.attr("display", "none");
-        LMe.vericalSliderAdjustor.attr("display", "none");
+        if (LMe.leftAssocScaleLine != undefined) {
+            LMe.leftAssocScaleLine.attr("display", "none");
+            LMe.rightAssocScaleLine.attr("display", "none");
+            LMe.horizontantalSliderAdjustor.attr("display", "none");
+            LMe.vericalSliderAdjustor.attr("display", "none");
+        }
     };
 
     //---------------------------------------------------------------
