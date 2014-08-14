@@ -24,7 +24,6 @@ function clsWordListGenerator(p_Config) {
     };
 
     function showMask() {
-
         d3.select("#screen-mask").style("display", "block");
     }
     function hideMask() {

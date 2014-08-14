@@ -65,7 +65,6 @@ var G_DOCUMENT_CIRCLE_LEGENDS = [{
         max: 1000,
         documentBubbleRadius: 15
     }, {
-
         min: 1000,
         documentBubbleRadius: 20
     }];

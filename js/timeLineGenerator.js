@@ -899,7 +899,6 @@ function clsTimeLineGenerator(p_Config) {
     //---------------------------------------------------------------
     LMe.documentBubbleMouseOut = function (d) {
         LMe.tooltip.style("visibility", "hidden");
-
         //        d3.select(this).transition().duration(500).style("fill",LMe.originalColor);
 
     };
