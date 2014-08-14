@@ -802,7 +802,9 @@ function clsTimeLineGenerator(p_Config) {
             //            console.log(LMe.keywordList);
 
             hideMask();
-            
+
+            var showme = document.getElementById("wordFreqFhrtSvg");
+            showme.style.visibility = "visible";
             if (LMe.documentViewMode == "timeline_view") {
                 LMe.switchViewToTimelineView();
             }

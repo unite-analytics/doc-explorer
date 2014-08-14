@@ -72,7 +72,9 @@ var G_DOCUMENT_CIRCLE_LEGENDS = [{
 //Set the hashed URL to blank
 //window.location.hash = "";
 
-function preBootstrap() {
+    function preBootstrap() {
+        var showme = document.getElementById("wordFreqFhrtSvg");
+        showme.style.visibility = "hidden";
     setTimeout(bootstrap, 200);
 }
 

@@ -139,10 +139,12 @@ function clsWordListGenerator(p_Config) {
             alert('Please enter a keyword');
             return;
         }
-       
+        var showme = document.getElementById("wordFreqFhrtSvg");
+        showme.style.visibility = "hidden";
         showMask();
+
         LMe.onAddKeyWord(LNewKeyword);
-       
+        
     };
 
     //---------------------------------------------------------------
